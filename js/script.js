@@ -62,7 +62,7 @@ function searchGames() {
       gameDiv.classList.add("result-item");
       gameDiv.innerHTML = `<strong>${
         game.gameName
-      }</strong> - Players: ${game.personas.join(", ")}`;
+      }</strong> - Explicadores: ${game.personas.join(", ")}`;
       resultsDiv.appendChild(gameDiv);
     });
   } else {
