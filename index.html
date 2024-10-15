@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Game Search & CSV Upload</title>
+    <link rel="stylesheet" href="style/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Search Section -->
+      <div class="search-container">
+        <h2>Search Games</h2>
+        <input
+          type="text"
+          id="searchBar"
+          placeholder="Search by game name"
+          onkeyup="searchGames()"
+        />
+        <div id="results"></div>
+      </div>
+
+      <!-- Upload Button -->
+      <div class="top-right">
+        <button id="uploadBtn">Upload File</button>
+      </div>
+    </div>
+
+    <!-- Modal for CSV Upload -->
+    <div id="uploadModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Upload CSV & Convert to JSON</h2>
+        <input type="file" id="csvFileInput" accept=".csv" />
+        <button onclick="convertCSV()">Convert and Save to Session</button>
+      </div>
+    </div>
+
+    <script src="js/script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  </body>
+</html>

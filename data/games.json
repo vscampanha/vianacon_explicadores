@@ -1,0 +1,3160 @@
+{
+  "games": [
+    {
+      "gameID": "428224",
+      "gameName": "1 A.M. Jailbreak",
+      "personas": []
+    },
+    {
+      "gameID": "217335",
+      "gameName": "111 Ants",
+      "personas": ["Eva Cunha"]
+    },
+    {
+      "gameID": "371947",
+      "gameName": "3 Ring Circus",
+      "personas": []
+    },
+    {
+      "gameID": "86073",
+      "gameName": "5 Second Rule",
+      "personas": []
+    },
+    {
+      "gameID": "268586",
+      "gameName": "6 nimmt! 25 Jahre",
+      "personas": ["Eva Cunha", "Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "432",
+      "gameName": "6 qui prend!",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "68448",
+      "gameName": "7 Wonders",
+      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "173346",
+      "gameName": "7 Wonders Duel",
+      "personas": ["Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "346703",
+      "gameName": "7 Wonders: Architects",
+      "personas": ["Carlos MENDES", "Márcio"]
+    },
+    {
+      "gameID": "135779",
+      "gameName": "A Fake Artist Goes to New York",
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "204592",
+      "gameName": "A Floresta Misteriosa",
+      "personas": []
+    },
+    {
+      "gameID": "257496",
+      "gameName": "A Game of Thrones: The Board Game (Second Edition) – Mother of Dragons",
+      "personas": []
+    },
+    {
+      "gameID": "65244",
+      "gameName": "A Ilha Proibida",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "253499",
+      "gameName": "A War of Whispers",
+      "personas": []
+    },
+    {
+      "gameID": "302260",
+      "gameName": "Abandon All Artichokes",
+      "personas": []
+    },
+    {
+      "gameID": "239472",
+      "gameName": "Abomination: The Heir of Frankenstein",
+      "personas": []
+    },
+    {
+      "gameID": "5",
+      "gameName": "Acquire",
+      "personas": []
+    },
+    {
+      "gameID": "4098",
+      "gameName": "Age of Steam",
+      "personas": []
+    },
+    {
+      "gameID": "422732",
+      "gameName": "Agent Avenue",
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "230085",
+      "gameName": "Agra",
+      "personas": []
+    },
+    {
+      "gameID": "383064",
+      "gameName": "AI Space Puzzle",
+      "personas": []
+    },
+    {
+      "gameID": "357563",
+      "gameName": "Akropolis",
+      "personas": [
+        "Carlos MENDES",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves"
+      ]
+    },
+    {
+      "gameID": "298635",
+      "gameName": "Alice's Garden",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "32405",
+      "gameName": "Alles Tomate!",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "359838",
+      "gameName": "Almost Innocent",
+      "personas": []
+    },
+    {
+      "gameID": "185343",
+      "gameName": "Anachrony",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "338093",
+      "gameName": "Ancient Knowledge",
+      "personas": []
+    },
+    {
+      "gameID": "358661",
+      "gameName": "Andromeda's Edge",
+      "personas": []
+    },
+    {
+      "gameID": "191572",
+      "gameName": "Animals on Board",
+      "personas": []
+    },
+    {
+      "gameID": "271530",
+      "gameName": "Ankh'or",
+      "personas": []
+    },
+    {
+      "gameID": "344105",
+      "gameName": "Anunnaki: Dawn of the Gods",
+      "personas": []
+    },
+    {
+      "gameID": "400314",
+      "gameName": "Apiary",
+      "personas": []
+    },
+    {
+      "gameID": "367662",
+      "gameName": "Applejack",
+      "personas": []
+    },
+    {
+      "gameID": "236457",
+      "gameName": "Architects of the West Kingdom",
+      "personas": []
+    },
+    {
+      "gameID": "359871",
+      "gameName": "Arcs",
+      "personas": []
+    },
+    {
+      "gameID": "419279",
+      "gameName": "Arcs: Leaders and Lore Pack",
+      "personas": []
+    },
+    {
+      "gameID": "342942",
+      "gameName": "Ark Nova",
+      "personas": []
+    },
+    {
+      "gameID": "25643",
+      "gameName": "Arkadia",
+      "personas": []
+    },
+    {
+      "gameID": "246150",
+      "gameName": "Arraial",
+      "personas": []
+    },
+    {
+      "gameID": "395375",
+      "gameName": "Art Society",
+      "personas": []
+    },
+    {
+      "gameID": "72991",
+      "gameName": "Asara",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "65200",
+      "gameName": "Asteroyds",
+      "personas": []
+    },
+    {
+      "gameID": "307844",
+      "gameName": "Atheneum: Mystic Library",
+      "personas": []
+    },
+    {
+      "gameID": "362800",
+      "gameName": "Autobahn: Kickstarter Edition",
+      "personas": []
+    },
+    {
+      "gameID": "188866",
+      "gameName": "Awkward Guests: The Walton Case",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "230802",
+      "gameName": "Azul",
+      "personas": [
+        "Carlos MENDES",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "363247",
+      "gameName": "Azul: Master Chocolatier",
+      "personas": []
+    },
+    {
+      "gameID": "287954",
+      "gameName": "Azul: Pavilhão de Verão",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "346965",
+      "gameName": "Azul: Queen's Garden",
+      "personas": []
+    },
+    {
+      "gameID": "219513",
+      "gameName": "BÃ¤renpark",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "418354",
+      "gameName": "Babylon",
+      "personas": []
+    },
+    {
+      "gameID": "340677",
+      "gameName": "Bad Company",
+      "personas": []
+    },
+    {
+      "gameID": "191925",
+      "gameName": "Bandido",
+      "personas": ["Carlos MENDES", "Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "251247",
+      "gameName": "Barrage",
+      "personas": []
+    },
+    {
+      "gameID": "152567",
+      "gameName": "Basari: Das Kartenspiel",
+      "personas": []
+    },
+    {
+      "gameID": "37111",
+      "gameName": "Battlestar Galactica: The Board Game",
+      "personas": []
+    },
+    {
+      "gameID": "299592",
+      "gameName": "Beez",
+      "personas": []
+    },
+    {
+      "gameID": "10547",
+      "gameName": "Betrayal at House on the Hill",
+      "personas": []
+    },
+    {
+      "gameID": "168435",
+      "gameName": "Between Two Cities",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "300523",
+      "gameName": "Biblios: Quill and Parchment",
+      "personas": []
+    },
+    {
+      "gameID": "277927",
+      "gameName": "Bites",
+      "personas": []
+    },
+    {
+      "gameID": "262215",
+      "gameName": "Blackout: Hong Kong",
+      "personas": []
+    },
+    {
+      "gameID": "328624",
+      "gameName": "Block Ness",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "240980",
+      "gameName": "Blood on the Clocktower",
+      "personas": []
+    },
+    {
+      "gameID": "170216",
+      "gameName": "Blood Rage",
+      "personas": []
+    },
+    {
+      "gameID": "140933",
+      "gameName": "Blueprints",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "11",
+      "gameName": "Bohnanza",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "413246",
+      "gameName": "Bomb Busters",
+      "personas": []
+    },
+    {
+      "gameID": "142267",
+      "gameName": "Bomb Squad",
+      "personas": []
+    },
+    {
+      "gameID": "372631",
+      "gameName": "Books of Time",
+      "personas": []
+    },
+    {
+      "gameID": "224517",
+      "gameName": "Brass: Birmingham",
+      "personas": []
+    },
+    {
+      "gameID": "28720",
+      "gameName": "Brass: Lancashire",
+      "personas": []
+    },
+    {
+      "gameID": "332386",
+      "gameName": "Brew",
+      "personas": []
+    },
+    {
+      "gameID": "337765",
+      "gameName": "Brian Boru: High King of Ireland",
+      "personas": []
+    },
+    {
+      "gameID": "136888",
+      "gameName": "Bruges",
+      "personas": []
+    },
+    {
+      "gameID": "275913",
+      "gameName": "Bruxelles 1897",
+      "personas": []
+    },
+    {
+      "gameID": "413548",
+      "gameName": "Builders of Sylvan Dale",
+      "personas": []
+    },
+    {
+      "gameID": "184921",
+      "gameName": "Bunny Kingdom",
+      "personas": []
+    },
+    {
+      "gameID": "284229",
+      "gameName": "Butterfly",
+      "personas": []
+    },
+    {
+      "gameID": "155362",
+      "gameName": "Ca$h 'n Guns: Second Edition",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "171499",
+      "gameName": "Cacao",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "341496",
+      "gameName": "Caesar's Empire",
+      "personas": []
+    },
+    {
+      "gameID": "284936",
+      "gameName": "CafÃ©",
+      "personas": ["Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "283155",
+      "gameName": "Calico",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "153938",
+      "gameName": "Camel Up",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "41",
+      "gameName": "Can't Stop",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "290236",
+      "gameName": "Canvas",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "328565",
+      "gameName": "Caper: Europe",
+      "personas": []
+    },
+    {
+      "gameID": "423533",
+      "gameName": "Captain Obvious",
+      "personas": []
+    },
+    {
+      "gameID": "171131",
+      "gameName": "Captain Sonar",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "822",
+      "gameName": "Carcassonne",
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "41010",
+      "gameName": "Carcassonne Junior",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "290367",
+      "gameName": "Caretos",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "231484",
+      "gameName": "Carnival of Monsters",
+      "personas": []
+    },
+    {
+      "gameID": "245934",
+      "gameName": "Carpe Diem",
+      "personas": []
+    },
+    {
+      "gameID": "826",
+      "gameName": "Cartagena",
+      "personas": []
+    },
+    {
+      "gameID": "263918",
+      "gameName": "Cartographers",
+      "personas": ["Carlos MENDES", "Pedro Alves"]
+    },
+    {
+      "gameID": "322045",
+      "gameName": "Cartographers Heroes: Collector's Edition",
+      "personas": []
+    },
+    {
+      "gameID": "295947",
+      "gameName": "Cascadia",
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "385318",
+      "gameName": "Cascadia: Landmarks",
+      "personas": []
+    },
+    {
+      "gameID": "407318",
+      "gameName": "Cascadia: Rolling Rivers",
+      "personas": []
+    },
+    {
+      "gameID": "416851",
+      "gameName": "Castle Combo",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "323614",
+      "gameName": "Castle Party",
+      "personas": []
+    },
+    {
+      "gameID": "345972",
+      "gameName": "Cat in the Box: Deluxe Edition",
+      "personas": ["Carlos MENDES", "Pedro Alves"]
+    },
+    {
+      "gameID": "13",
+      "gameName": "CATAN",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "125921",
+      "gameName": "Catan: Junior",
+      "personas": []
+    },
+    {
+      "gameID": "175117",
+      "gameName": "Celestia",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "374200",
+      "gameName": "Celtae",
+      "personas": []
+    },
+    {
+      "gameID": "232832",
+      "gameName": "Century: Golem Edition",
+      "personas": []
+    },
+    {
+      "gameID": "209685",
+      "gameName": "Century: La ruta de las especias",
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "242574",
+      "gameName": "Century: Maravillas del Oriente",
+      "personas": []
+    },
+    {
+      "gameID": "256918",
+      "gameName": "Cerberus",
+      "personas": []
+    },
+    {
+      "gameID": "2922",
+      "gameName": "Chairs",
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "359970",
+      "gameName": "Challengers!",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "142830",
+      "gameName": "Chaosmos",
+      "personas": []
+    },
+    {
+      "gameID": "47",
+      "gameName": "Chinatown",
+      "personas": []
+    },
+    {
+      "gameID": "478",
+      "gameName": "Citadels",
+      "personas": []
+    },
+    {
+      "gameID": "233247",
+      "gameName": "Civilization: A New Dawn",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "201808",
+      "gameName": "Clank!: A Deck-Building Adventure",
+      "personas": []
+    },
+    {
+      "gameID": "216132",
+      "gameName": "Clans of Caledonia",
+      "personas": []
+    },
+    {
+      "gameID": "313963",
+      "gameName": "Cloud City",
+      "personas": []
+    },
+    {
+      "gameID": "143515",
+      "gameName": "Coal Baron",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "198773",
+      "gameName": "Codenames: Pictures",
+      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "314503",
+      "gameName": "Codex Naturalis",
+      "personas": []
+    },
+    {
+      "gameID": "178900",
+      "gameName": "Código secreto",
+      "personas": [
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "224037",
+      "gameName": "Código secreto dueto",
+      "personas": []
+    },
+    {
+      "gameID": "5782",
+      "gameName": "Coloretto",
+      "personas": ["Eva Cunha", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "158899",
+      "gameName": "Colt Express",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "299027",
+      "gameName": "Colt Super Express",
+      "personas": []
+    },
+    {
+      "gameID": "171479",
+      "gameName": "Commissioned",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "118174",
+      "gameName": "Compounded",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "147151",
+      "gameName": "Concept",
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "124361",
+      "gameName": "Concordia",
+      "personas": []
+    },
+    {
+      "gameID": "202564",
+      "gameName": "Cookie Box",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "269725",
+      "gameName": "Corinth",
+      "personas": []
+    },
+    {
+      "gameID": "194100",
+      "gameName": "Costa Rica",
+      "personas": []
+    },
+    {
+      "gameID": "131357",
+      "gameName": "Coup",
+      "personas": []
+    },
+    {
+      "gameID": "402283",
+      "gameName": "Courtisans",
+      "personas": []
+    },
+    {
+      "gameID": "8172",
+      "gameName": "Coyote",
+      "personas": []
+    },
+    {
+      "gameID": "300753",
+      "gameName": "Cross Clues",
+      "personas": []
+    },
+    {
+      "gameID": "256570",
+      "gameName": "Crown of Emara",
+      "personas": []
+    },
+    {
+      "gameID": "250442",
+      "gameName": "Crypt",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "246784",
+      "gameName": "Cryptid",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "30380",
+      "gameName": "Cuba",
+      "personas": []
+    },
+    {
+      "gameID": "245476",
+      "gameName": "CuBirds",
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "298069",
+      "gameName": "Cubitos",
+      "personas": []
+    },
+    {
+      "gameID": "54998",
+      "gameName": "Cyclades",
+      "personas": []
+    },
+    {
+      "gameID": "155820",
+      "gameName": "Cyclades: Titans",
+      "personas": []
+    },
+    {
+      "gameID": "286158",
+      "gameName": "D.E.I.: Divide et Impera",
+      "personas": []
+    },
+    {
+      "gameID": "322289",
+      "gameName": "Darwin's Journey",
+      "personas": []
+    },
+    {
+      "gameID": "149155",
+      "gameName": "Dead Man's Draw",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "245197",
+      "gameName": "Deadwood 1876",
+      "personas": []
+    },
+    {
+      "gameID": "225694",
+      "gameName": "Decrypto",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "376747",
+      "gameName": "Deep Dive",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "169654",
+      "gameName": "Deep Sea Adventure",
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "217321",
+      "gameName": "Déjà Vu",
+      "personas": []
+    },
+    {
+      "gameID": "256788",
+      "gameName": "Detective Club",
+      "personas": []
+    },
+    {
+      "gameID": "162082",
+      "gameName": "Deus",
+      "personas": []
+    },
+    {
+      "gameID": "152162",
+      "gameName": "Diamonds",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "341787",
+      "gameName": "Dice Miner: Backer Pack",
+      "personas": []
+    },
+    {
+      "gameID": "221194",
+      "gameName": "Dinosaur Island",
+      "personas": []
+    },
+    {
+      "gameID": "256382",
+      "gameName": "Disney Villainous: The Worst Takes it All",
+      "personas": []
+    },
+    {
+      "gameID": "216497",
+      "gameName": "District Noir",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "39856",
+      "gameName": "Dixit",
+      "personas": [
+        "Carlos MENDES",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "381308",
+      "gameName": "Dixit: Disney Edition",
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "92828",
+      "gameName": "Dixit: Odyssey",
+      "personas": [
+        "Carlos MENDES",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "332853",
+      "gameName": "Dom Pierre",
+      "personas": []
+    },
+    {
+      "gameID": "36218",
+      "gameName": "Dominion",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "215311",
+      "gameName": "Downforce",
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "381278",
+      "gameName": "Dracula vs Van Helsing",
+      "personas": []
+    },
+    {
+      "gameID": "350185",
+      "gameName": "Draft & Write Records",
+      "personas": []
+    },
+    {
+      "gameID": "264055",
+      "gameName": "Draftosaurus",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "232219",
+      "gameName": "Dragon Castle",
+      "personas": []
+    },
+    {
+      "gameID": "375215",
+      "gameName": "Dreamworld: An Unconscious Mind Card Game",
+      "personas": []
+    },
+    {
+      "gameID": "405537",
+      "gameName": "DroPolter",
+      "personas": []
+    },
+    {
+      "gameID": "316554",
+      "gameName": "Dune: Imperium",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "45315",
+      "gameName": "Dungeon Lords",
+      "personas": []
+    },
+    {
+      "gameID": "350184",
+      "gameName": "Earth",
+      "personas": []
+    },
+    {
+      "gameID": "162823",
+      "gameName": "El Gaucho",
+      "personas": []
+    },
+    {
+      "gameID": "93",
+      "gameName": "El Grande",
+      "personas": []
+    },
+    {
+      "gameID": "41916",
+      "gameName": "El Laberinto Mágico",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "100423",
+      "gameName": "Elder Sign",
+      "personas": []
+    },
+    {
+      "gameID": "146021",
+      "gameName": "Eldritch Horror",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "206931",
+      "gameName": "Encore!",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "220780",
+      "gameName": "Era Uma Vez",
+      "personas": []
+    },
+    {
+      "gameID": "270971",
+      "gameName": "Era: Medieval Age",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "113294",
+      "gameName": "Escape: The Curse of the Temple",
+      "personas": []
+    },
+    {
+      "gameID": "149809",
+      "gameName": "Escape: Zombie City",
+      "personas": []
+    },
+    {
+      "gameID": "288378",
+      "gameName": "Estoril 1942: Super Box",
+      "personas": []
+    },
+    {
+      "gameID": "169318",
+      "gameName": "Estoril 1942: Um jogo de espiões",
+      "personas": []
+    },
+    {
+      "gameID": "382843",
+      "gameName": "Evacuation",
+      "personas": []
+    },
+    {
+      "gameID": "396989",
+      "gameName": "Evenfall",
+      "personas": []
+    },
+    {
+      "gameID": "199792",
+      "gameName": "Everdell",
+      "personas": []
+    },
+    {
+      "gameID": "363307",
+      "gameName": "Evergreen",
+      "personas": []
+    },
+    {
+      "gameID": "339753",
+      "gameName": "Évora",
+      "personas": []
+    },
+    {
+      "gameID": "395906",
+      "gameName": "Exploding Kittens: Good Vs Evil",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "176371",
+      "gameName": "Explorers of the North Sea",
+      "personas": []
+    },
+    {
+      "gameID": "260428",
+      "gameName": "Fall of Rome",
+      "personas": []
+    },
+    {
+      "gameID": "83195",
+      "gameName": "Fantasma Blitz",
+      "personas": [
+        "Eva Cunha",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "223040",
+      "gameName": "Fantasy Realms",
+      "personas": []
+    },
+    {
+      "gameID": "385761",
+      "gameName": "Faraway",
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "345868",
+      "gameName": "Federation",
+      "personas": []
+    },
+    {
+      "gameID": "271601",
+      "gameName": "Feed the Kraken",
+      "personas": []
+    },
+    {
+      "gameID": "352574",
+      "gameName": "Fit to Print",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "157354",
+      "gameName": "Five Tribes: The Djinns of Naqala",
+      "personas": []
+    },
+    {
+      "gameID": "336986",
+      "gameName": "Flamecraft",
+      "personas": []
+    },
+    {
+      "gameID": "199478",
+      "gameName": "Flamme Rouge",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "10164",
+      "gameName": "Fliegen klatschen (Mata Moscas)",
+      "personas": []
+    },
+    {
+      "gameID": "223215",
+      "gameName": "Flip Ships",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "401501",
+      "gameName": "Floresta",
+      "personas": []
+    },
+    {
+      "gameID": "136063",
+      "gameName": "Forbidden Desert",
+      "personas": []
+    },
+    {
+      "gameID": "391163",
+      "gameName": "Forest Shuffle",
+      "personas": []
+    },
+    {
+      "gameID": "635",
+      "gameName": "Formula Motor Racing",
+      "personas": []
+    },
+    {
+      "gameID": "296912",
+      "gameName": "Fort",
+      "personas": []
+    },
+    {
+      "gameID": "231788",
+      "gameName": "Four Senses",
+      "personas": []
+    },
+    {
+      "gameID": "370164",
+      "gameName": "Fun Facts",
+      "personas": []
+    },
+    {
+      "gameID": "318084",
+      "gameName": "Furnace",
+      "personas": []
+    },
+    {
+      "gameID": "171273",
+      "gameName": "FUSE",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "392825",
+      "gameName": "Garden Guests",
+      "personas": []
+    },
+    {
+      "gameID": "153422",
+      "gameName": "Gardens",
+      "personas": []
+    },
+    {
+      "gameID": "282918",
+      "gameName": "Garum",
+      "personas": []
+    },
+    {
+      "gameID": "19427",
+      "gameName": "Gemblo",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "9674",
+      "gameName": "Genial",
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "347013",
+      "gameName": "Get on Board: New York & London",
+      "personas": []
+    },
+    {
+      "gameID": "246192",
+      "gameName": "Gizmos",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "275044",
+      "gameName": "Glow",
+      "personas": []
+    },
+    {
+      "gameID": "364689",
+      "gameName": "Gods of Rome",
+      "personas": []
+    },
+    {
+      "gameID": "286160",
+      "gameName": "Godspeed",
+      "personas": []
+    },
+    {
+      "gameID": "182874",
+      "gameName": "Grand Austria Hotel",
+      "personas": []
+    },
+    {
+      "gameID": "341169",
+      "gameName": "Great Western Trail: Second Edition",
+      "personas": []
+    },
+    {
+      "gameID": "377198",
+      "gameName": "GRRRignettes",
+      "personas": []
+    },
+    {
+      "gameID": "269144",
+      "gameName": "Hadara",
+      "personas": []
+    },
+    {
+      "gameID": "304783",
+      "gameName": "Hadrian's Wall",
+      "personas": []
+    },
+    {
+      "gameID": "276086",
+      "gameName": "Hamlet: The Village Building Game",
+      "personas": []
+    },
+    {
+      "gameID": "290357",
+      "gameName": "Hanabi: Grands Feux",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "194626",
+      "gameName": "Happy Salmon",
+      "personas": ["Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "414317",
+      "gameName": "Harmonies",
+      "personas": []
+    },
+    {
+      "gameID": "199042",
+      "gameName": "Harry Potter: Hogwarts Battle",
+      "personas": []
+    },
+    {
+      "gameID": "366013",
+      "gameName": "Heat: Pedal to the Metal",
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "312722",
+      "gameName": "Hercules",
+      "personas": []
+    },
+    {
+      "gameID": "198994",
+      "gameName": "Hero Realms",
+      "personas": []
+    },
+    {
+      "gameID": "8203",
+      "gameName": "Hey That's My Fish!",
+      "personas": ["Carlos MENDES", "Eva Cunha", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "320718",
+      "gameName": "Hidden Leaders",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "359527",
+      "gameName": "Hidden Leaders: Kickstarter Edition",
+      "personas": []
+    },
+    {
+      "gameID": "2655",
+      "gameName": "Hive",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "282524",
+      "gameName": "Horrified",
+      "personas": []
+    },
+    {
+      "gameID": "302520",
+      "gameName": "Hues and Cues",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "328859",
+      "gameName": "Hula-Hoo!",
+      "personas": []
+    },
+    {
+      "gameID": "198928",
+      "gameName": "Iberia",
+      "personas": []
+    },
+    {
+      "gameID": "244995",
+      "gameName": "Illusion",
+      "personas": []
+    },
+    {
+      "gameID": "378758",
+      "gameName": "Imperial Miners",
+      "personas": []
+    },
+    {
+      "gameID": "270844",
+      "gameName": "Imperial Settlers: Empires of the North",
+      "personas": []
+    },
+    {
+      "gameID": "270836",
+      "gameName": "Imperial Settlers: Roll & Write",
+      "personas": []
+    },
+    {
+      "gameID": "318184",
+      "gameName": "Imperium: Classics",
+      "personas": []
+    },
+    {
+      "gameID": "278751",
+      "gameName": "In Front of the Elevators",
+      "personas": []
+    },
+    {
+      "gameID": "116954",
+      "gameName": "Indigo",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "155821",
+      "gameName": "Inis",
+      "personas": []
+    },
+    {
+      "gameID": "422126",
+      "gameName": "Intarsia",
+      "personas": []
+    },
+    {
+      "gameID": "347305",
+      "gameName": "Inventions: Evolution of Ideas",
+      "personas": []
+    },
+    {
+      "gameID": "271088",
+      "gameName": "Ishtar: Gardens of Babylon",
+      "personas": []
+    },
+    {
+      "gameID": "176494",
+      "gameName": "Isle of Skye: From Chieftain to King",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "392473",
+      "gameName": "Islet",
+      "personas": []
+    },
+    {
+      "gameID": "148949",
+      "gameName": "Istanbul",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "235488",
+      "gameName": "Istanbul: The Dice Game",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "327778",
+      "gameName": "ito",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "883",
+      "gameName": "Ivanhoe",
+      "personas": []
+    },
+    {
+      "gameID": "54043",
+      "gameName": "Jaipur",
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "28023",
+      "gameName": "Jamaica",
+      "personas": ["Carlos MENDES", "Pedro Alves"]
+    },
+    {
+      "gameID": "63632",
+      "gameName": "Jerusalem",
+      "personas": []
+    },
+    {
+      "gameID": "193042",
+      "gameName": "Junk Art",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "254640",
+      "gameName": "Just One",
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "320390",
+      "gameName": "Kabuto Sumo",
+      "personas": []
+    },
+    {
+      "gameID": "331635",
+      "gameName": "Kameloot",
+      "personas": []
+    },
+    {
+      "gameID": "38545",
+      "gameName": "Kamisado",
+      "personas": ["Carlos MENDES", "Márcio"]
+    },
+    {
+      "gameID": "183251",
+      "gameName": "Karuba",
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "333255",
+      "gameName": "Keep the Heroes Out!",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "336849",
+      "gameName": "Kemet: Blood and Sand – Kickstarter Edition",
+      "personas": []
+    },
+    {
+      "gameID": "194196",
+      "gameName": "Kharnage",
+      "personas": []
+    },
+    {
+      "gameID": "302917",
+      "gameName": "King of 12",
+      "personas": []
+    },
+    {
+      "gameID": "204583",
+      "gameName": "Kingdomino",
+      "personas": [
+        "Carlos MENDES",
+        "Eva Cunha",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves"
+      ]
+    },
+    {
+      "gameID": "340041",
+      "gameName": "Kingdomino Origins",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "293267",
+      "gameName": "Kitara",
+      "personas": []
+    },
+    {
+      "gameID": "287938",
+      "gameName": "Kitchen Rush (Revised Edition)",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "165722",
+      "gameName": "KLASK",
+      "personas": ["Carlos MENDES", "Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "277458",
+      "gameName": "Kluster",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "379629",
+      "gameName": "Knarr",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "56786",
+      "gameName": "Kuhhandel Master",
+      "personas": []
+    },
+    {
+      "gameID": "264797",
+      "gameName": "Kushi Express",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "385610",
+      "gameName": "KutnÃ¡ Hora: The City of Silver",
+      "personas": []
+    },
+    {
+      "gameID": "266083",
+      "gameName": "L.L.A.M.A.",
+      "personas": ["Eva Cunha"]
+    },
+    {
+      "gameID": "336929",
+      "gameName": "Land vs Sea",
+      "personas": []
+    },
+    {
+      "gameID": "331059",
+      "gameName": "Last Message",
+      "personas": []
+    },
+    {
+      "gameID": "201856",
+      "gameName": "Last Will",
+      "personas": []
+    },
+    {
+      "gameID": "374201",
+      "gameName": "Lata",
+      "personas": ["Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "265118",
+      "gameName": "Legend Raiders",
+      "personas": []
+    },
+    {
+      "gameID": "191538",
+      "gameName": "Leo",
+      "personas": []
+    },
+    {
+      "gameID": "368173",
+      "gameName": "Let's Go! To Japan",
+      "personas": []
+    },
+    {
+      "gameID": "356033",
+      "gameName": "Libertalia: Winds of Galecrest",
+      "personas": []
+    },
+    {
+      "gameID": "395581",
+      "gameName": "Light in the Dark",
+      "personas": []
+    },
+    {
+      "gameID": "306173",
+      "gameName": "Lisbon Tram 28",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "328479",
+      "gameName": "Living Forest",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "222509",
+      "gameName": "Lords of Hellas",
+      "personas": []
+    },
+    {
+      "gameID": "110327",
+      "gameName": "Lords of Waterdeep",
+      "personas": []
+    },
+    {
+      "gameID": "203993",
+      "gameName": "Lorenzo il Magnifico",
+      "personas": []
+    },
+    {
+      "gameID": "312484",
+      "gameName": "Lost Ruins of Arnak",
+      "personas": []
+    },
+    {
+      "gameID": "129622",
+      "gameName": "Love Letter",
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "118247",
+      "gameName": "Lucky Numbers",
+      "personas": ["Eva Cunha", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "245643",
+      "gameName": "Luxor",
+      "personas": []
+    },
+    {
+      "gameID": "329529",
+      "gameName": "Magellan: Elcano",
+      "personas": []
+    },
+    {
+      "gameID": "209778",
+      "gameName": "Magic Maze",
+      "personas": ["Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "257067",
+      "gameName": "Magnastorm",
+      "personas": []
+    },
+    {
+      "gameID": "9440",
+      "gameName": "Maharaja: The Game of Palace Building in India",
+      "personas": []
+    },
+    {
+      "gameID": "230080",
+      "gameName": "Majesty: For the Realm",
+      "personas": []
+    },
+    {
+      "gameID": "49",
+      "gameName": "Mamma Mia!",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "95613",
+      "gameName": "Mammut",
+      "personas": []
+    },
+    {
+      "gameID": "317504",
+      "gameName": "Mandala Stones",
+      "personas": []
+    },
+    {
+      "gameID": "199",
+      "gameName": "Manhattan",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "276025",
+      "gameName": "Maracaibo",
+      "personas": []
+    },
+    {
+      "gameID": "297978",
+      "gameName": "Mariposas",
+      "personas": []
+    },
+    {
+      "gameID": "29223",
+      "gameName": "Marrakech",
+      "personas": ["Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "314491",
+      "gameName": "Meadow",
+      "personas": []
+    },
+    {
+      "gameID": "46",
+      "gameName": "Medici",
+      "personas": []
+    },
+    {
+      "gameID": "167270",
+      "gameName": "Medina (Second Edition)",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "242529",
+      "gameName": "Medium",
+      "personas": []
+    },
+    {
+      "gameID": "262477",
+      "gameName": "Mercado de Lisboa",
+      "personas": []
+    },
+    {
+      "gameID": "25292",
+      "gameName": "Merchants & Marauders",
+      "personas": []
+    },
+    {
+      "gameID": "230933",
+      "gameName": "Merlin",
+      "personas": []
+    },
+    {
+      "gameID": "306040",
+      "gameName": "Merv: The Heart of the Silk Road",
+      "personas": []
+    },
+    {
+      "gameID": "238799",
+      "gameName": "Messina 1347",
+      "personas": []
+    },
+    {
+      "gameID": "559",
+      "gameName": "Metro",
+      "personas": []
+    },
+    {
+      "gameID": "2955",
+      "gameName": "Mexica",
+      "personas": []
+    },
+    {
+      "gameID": "313241",
+      "gameName": "Micons",
+      "personas": []
+    },
+    {
+      "gameID": "318977",
+      "gameName": "MicroMacro: Crime City",
+      "personas": ["Carlos MENDES", "Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "403754",
+      "gameName": "Middle Ages",
+      "personas": []
+    },
+    {
+      "gameID": "346501",
+      "gameName": "Mille Fiori",
+      "personas": []
+    },
+    {
+      "gameID": "284653",
+      "gameName": "Mind MGMT: The Psychic Espionage “Game.”",
+      "personas": []
+    },
+    {
+      "gameID": "423401",
+      "gameName": "Minos: Dawn of the Bronze Age",
+      "personas": []
+    },
+    {
+      "gameID": "118",
+      "gameName": "Modern Art",
+      "personas": []
+    },
+    {
+      "gameID": "364042",
+      "gameName": "Moesteiro",
+      "personas": []
+    },
+    {
+      "gameID": "172386",
+      "gameName": "Mombasa",
+      "personas": []
+    },
+    {
+      "gameID": "317231",
+      "gameName": "Monasterium",
+      "personas": []
+    },
+    {
+      "gameID": "412911",
+      "gameName": "Monkey Palace",
+      "personas": []
+    },
+    {
+      "gameID": "261265",
+      "gameName": "Monster-Bande",
+      "personas": []
+    },
+    {
+      "gameID": "270239",
+      "gameName": "Moonrakers",
+      "personas": []
+    },
+    {
+      "gameID": "329551",
+      "gameName": "Mosaic: A Story of Civilization",
+      "personas": []
+    },
+    {
+      "gameID": "1927",
+      "gameName": "Munchkin",
+      "personas": []
+    },
+    {
+      "gameID": "204505",
+      "gameName": "Museum",
+      "personas": []
+    },
+    {
+      "gameID": "100734",
+      "gameName": "My Happy Farm",
+      "personas": []
+    },
+    {
+      "gameID": "366456",
+      "gameName": "My Shelfie",
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "301767",
+      "gameName": "Mysterium Park",
+      "personas": []
+    },
+    {
+      "gameID": "19996",
+      "gameName": "Nacht der Magier",
+      "personas": []
+    },
+    {
+      "gameID": "360359",
+      "gameName": "Neotopia",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "244711",
+      "gameName": "Newton",
+      "personas": []
+    },
+    {
+      "gameID": "353545",
+      "gameName": "Next Station: London",
+      "personas": []
+    },
+    {
+      "gameID": "380165",
+      "gameName": "Next Station: Tokyo",
+      "personas": []
+    },
+    {
+      "gameID": "13308",
+      "gameName": "Niagara",
+      "personas": []
+    },
+    {
+      "gameID": "293014",
+      "gameName": "Nidavellir",
+      "personas": []
+    },
+    {
+      "gameID": "279869",
+      "gameName": "Nine Tiles Panic",
+      "personas": []
+    },
+    {
+      "gameID": "350469",
+      "gameName": "Nine-minute Kingdom",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "12942",
+      "gameName": "No Thanks!",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "393175",
+      "gameName": "Nocturne",
+      "personas": []
+    },
+    {
+      "gameID": "233676",
+      "gameName": "Noria",
+      "personas": []
+    },
+    {
+      "gameID": "25554",
+      "gameName": "Notre Dame",
+      "personas": []
+    },
+    {
+      "gameID": "347505",
+      "gameName": "Nouvelles ContRées",
+      "personas": []
+    },
+    {
+      "gameID": "396790",
+      "gameName": "Nucleum",
+      "personas": []
+    },
+    {
+      "gameID": "234277",
+      "gameName": "Nusfjord",
+      "personas": []
+    },
+    {
+      "gameID": "70323",
+      "gameName": "O Rei de Tóquio",
+      "personas": [
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "192074",
+      "gameName": "Odin's Ravens (Second Edition)",
+      "personas": []
+    },
+    {
+      "gameID": "283867",
+      "gameName": "Offshore",
+      "personas": []
+    },
+    {
+      "gameID": "183840",
+      "gameName": "Oh My Goods!",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "251412",
+      "gameName": "On Tour",
+      "personas": []
+    },
+    {
+      "gameID": "147949",
+      "gameName": "One Night Ultimate Werewolf",
+      "personas": []
+    },
+    {
+      "gameID": "285171",
+      "gameName": "Orb Hunters",
+      "personas": []
+    },
+    {
+      "gameID": "287084",
+      "gameName": "Oriflamme",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "352710",
+      "gameName": "Ouch!",
+      "personas": ["Eva Cunha"]
+    },
+    {
+      "gameID": "321596",
+      "gameName": "P'achakuna",
+      "personas": []
+    },
+    {
+      "gameID": "266810",
+      "gameName": "Paladins of the West Kingdom",
+      "personas": []
+    },
+    {
+      "gameID": "300531",
+      "gameName": "Paleo",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "30549",
+      "gameName": "Pandemic",
+      "personas": [
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "121073",
+      "gameName": "Panic Lab",
+      "personas": ["Eva Cunha"]
+    },
+    {
+      "gameID": "276498",
+      "gameName": "Paris: La Cité de la Lumière",
+      "personas": []
+    },
+    {
+      "gameID": "266524",
+      "gameName": "PARKS",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "163412",
+      "gameName": "Patchwork",
+      "personas": ["Márcio", "Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "245928",
+      "gameName": "Pax Emancipation",
+      "personas": []
+    },
+    {
+      "gameID": "256960",
+      "gameName": "Pax Pamir: Second Edition",
+      "personas": []
+    },
+    {
+      "gameID": "128780",
+      "gameName": "Pax Porfiriana",
+      "personas": []
+    },
+    {
+      "gameID": "308119",
+      "gameName": "Pax Renaissance: 2nd Edition",
+      "personas": []
+    },
+    {
+      "gameID": "303954",
+      "gameName": "Pax Viking",
+      "personas": []
+    },
+    {
+      "gameID": "319754",
+      "gameName": "Peek-a-Mouse",
+      "personas": []
+    },
+    {
+      "gameID": "369388",
+      "gameName": "Penguin Airlines",
+      "personas": []
+    },
+    {
+      "gameID": "90040",
+      "gameName": "Pergamon",
+      "personas": []
+    },
+    {
+      "gameID": "309728",
+      "gameName": "Pessoa",
+      "personas": []
+    },
+    {
+      "gameID": "218603",
+      "gameName": "Photosynthesis",
+      "personas": []
+    },
+    {
+      "gameID": "284108",
+      "gameName": "Pictures",
+      "personas": []
+    },
+    {
+      "gameID": "256730",
+      "gameName": "Pipeline",
+      "personas": []
+    },
+    {
+      "gameID": "117663",
+      "gameName": "Piraten Kapern",
+      "personas": ["Eva Cunha"]
+    },
+    {
+      "gameID": "388339",
+      "gameName": "Planta Nubo",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "181120",
+      "gameName": "Pocket Invaders",
+      "personas": []
+    },
+    {
+      "gameID": "43264",
+      "gameName": "Pocket Rockets",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "368017",
+      "gameName": "Point City",
+      "personas": []
+    },
+    {
+      "gameID": "274960",
+      "gameName": "Point Salad",
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "254619",
+      "gameName": "Porto",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "2651",
+      "gameName": "Power Grid (Recharged Version)",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "222821",
+      "gameName": "Powerships",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "308765",
+      "gameName": "Praga Caput Regni",
+      "personas": []
+    },
+    {
+      "gameID": "318183",
+      "gameName": "Prehistories",
+      "personas": []
+    },
+    {
+      "gameID": "260180",
+      "gameName": "Project L",
+      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "329484",
+      "gameName": "Pyramido",
+      "personas": []
+    },
+    {
+      "gameID": "368465",
+      "gameName": "Qawale",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "266830",
+      "gameName": "QE",
+      "personas": []
+    },
+    {
+      "gameID": "300700",
+      "gameName": "Quetzal",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "624",
+      "gameName": "Quoridor",
+      "personas": ["Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "25669",
+      "gameName": "Qwirkle",
+      "personas": []
+    },
+    {
+      "gameID": "170042",
+      "gameName": "Raiders of the North Sea",
+      "personas": []
+    },
+    {
+      "gameID": "220877",
+      "gameName": "Rajas of the Ganges",
+      "personas": []
+    },
+    {
+      "gameID": "312959",
+      "gameName": "Rallyman: DIRT",
+      "personas": []
+    },
+    {
+      "gameID": "256589",
+      "gameName": "Rallyman: GT",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "414107",
+      "gameName": "Ratjack",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "42452",
+      "gameName": "Rattus",
+      "personas": []
+    },
+    {
+      "gameID": "381249",
+      "gameName": "Rebel Princess",
+      "personas": []
+    },
+    {
+      "gameID": "417197",
+      "gameName": "rebirth",
+      "personas": []
+    },
+    {
+      "gameID": "161417",
+      "gameName": "Red7",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "244228",
+      "gameName": "Reef",
+      "personas": []
+    },
+    {
+      "gameID": "262712",
+      "gameName": "Res Arcana",
+      "personas": []
+    },
+    {
+      "gameID": "332772",
+      "gameName": "Revive",
+      "personas": []
+    },
+    {
+      "gameID": "91514",
+      "gameName": "Rhino Hero",
+      "personas": ["Eva Cunha", "Pedro Alves"]
+    },
+    {
+      "gameID": "51",
+      "gameName": "Ricochet Robots",
+      "personas": []
+    },
+    {
+      "gameID": "255020",
+      "gameName": "Rising for the Throne",
+      "personas": []
+    },
+    {
+      "gameID": "203219",
+      "gameName": "Rivals for Catan: Deluxe",
+      "personas": []
+    },
+    {
+      "gameID": "121921",
+      "gameName": "Robinson Crusoe: Adventures on the Cursed Island",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "304668",
+      "gameName": "Robot Quest Arena",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "169426",
+      "gameName": "Roll Player",
+      "personas": []
+    },
+    {
+      "gameID": "240225",
+      "gameName": "Roll to the Top!",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "305682",
+      "gameName": "Rolling Realms",
+      "personas": []
+    },
+    {
+      "gameID": "237182",
+      "gameName": "Root",
+      "personas": []
+    },
+    {
+      "gameID": "276633",
+      "gameName": "Rossio",
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "360265",
+      "gameName": "Sabika",
+      "personas": []
+    },
+    {
+      "gameID": "9220",
+      "gameName": "Saboteur",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "199561",
+      "gameName": "Sagrada",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "175549",
+      "gameName": "Salem 1692",
+      "personas": []
+    },
+    {
+      "gameID": "402663",
+      "gameName": "Salton Sea",
+      "personas": []
+    },
+    {
+      "gameID": "276830",
+      "gameName": "Sanctum",
+      "personas": []
+    },
+    {
+      "gameID": "229220",
+      "gameName": "Santa Maria",
+      "personas": []
+    },
+    {
+      "gameID": "298065",
+      "gameName": "Santa Monica",
+      "personas": []
+    },
+    {
+      "gameID": "194655",
+      "gameName": "Santorini",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "438",
+      "gameName": "Scotland Yard",
+      "personas": []
+    },
+    {
+      "gameID": "291453",
+      "gameName": "SCOUT",
+      "personas": []
+    },
+    {
+      "gameID": "169786",
+      "gameName": "Scythe",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "367220",
+      "gameName": "Sea Salt & Paper",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "188834",
+      "gameName": "Secret Hitler",
+      "personas": []
+    },
+    {
+      "gameID": "1198",
+      "gameName": "SET",
+      "personas": []
+    },
+    {
+      "gameID": "418059",
+      "gameName": "SETI: Search for Extraterrestrial Intelligence",
+      "personas": []
+    },
+    {
+      "gameID": "15062",
+      "gameName": "Shadows over Camelot",
+      "personas": []
+    },
+    {
+      "gameID": "313262",
+      "gameName": "Shamans",
+      "personas": []
+    },
+    {
+      "gameID": "298638",
+      "gameName": "Sheriff of Nottingham: 2nd Edition",
+      "personas": []
+    },
+    {
+      "gameID": "302280",
+      "gameName": "Shifting Stones",
+      "personas": []
+    },
+    {
+      "gameID": "75547",
+      "gameName": "Shipwrights of the North Sea",
+      "personas": []
+    },
+    {
+      "gameID": "20551",
+      "gameName": "Shogun",
+      "personas": []
+    },
+    {
+      "gameID": "270673",
+      "gameName": "Silver & Gold",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "268620",
+      "gameName": "Similo",
+      "personas": ["Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "150145",
+      "gameName": "Skull King",
+      "personas": [
+        "Carlos MENDES",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "298231",
+      "gameName": "Skyrise",
+      "personas": []
+    },
+    {
+      "gameID": "40692",
+      "gameName": "Small World",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "38054",
+      "gameName": "Snow Tails",
+      "personas": []
+    },
+    {
+      "gameID": "67185",
+      "gameName": "Sobek",
+      "personas": []
+    },
+    {
+      "gameID": "332944",
+      "gameName": "Sobek: 2 Players",
+      "personas": []
+    },
+    {
+      "gameID": "274037",
+      "gameName": "Solar Storm",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "254018",
+      "gameName": "Solenia",
+      "personas": []
+    },
+    {
+      "gameID": "427865",
+      "gameName": "Souvenirs from Venice",
+      "personas": []
+    },
+    {
+      "gameID": "242302",
+      "gameName": "Space Base",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "206802",
+      "gameName": "Spaghetti",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "155624",
+      "gameName": "Specter Ops",
+      "personas": []
+    },
+    {
+      "gameID": "146149",
+      "gameName": "Speed Cups",
+      "personas": ["Márcio", "Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "299169",
+      "gameName": "Spicy",
+      "personas": []
+    },
+    {
+      "gameID": "283871",
+      "gameName": "Spies & Lies: A Stratego Story",
+      "personas": []
+    },
+    {
+      "gameID": "162886",
+      "gameName": "Spirit Island",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "235375",
+      "gameName": "Spirits of the Forest",
+      "personas": []
+    },
+    {
+      "gameID": "148228",
+      "gameName": "Splendor",
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "364073",
+      "gameName": "Splendor Duel",
+      "personas": []
+    },
+    {
+      "gameID": "359878",
+      "gameName": "Splito",
+      "personas": []
+    },
+    {
+      "gameID": "12346",
+      "gameName": "Spooky Stairs",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "63268",
+      "gameName": "Spot it!",
+      "personas": []
+    },
+    {
+      "gameID": "251658",
+      "gameName": "Sprawlopolis",
+      "personas": []
+    },
+    {
+      "gameID": "166384",
+      "gameName": "Spyfall",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "137269",
+      "gameName": "Spyrium",
+      "personas": []
+    },
+    {
+      "gameID": "245222",
+      "gameName": "Squadro",
+      "personas": []
+    },
+    {
+      "gameID": "147020",
+      "gameName": "Star Realms",
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "353470",
+      "gameName": "Star Wars: Jabba's Palace – A Love Letter Game",
+      "personas": []
+    },
+    {
+      "gameID": "316624",
+      "gameName": "Stationfall",
+      "personas": []
+    },
+    {
+      "gameID": "121410",
+      "gameName": "Steam Park",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "391752",
+      "gameName": "Steam Power",
+      "personas": []
+    },
+    {
+      "gameID": "329845",
+      "gameName": "Stella: Dixit Universe",
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "34635",
+      "gameName": "Stone Age",
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "425560",
+      "gameName": "Strange World Above the Clouds",
+      "personas": []
+    },
+    {
+      "gameID": "204472",
+      "gameName": "Sub Terra",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "123260",
+      "gameName": "Suburbia",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "313000",
+      "gameName": "Sumatra",
+      "personas": []
+    },
+    {
+      "gameID": "394334",
+      "gameName": "Sunrise Lane",
+      "personas": []
+    },
+    {
+      "gameID": "425428",
+      "gameName": "Survive The Island",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "2653",
+      "gameName": "Survive: Escape from Atlantis!",
+      "personas": ["Márcio", "Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "192291",
+      "gameName": "Sushi Go Party!",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "133473",
+      "gameName": "Sushi Go!",
+      "personas": ["Mariana Medeiros ", "Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "99219",
+      "gameName": "Swish",
+      "personas": []
+    },
+    {
+      "gameID": "316786",
+      "gameName": "Tabannusi: Builders of Ur",
+      "personas": []
+    },
+    {
+      "gameID": "253664",
+      "gameName": "Taco Cat Goat Cheese Pizza",
+      "personas": ["Eva Cunha", "Márcio", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "70919",
+      "gameName": "Takenoko",
+      "personas": ["Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "24508",
+      "gameName": "Taluva",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "252153",
+      "gameName": "Tang Garden",
+      "personas": []
+    },
+    {
+      "gameID": "286096",
+      "gameName": "Tapestry",
+      "personas": []
+    },
+    {
+      "gameID": "306481",
+      "gameName": "Tawantinsuyu: The Inca Empire",
+      "personas": []
+    },
+    {
+      "gameID": "275870",
+      "gameName": "TEAM3 GREEN",
+      "personas": ["Eva Cunha", "Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "247694",
+      "gameName": "TEAM3 PINK",
+      "personas": ["Eva Cunha", "Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "297030",
+      "gameName": "Tekhenu: Obelisk of the Sun",
+      "personas": []
+    },
+    {
+      "gameID": "46213",
+      "gameName": "Telestrations",
+      "personas": ["Márcio", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "206915",
+      "gameName": "Tempel des Schreckens",
+      "personas": []
+    },
+    {
+      "gameID": "229853",
+      "gameName": "Teotihuacan: City of Gods",
+      "personas": []
+    },
+    {
+      "gameID": "350198",
+      "gameName": "Terminus",
+      "personas": []
+    },
+    {
+      "gameID": "350458",
+      "gameName": "Terracotta Army",
+      "personas": []
+    },
+    {
+      "gameID": "328871",
+      "gameName": "Terraforming Mars: Ares Expedition",
+      "personas": []
+    },
+    {
+      "gameID": "375651",
+      "gameName": "That's Not a Hat",
+      "personas": [
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "406663",
+      "gameName": "That's Not a Hat: Pop Culture",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "378356",
+      "gameName": "The A.R.T. Project",
+      "personas": []
+    },
+    {
+      "gameID": "180593",
+      "gameName": "The Bloody Inn",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "619",
+      "gameName": "The Bottle Imp",
+      "personas": []
+    },
+    {
+      "gameID": "84876",
+      "gameName": "The Castles of Burgundy",
+      "personas": []
+    },
+    {
+      "gameID": "270956",
+      "gameName": "The Court of Miracles",
+      "personas": []
+    },
+    {
+      "gameID": "284083",
+      "gameName": "The Crew: The Quest for Planet Nine",
+      "personas": []
+    },
+    {
+      "gameID": "13004",
+      "gameName": "The Downfall of Pompeii",
+      "personas": []
+    },
+    {
+      "gameID": "249381",
+      "gameName": "The Estates",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "361381",
+      "gameName": "The Grand Carnival: On the Road",
+      "personas": []
+    },
+    {
+      "gameID": "366752",
+      "gameName": "The Great Split",
+      "personas": []
+    },
+    {
+      "gameID": "350933",
+      "gameName": "The Guild of Merchant Explorers",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "376223",
+      "gameName": "The Hunt",
+      "personas": []
+    },
+    {
+      "gameID": "281259",
+      "gameName": "The Isle of Cats",
+      "personas": []
+    },
+    {
+      "gameID": "319966",
+      "gameName": "The King Is Dead: Second Edition",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "421006",
+      "gameName": "The Lord of the Rings: Duel for Middle-earth",
+      "personas": []
+    },
+    {
+      "gameID": "216459",
+      "gameName": "The Lost Expedition",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "176734",
+      "gameName": "The Manhattan Project: Energy Empire",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "268427",
+      "gameName": "The Mysterious Library",
+      "personas": []
+    },
+    {
+      "gameID": "244521",
+      "gameName": "The Quacks of Quedlinburg",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "217372",
+      "gameName": "The Quest for El Dorado",
+      "personas": []
+    },
+    {
+      "gameID": "227224",
+      "gameName": "The Red Cathedral",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "128882",
+      "gameName": "The Resistance: Avalon",
+      "personas": []
+    },
+    {
+      "gameID": "257759",
+      "gameName": "The River",
+      "personas": []
+    },
+    {
+      "gameID": "385529",
+      "gameName": "The Vale of Eternity",
+      "personas": []
+    },
+    {
+      "gameID": "426692",
+      "gameName": "The Vibe",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "371942",
+      "gameName": "The White Castle",
+      "personas": []
+    },
+    {
+      "gameID": "368058",
+      "gameName": "The Wolves",
+      "personas": []
+    },
+    {
+      "gameID": "182028",
+      "gameName": "Through the Ages: A New Story of Civilization",
+      "personas": []
+    },
+    {
+      "gameID": "9209",
+      "gameName": "Ticket to Ride",
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "14996",
+      "gameName": "Ticket to Ride: Europe",
+      "personas": [
+        "Carlos MENDES",
+        "Márcio",
+        "Mariana Medeiros ",
+        "Pedro Alves",
+        "Ricardo PIRES"
+      ]
+    },
+    {
+      "gameID": "276894",
+      "gameName": "Ticket to Ride: London",
+      "personas": []
+    },
+    {
+      "gameID": "54",
+      "gameName": "Tikal",
+      "personas": []
+    },
+    {
+      "gameID": "351913",
+      "gameName": "Tiletum",
+      "personas": []
+    },
+    {
+      "gameID": "354672",
+      "gameName": "Time of Empires",
+      "personas": []
+    },
+    {
+      "gameID": "321277",
+      "gameName": "Tinners' Trail",
+      "personas": []
+    },
+    {
+      "gameID": "163967",
+      "gameName": "Tiny Epic Galaxies",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "265736",
+      "gameName": "Tiny Towns",
+      "personas": []
+    },
+    {
+      "gameID": "329862",
+      "gameName": "Tiny Turbo Cars",
+      "personas": []
+    },
+    {
+      "gameID": "123540",
+      "gameName": "Tokaido",
+      "personas": []
+    },
+    {
+      "gameID": "215463",
+      "gameName": "Tokyo Highway",
+      "personas": []
+    },
+    {
+      "gameID": "283864",
+      "gameName": "Trails of Tucana",
+      "personas": []
+    },
+    {
+      "gameID": "102680",
+      "gameName": "Trajan",
+      "personas": []
+    },
+    {
+      "gameID": "288513",
+      "gameName": "Tranquility",
+      "personas": []
+    },
+    {
+      "gameID": "362986",
+      "gameName": "Tribes of the Wind",
+      "personas": []
+    },
+    {
+      "gameID": "352515",
+      "gameName": "Trio",
+      "personas": ["Mariana Medeiros "]
+    },
+    {
+      "gameID": "73439",
+      "gameName": "Troyes",
+      "personas": []
+    },
+    {
+      "gameID": "298060",
+      "gameName": "Truffle Shuffle",
+      "personas": []
+    },
+    {
+      "gameID": "142124",
+      "gameName": "Tsukiji",
+      "personas": []
+    },
+    {
+      "gameID": "16992",
+      "gameName": "Tsuro",
+      "personas": ["Pedro Alves"]
+    },
+    {
+      "gameID": "270168",
+      "gameName": "Tuki",
+      "personas": []
+    },
+    {
+      "gameID": "156878",
+      "gameName": "tummple!",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "336847",
+      "gameName": "Tyrants of the Underdark: Board Game",
+      "personas": []
+    },
+    {
+      "gameID": "126163",
+      "gameName": "Tzolk'in: The Mayan Calendar",
+      "personas": []
+    },
+    {
+      "gameID": "16986",
+      "gameName": "Ubongo",
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
+    },
+    {
+      "gameID": "329500",
+      "gameName": "Unconscious Mind",
+      "personas": []
+    },
+    {
+      "gameID": "354570",
+      "gameName": "Undaunted: Stalingrad",
+      "personas": []
+    },
+    {
+      "gameID": "247763",
+      "gameName": "Underwater Cities",
+      "personas": []
+    },
+    {
+      "gameID": "340466",
+      "gameName": "Unfathomable",
+      "personas": []
+    },
+    {
+      "gameID": "343927",
+      "gameName": "Union Stockyards",
+      "personas": []
+    },
+    {
+      "gameID": "213460",
+      "gameName": "Unlock!: Escape Adventures",
+      "personas": ["Carlos MENDES"]
+    },
+    {
+      "gameID": "361241",
+      "gameName": "Vaalbara",
+      "personas": []
+    },
+    {
+      "gameID": "323262",
+      "gameName": "Velonimo",
+      "personas": []
+    },
+    {
+      "gameID": "172",
+      "gameName": "Vende-se",
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "334065",
+      "gameName": "Verdant",
+      "personas": []
+    },
+    {
+      "gameID": "104006",
+      "gameName": "Village",
+      "personas": []
+    },
+    {
+      "gameID": "241724",
+      "gameName": "Villagers",
+      "personas": []
+    },
+    {
+      "gameID": "334599",
+      "gameName": "Violet and the Grumpy Nisse",
+      "personas": []
+    },
+    {
+      "gameID": "194690",
+      "gameName": "Viral",
+      "personas": []
+    },
+    {
+      "gameID": "180020",
+      "gameName": "Virus!",
+      "personas": ["Eva Cunha", "Pedro Alves"]
+    },
+    {
+      "gameID": "296151",
+      "gameName": "Viscounts of the West Kingdom",
+      "personas": []
+    },
+    {
+      "gameID": "183394",
+      "gameName": "Viticulture Essential Edition",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "8195",
+      "gameName": "Viva Topo!",
+      "personas": []
+    },
+    {
+      "gameID": "316090",
+      "gameName": "Vivid Memories",
+      "personas": []
+    },
+    {
+      "gameID": "355483",
+      "gameName": "Wandering Towers",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "249259",
+      "gameName": "War Chest",
+      "personas": []
+    },
+    {
+      "gameID": "362944",
+      "gameName": "War of the Ring: The Card Game",
+      "personas": []
+    },
+    {
+      "gameID": "209641",
+      "gameName": "Warpgate",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "274364",
+      "gameName": "Watergate",
+      "personas": []
+    },
+    {
+      "gameID": "262543",
+      "gameName": "Wavelength",
+      "personas": ["Márcio", "Ricardo PIRES"]
+    },
+    {
+      "gameID": "350316",
+      "gameName": "Wayfarers of the South Tigris",
+      "personas": []
+    },
+    {
+      "gameID": "150312",
+      "gameName": "Welcome to the Dungeon",
+      "personas": []
+    },
+    {
+      "gameID": "191038",
+      "gameName": "West of Africa",
+      "personas": []
+    },
+    {
+      "gameID": "244654",
+      "gameName": "Wildlands",
+      "personas": []
+    },
+    {
+      "gameID": "266192",
+      "gameName": "Wingspan",
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+    },
+    {
+      "gameID": "256627",
+      "gameName": "Wombattle",
+      "personas": []
+    },
+    {
+      "gameID": "355093",
+      "gameName": "Woodcraft",
+      "personas": []
+    },
+    {
+      "gameID": "304620",
+      "gameName": "World of Tanks Miniatures Game",
+      "personas": []
+    },
+    {
+      "gameID": "410201",
+      "gameName": "Wyrmspan",
+      "personas": []
+    },
+    {
+      "gameID": "371981",
+      "gameName": "Yokai Sketch",
+      "personas": []
+    },
+    {
+      "gameID": "83197",
+      "gameName": "Zen Master",
+      "personas": []
+    },
+    {
+      "gameID": "423307",
+      "gameName": "Zero to Hero",
+      "personas": ["Carlos MENDES", "Márcio"]
+    },
+    {
+      "gameID": "137988",
+      "gameName": "Zombicide Season 2: Prison Outbreak",
+      "personas": []
+    },
+    {
+      "gameID": "224710",
+      "gameName": "Zombicide: Green Horde",
+      "personas": ["Márcio"]
+    },
+    {
+      "gameID": "256952",
+      "gameName": "Zombie Kidz Evolution",
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
+    },
+    {
+      "gameID": "368061",
+      "gameName": "Zoo Vadis",
+      "personas": []
+    },
+    {
+      "gameID": "27588",
+      "gameName": "Zooloretto",
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "",
+      "personas": []
+    }
+  ]
+}
