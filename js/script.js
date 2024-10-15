@@ -9,7 +9,7 @@ window.onload = function () {
     .then((response) => response.json())
     .then((data) => {
       games = data.games; // Load JSON games
-      console.log(games);
+
       // If there's session data, prioritize it over JSON
       if (sessionData) {
         const localGames = JSON.parse(sessionData);
