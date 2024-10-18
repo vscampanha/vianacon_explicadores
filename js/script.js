@@ -46,6 +46,11 @@ function searchGames() {
   const resultsDiv = document.getElementById("results");
   resultsDiv.innerHTML = "";
 
+  if (!searchInput) {
+    resultsDiv.innerHTML = "";
+    return;
+  }
+
   if (!games || games.length === 0) {
     resultsDiv.innerHTML = "No games available";
     return;
@@ -69,68 +74,6 @@ function searchGames() {
     resultsDiv.innerHTML = "No games found";
   }
 }
-
-// // Function to handle CSV upload, convert to JSON, and download
-// function downloadGamesJson() {
-//   const fileInput = document.getElementById("csvFileInput");
-//   const file = fileInput.files[0];
-
-//   if (!file) {
-//     alert("Please select a CSV file first.");
-//     return;
-//   }
-
-//   Papa.parse(file, {
-//     complete: function (results) {
-//       const data = results.data;
-//       const headers = data[0]; // Get header row
-//       const uploadedGames = [];
-
-//       for (let i = 1; i < data.length; i++) {
-//         const row = data[i];
-//         const gameID = row[0]?.trim(); // Object ID
-//         const gameName = row[1]?.trim(); // Title
-
-//         // Check if gameID or gameName is empty
-//         if (!gameID || !gameName) {
-//           continue; // Skip this record
-//         }
-
-//         const game = {
-//           gameID: gameID,
-//           gameName: gameName,
-//           personas: [],
-//         };
-
-//         for (let j = 2; j < row.length; j++) {
-//           if (row[j].toLowerCase() === "x") {
-//             game.personas.push(headers[j]); // Add the person's name to personas
-//           }
-//         }
-
-//         uploadedGames.push(game);
-//       }
-
-//       // Create a Blob from the uploaded JSON data
-//       const jsonBlob = new Blob([JSON.stringify(uploadedGames, null, 2)], {
-//         type: "application/json",
-//       });
-//       const url = URL.createObjectURL(jsonBlob);
-
-//       // Create a temporary anchor element to trigger the download
-//       const a = document.createElement("a");
-//       a.href = url;
-//       a.download = "games.json"; // Name of the downloaded file
-//       document.body.appendChild(a);
-//       a.click();
-//       document.body.removeChild(a);
-//       URL.revokeObjectURL(url); // Clean up the object URL
-
-//       alert("CSV uploaded and JSON file downloaded.");
-//       closeModal();
-//     },
-//   });
-// }
 
 // Function to handle CSV upload, convert to JSON, and download
 function downloadGamesJson() {
