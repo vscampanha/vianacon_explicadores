@@ -362,7 +362,7 @@
     {
       "gameID": "251247",
       "gameName": "Barrage",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "152567",
@@ -571,7 +571,6 @@
         "Nuno Castilho",
         "Nuno Cunha",
         "Pedro Alves",
-        "Vitor Campanhã ",
         "Ana Oliveira / Artur Baixinho"
       ]
     },
@@ -814,8 +813,7 @@
         "Márcio",
         "Miguel Pereira",
         "Nuno Cunha",
-        "Pedro Alves",
-        "Vitor Campanhã "
+        "Pedro Alves"
       ]
     },
     {
@@ -885,7 +883,7 @@
     {
       "gameID": "402283",
       "gameName": "Courtisans",
-      "personas": ["Vitor Campanhã "]
+      "personas": ["Vitor Campanhã ", "Pedro Nunes"]
     },
     {
       "gameID": "8172",
@@ -1350,7 +1348,7 @@
     {
       "gameID": "296912",
       "gameName": "Fort",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "231788",
@@ -2088,7 +2086,7 @@
     {
       "gameID": "423401",
       "gameName": "Minos: Dawn of the Bronze Age",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "118",
