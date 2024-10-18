@@ -3,17 +3,17 @@
     {
       "gameID": "428224",
       "gameName": "1 A.M. Jailbreak",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "217335",
       "gameName": "111 Ants",
-      "personas": []
+      "personas": ["Eva Cunha"]
     },
     {
       "gameID": "371947",
       "gameName": "3 Ring Circus",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "86073",
@@ -23,99 +23,52 @@
     {
       "gameID": "268586",
       "gameName": "6 nimmt! 25 Jahre",
-      "personas": [
-        "Diogo Pinto",
-        "Eva Cunha",
-        "Márcio",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Eva Cunha", "Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "432",
       "gameName": "6 qui prend!",
-      "personas": [
-        "Diogo Pinto",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "68448",
       "gameName": "7 Wonders",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "173346",
       "gameName": "7 Wonders Duel",
-      "personas": [
-        "Diogo Pinto",
-        "Márcio",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Márcio", "Pedro Alves"]
     },
     {
       "gameID": "346703",
       "gameName": "7 Wonders: Architects",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Márcio",
-        "Marlene Cunha",
-        "Nuno Castilho",
-        "Vitor Campanhã ",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Márcio"]
     },
     {
       "gameID": "135779",
       "gameName": "A Fake Artist Goes to New York",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "204592",
       "gameName": "A Floresta Misteriosa",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "257496",
       "gameName": "A Game of Thrones: The Board Game (Second Edition) – Mother of Dragons",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "65244",
       "gameName": "A Ilha Proibida",
-      "personas": [
-        "André Silva ",
-        "Diogo Pinto",
-        "Márcio",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "253499",
       "gameName": "A War of Whispers",
-      "personas": ["Ricardo FERREIRA"]
+      "personas": []
     },
     {
       "gameID": "302260",
@@ -130,7 +83,7 @@
     {
       "gameID": "5",
       "gameName": "Acquire",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "4098",
@@ -140,17 +93,7 @@
     {
       "gameID": "422732",
       "gameName": "Agent Avenue",
-      "personas": [
-        "Afonso Marujo",
-        "André Silva ",
-        "Carlos MENDES",
-        "Lia",
-        "Márcio",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "230085",
@@ -160,51 +103,47 @@
     {
       "gameID": "383064",
       "gameName": "AI Space Puzzle",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "357563",
       "gameName": "Akropolis",
       "personas": [
         "Carlos MENDES",
-        "Diogo Pinto",
         "Márcio",
         "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Castilho",
         "Pedro Alves"
       ]
     },
     {
       "gameID": "298635",
       "gameName": "Alice's Garden",
-      "personas": ["Márcio", "Mariana Medeiros ", "Marlene Cunha"]
+      "personas": ["Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "32405",
       "gameName": "Alles Tomate!",
-      "personas": ["Afonso Marujo", "Lara Sofia", "Márcio"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "359838",
       "gameName": "Almost Innocent",
-      "personas": ["Afonso Marujo", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "185343",
       "gameName": "Anachrony",
-      "personas": ["Ricardo PIRES", "Vitor Campanhã "]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "338093",
       "gameName": "Ancient Knowledge",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "358661",
       "gameName": "Andromeda's Edge",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "191572",
@@ -219,37 +158,37 @@
     {
       "gameID": "344105",
       "gameName": "Anunnaki: Dawn of the Gods",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "400314",
       "gameName": "Apiary",
-      "personas": ["André Silva ", "Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "367662",
       "gameName": "Applejack",
-      "personas": ["Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "236457",
       "gameName": "Architects of the West Kingdom",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "359871",
       "gameName": "Arcs",
-      "personas": ["André Silva ", "Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "419279",
       "gameName": "Arcs: Leaders and Lore Pack",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "342942",
       "gameName": "Ark Nova",
-      "personas": ["Diogo Pinto", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "25643",
@@ -259,12 +198,12 @@
     {
       "gameID": "246150",
       "gameName": "Arraial",
-      "personas": ["Carlos MENDES", "Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "395375",
       "gameName": "Art Society",
-      "personas": ["Carlos MENDES", "Lia", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "72991",
@@ -274,7 +213,7 @@
     {
       "gameID": "65200",
       "gameName": "Asteroyds",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "307844",
@@ -284,59 +223,43 @@
     {
       "gameID": "362800",
       "gameName": "Autobahn: Kickstarter Edition",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "188866",
       "gameName": "Awkward Guests: The Walton Case",
-      "personas": ["Carlos MENDES", "Marlene Cunha"]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "230802",
       "gameName": "Azul",
       "personas": [
-        "Afonso Marujo",
         "Carlos MENDES",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Lia",
         "Márcio",
         "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Cunha",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Vitor Campanhã ",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
       "gameID": "363247",
       "gameName": "Azul: Master Chocolatier",
-      "personas": [
-        "Diogo Pinto",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": []
     },
     {
       "gameID": "287954",
       "gameName": "Azul: Pavilhão de Verão",
-      "personas": ["Pedro Alves", "Ana Oliveira / Artur Baixinho"]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "346965",
       "gameName": "Azul: Queen's Garden",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "219513",
       "gameName": "BÃ¤renpark",
-      "personas": ["Márcio", "Marlene Cunha", "Ricardo PIRES"]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "418354",
@@ -351,28 +274,22 @@
     {
       "gameID": "191925",
       "gameName": "Bandido",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha"
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "251247",
       "gameName": "Barrage",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "152567",
       "gameName": "Basari: Das Kartenspiel",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "37111",
       "gameName": "Battlestar Galactica: The Board Game",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "299592",
@@ -382,7 +299,7 @@
     {
       "gameID": "10547",
       "gameName": "Betrayal at House on the Hill",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "168435",
@@ -392,7 +309,7 @@
     {
       "gameID": "300523",
       "gameName": "Biblios: Quill and Parchment",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "277927",
@@ -407,27 +324,27 @@
     {
       "gameID": "328624",
       "gameName": "Block Ness",
-      "personas": ["Mariana Medeiros ", "Marlene Cunha", "Miguel Pereira"]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "240980",
       "gameName": "Blood on the Clocktower",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "170216",
       "gameName": "Blood Rage",
-      "personas": ["Afonso Marujo", "André Silva ", "Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "140933",
       "gameName": "Blueprints",
-      "personas": ["Marlene Cunha", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "11",
       "gameName": "Bohnanza",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "413246",
@@ -447,12 +364,12 @@
     {
       "gameID": "224517",
       "gameName": "Brass: Birmingham",
-      "personas": ["Diogo Pinto", "Marlene Cunha", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "28720",
       "gameName": "Brass: Lancashire",
-      "personas": ["Afonso Marujo", "Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "332386",
@@ -482,23 +399,17 @@
     {
       "gameID": "184921",
       "gameName": "Bunny Kingdom",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "284229",
       "gameName": "Butterfly",
-      "personas": ["Afonso Marujo", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "155362",
       "gameName": "Ca$h 'n Guns: Second Edition",
-      "personas": [
-        "Afonso Marujo",
-        "Márcio",
-        "Nuno Castilho",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "171499",
@@ -508,49 +419,42 @@
     {
       "gameID": "341496",
       "gameName": "Caesar's Empire",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "284936",
       "gameName": "CafÃ©",
-      "personas": ["Diogo Pinto", "Márcio", "Marlene Cunha", "Pedro Alves"]
+      "personas": ["Márcio", "Pedro Alves"]
     },
     {
       "gameID": "283155",
       "gameName": "Calico",
-      "personas": ["Diogo Pinto", "Marlene Cunha", "Pedro Alves"]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "153938",
       "gameName": "Camel Up",
-      "personas": ["André Silva ", "Carlos MENDES", "Márcio"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "41",
       "gameName": "Can't Stop",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "290236",
       "gameName": "Canvas",
-      "personas": ["Marlene Cunha", "Pedro Alves"]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "328565",
       "gameName": "Caper: Europe",
-      "personas": ["Afonso Marujo", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "423533",
       "gameName": "Captain Obvious",
-      "personas": ["Lia", "Mariana Medeiros ", "Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "171131",
@@ -560,35 +464,17 @@
     {
       "gameID": "822",
       "gameName": "Carcassonne",
-      "personas": [
-        "André Silva ",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Castilho",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Vitor Campanhã ",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "41010",
       "gameName": "Carcassonne Junior",
-      "personas": [
-        "Márcio",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "290367",
       "gameName": "Caretos",
-      "personas": ["Carlos MENDES", "Mariana Medeiros "]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "231484",
@@ -598,22 +484,17 @@
     {
       "gameID": "245934",
       "gameName": "Carpe Diem",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "826",
       "gameName": "Cartagena",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "263918",
       "gameName": "Cartographers",
-      "personas": [
-        "Carlos MENDES",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES", "Pedro Alves"]
     },
     {
       "gameID": "322045",
@@ -623,31 +504,22 @@
     {
       "gameID": "295947",
       "gameName": "Cascadia",
-      "personas": [
-        "Diogo Pinto",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "385318",
       "gameName": "Cascadia: Landmarks",
-      "personas": ["Marlene Cunha", "Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "407318",
       "gameName": "Cascadia: Rolling Rivers",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "416851",
       "gameName": "Castle Combo",
-      "personas": ["Carlos MENDES", "Pedro Alves", "Vitor Campanhã "]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "323614",
@@ -657,35 +529,27 @@
     {
       "gameID": "345972",
       "gameName": "Cat in the Box: Deluxe Edition",
-      "personas": ["Carlos MENDES", "Marlene Cunha", "Pedro Alves"]
+      "personas": ["Carlos MENDES", "Pedro Alves"]
     },
     {
       "gameID": "13",
       "gameName": "CATAN",
-      "personas": [
-        "André Silva ",
-        "Diogo Pinto",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Nuno Castilho",
-        "Nuno Cunha",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "125921",
       "gameName": "Catan: Junior",
-      "personas": ["Miguel Pereira", "Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "175117",
       "gameName": "Celestia",
-      "personas": ["Diogo Pinto", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "374200",
       "gameName": "Celtae",
-      "personas": ["Marlene Cunha", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "232832",
@@ -705,17 +569,12 @@
     {
       "gameID": "256918",
       "gameName": "Cerberus",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "2922",
       "gameName": "Chairs",
-      "personas": [
-        "André Silva ",
-        "Marlene Cunha",
-        "Pedro Alves",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "359970",
@@ -730,12 +589,12 @@
     {
       "gameID": "47",
       "gameName": "Chinatown",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "478",
       "gameName": "Citadels",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "233247",
@@ -745,7 +604,7 @@
     {
       "gameID": "201808",
       "gameName": "Clank!: A Deck-Building Adventure",
-      "personas": ["Pedro Alves", "Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "216132",
@@ -765,34 +624,19 @@
     {
       "gameID": "198773",
       "gameName": "Codenames: Pictures",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Lia",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "314503",
       "gameName": "Codex Naturalis",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "178900",
       "gameName": "Código secreto",
       "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Lia",
-        "Luisa Brito",
         "Márcio",
         "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Nuno Cunha",
         "Pedro Alves",
         "Ricardo PIRES"
       ]
@@ -800,34 +644,17 @@
     {
       "gameID": "224037",
       "gameName": "Código secreto dueto",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "5782",
       "gameName": "Coloretto",
-      "personas": [
-        "Afonso Marujo",
-        "André Silva ",
-        "Diogo Pinto",
-        "Eva Cunha",
-        "Lara Sofia",
-        "Márcio",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Eva Cunha", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "158899",
       "gameName": "Colt Express",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Marlene Cunha"
-      ]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "299027",
@@ -857,15 +684,7 @@
     {
       "gameID": "202564",
       "gameName": "Cookie Box",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Márcio",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "269725",
@@ -875,27 +694,27 @@
     {
       "gameID": "194100",
       "gameName": "Costa Rica",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "131357",
       "gameName": "Coup",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "402283",
       "gameName": "Courtisans",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "8172",
       "gameName": "Coyote",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "300753",
       "gameName": "Cross Clues",
-      "personas": ["Afonso Marujo", "Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "256570",
@@ -915,23 +734,17 @@
     {
       "gameID": "30380",
       "gameName": "Cuba",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "245476",
       "gameName": "CuBirds",
-      "personas": [
-        "Carlos MENDES",
-        "Márcio",
-        "Marlene Cunha",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "298069",
       "gameName": "Cubitos",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "54998",
@@ -946,7 +759,7 @@
     {
       "gameID": "286158",
       "gameName": "D.E.I.: Divide et Impera",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "322289",
@@ -966,42 +779,42 @@
     {
       "gameID": "225694",
       "gameName": "Decrypto",
-      "personas": ["Márcio", "Marlene Cunha"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "376747",
       "gameName": "Deep Dive",
-      "personas": ["Márcio", "Marlene Cunha", "Miguel Pereira", "Pedro Alves"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "169654",
       "gameName": "Deep Sea Adventure",
-      "personas": ["Diogo Pinto", "Lia", "Pedro Alves", "Ricardo PIRES"]
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "217321",
       "gameName": "Déjà Vu",
-      "personas": ["Afonso Marujo", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "256788",
       "gameName": "Detective Club",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "162082",
       "gameName": "Deus",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "152162",
       "gameName": "Diamonds",
-      "personas": ["Afonso Marujo", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "341787",
       "gameName": "Dice Miner: Backer Pack",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "221194",
@@ -1022,51 +835,27 @@
       "gameID": "39856",
       "gameName": "Dixit",
       "personas": [
-        "Afonso Marujo",
         "Carlos MENDES",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Lia",
-        "Luisa Brito",
         "Márcio",
         "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Cunha",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
       "gameID": "381308",
       "gameName": "Dixit: Disney Edition",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Lia",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
     },
     {
       "gameID": "92828",
       "gameName": "Dixit: Odyssey",
       "personas": [
-        "Afonso Marujo",
         "Carlos MENDES",
-        "Diogo Pinto",
-        "Lia",
         "Márcio",
         "Mariana Medeiros ",
-        "Miguel Pereira",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
@@ -1082,11 +871,7 @@
     {
       "gameID": "215311",
       "gameName": "Downforce",
-      "personas": [
-        "Carlos MENDES",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
     },
     {
       "gameID": "381278",
@@ -1096,19 +881,12 @@
     {
       "gameID": "350185",
       "gameName": "Draft & Write Records",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "264055",
       "gameName": "Draftosaurus",
-      "personas": [
-        "André Silva ",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "232219",
@@ -1118,24 +896,17 @@
     {
       "gameID": "375215",
       "gameName": "Dreamworld: An Unconscious Mind Card Game",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "405537",
       "gameName": "DroPolter",
-      "personas": [
-        "Diogo Pinto",
-        "Lia",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": []
     },
     {
       "gameID": "316554",
       "gameName": "Dune: Imperium",
-      "personas": ["Miguel Pereira", "Ricardo PIRES", "Vitor Campanhã "]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "45315",
@@ -1145,7 +916,7 @@
     {
       "gameID": "350184",
       "gameName": "Earth",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "162823",
@@ -1155,22 +926,17 @@
     {
       "gameID": "93",
       "gameName": "El Grande",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "41916",
       "gameName": "El Laberinto Mágico",
-      "personas": [
-        "Afonso Marujo",
-        "Márcio",
-        "Miguel Pereira",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "100423",
       "gameName": "Elder Sign",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "146021",
@@ -1180,12 +946,12 @@
     {
       "gameID": "206931",
       "gameName": "Encore!",
-      "personas": ["Ricardo PIRES", "Ana Oliveira / Artur Baixinho"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "220780",
       "gameName": "Era Uma Vez",
-      "personas": ["Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "270971",
@@ -1195,7 +961,7 @@
     {
       "gameID": "113294",
       "gameName": "Escape: The Curse of the Temple",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "149809",
@@ -1220,12 +986,12 @@
     {
       "gameID": "396989",
       "gameName": "Evenfall",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "199792",
       "gameName": "Everdell",
-      "personas": ["Marlene Cunha", "Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "363307",
@@ -1235,12 +1001,12 @@
     {
       "gameID": "339753",
       "gameName": "Évora",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "395906",
       "gameName": "Exploding Kittens: Good Vs Evil",
-      "personas": ["Márcio", "Nuno Castilho"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "176371",
@@ -1250,22 +1016,15 @@
     {
       "gameID": "260428",
       "gameName": "Fall of Rome",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "83195",
       "gameName": "Fantasma Blitz",
       "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
         "Eva Cunha",
-        "Lara Sofia",
-        "Lia",
-        "Luisa Brito",
         "Márcio",
         "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
         "Pedro Alves",
         "Ricardo PIRES"
       ]
@@ -1278,24 +1037,17 @@
     {
       "gameID": "385761",
       "gameName": "Faraway",
-      "personas": [
-        "Carlos MENDES",
-        "Márcio",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "345868",
       "gameName": "Federation",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "271601",
       "gameName": "Feed the Kraken",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "352574",
@@ -1310,12 +1062,12 @@
     {
       "gameID": "336986",
       "gameName": "Flamecraft",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "199478",
       "gameName": "Flamme Rouge",
-      "personas": ["Márcio", "Pedro Alves"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "10164",
@@ -1335,42 +1087,42 @@
     {
       "gameID": "136063",
       "gameName": "Forbidden Desert",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "391163",
       "gameName": "Forest Shuffle",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "635",
       "gameName": "Formula Motor Racing",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "296912",
       "gameName": "Fort",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "231788",
       "gameName": "Four Senses",
-      "personas": ["Afonso Marujo", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "370164",
       "gameName": "Fun Facts",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "318084",
       "gameName": "Furnace",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "171273",
       "gameName": "FUSE",
-      "personas": ["Afonso Marujo", "Lara Sofia", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "392825",
@@ -1380,12 +1132,12 @@
     {
       "gameID": "153422",
       "gameName": "Gardens",
-      "personas": ["Luisa Brito"]
+      "personas": []
     },
     {
       "gameID": "282918",
       "gameName": "Garum",
-      "personas": ["Diogo Pinto", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "19427",
@@ -1395,7 +1147,7 @@
     {
       "gameID": "9674",
       "gameName": "Genial",
-      "personas": ["Carlos MENDES", "Miguel Pereira", "Ricardo PIRES"]
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
     },
     {
       "gameID": "347013",
@@ -1405,7 +1157,7 @@
     {
       "gameID": "246192",
       "gameName": "Gizmos",
-      "personas": ["Márcio", "Marlene Cunha", "Ricardo PIRES"]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "275044",
@@ -1425,12 +1177,12 @@
     {
       "gameID": "182874",
       "gameName": "Grand Austria Hotel",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "341169",
       "gameName": "Great Western Trail: Second Edition",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "377198",
@@ -1440,7 +1192,7 @@
     {
       "gameID": "269144",
       "gameName": "Hadara",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "304783",
@@ -1450,55 +1202,37 @@
     {
       "gameID": "276086",
       "gameName": "Hamlet: The Village Building Game",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "290357",
       "gameName": "Hanabi: Grands Feux",
-      "personas": ["Marlene Cunha", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "194626",
       "gameName": "Happy Salmon",
-      "personas": [
-        "Lia",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Nuno Castilho",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "414317",
       "gameName": "Harmonies",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "199042",
       "gameName": "Harry Potter: Hogwarts Battle",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "366013",
       "gameName": "Heat: Pedal to the Metal",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Ricardo PIRES",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Carlos MENDES", "Ricardo PIRES"]
     },
     {
       "gameID": "312722",
       "gameName": "Hercules",
-      "personas": [
-        "André Silva ",
-        "Diogo Pinto",
-        "Marlene Cunha",
-        "Miguel Pereira"
-      ]
+      "personas": []
     },
     {
       "gameID": "198994",
@@ -1508,13 +1242,7 @@
     {
       "gameID": "8203",
       "gameName": "Hey That's My Fish!",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Eva Cunha",
-        "Nuno Cunha",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Carlos MENDES", "Eva Cunha", "Ricardo PIRES"]
     },
     {
       "gameID": "320718",
@@ -1529,7 +1257,7 @@
     {
       "gameID": "2655",
       "gameName": "Hive",
-      "personas": ["Afonso Marujo", "André Silva ", "Márcio", "Marlene Cunha"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "282524",
@@ -1539,14 +1267,7 @@
     {
       "gameID": "302520",
       "gameName": "Hues and Cues",
-      "personas": [
-        "Eva Cunha",
-        "Luisa Brito",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "328859",
@@ -1556,17 +1277,17 @@
     {
       "gameID": "198928",
       "gameName": "Iberia",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "244995",
       "gameName": "Illusion",
-      "personas": ["Afonso Marujo", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "378758",
       "gameName": "Imperial Miners",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "270844",
@@ -1581,12 +1302,12 @@
     {
       "gameID": "318184",
       "gameName": "Imperium: Classics",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "278751",
       "gameName": "In Front of the Elevators",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "116954",
@@ -1596,7 +1317,7 @@
     {
       "gameID": "155821",
       "gameName": "Inis",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "422126",
@@ -1606,7 +1327,7 @@
     {
       "gameID": "347305",
       "gameName": "Inventions: Evolution of Ideas",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "271088",
@@ -1621,79 +1342,52 @@
     {
       "gameID": "392473",
       "gameName": "Islet",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "148949",
       "gameName": "Istanbul",
-      "personas": ["Márcio", "Marlene Cunha"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "235488",
       "gameName": "Istanbul: The Dice Game",
-      "personas": ["Carlos MENDES", "Diogo Pinto"]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "327778",
       "gameName": "ito",
-      "personas": [
-        "Carlos MENDES",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "883",
       "gameName": "Ivanhoe",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "54043",
       "gameName": "Jaipur",
-      "personas": [
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "28023",
       "gameName": "Jamaica",
-      "personas": [
-        "Carlos MENDES",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Pedro Alves"]
     },
     {
       "gameID": "63632",
       "gameName": "Jerusalem",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "193042",
       "gameName": "Junk Art",
-      "personas": ["Márcio", "Ricardo PIRES", "Ana Oliveira / Artur Baixinho"]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "254640",
       "gameName": "Just One",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Lia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "320390",
@@ -1703,7 +1397,7 @@
     {
       "gameID": "331635",
       "gameName": "Kameloot",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "38545",
@@ -1713,12 +1407,7 @@
     {
       "gameID": "183251",
       "gameName": "Karuba",
-      "personas": [
-        "Márcio",
-        "Mariana Medeiros ",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "333255",
@@ -1728,7 +1417,7 @@
     {
       "gameID": "336849",
       "gameName": "Kemet: Blood and Sand – Kickstarter Edition",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "194196",
@@ -1738,33 +1427,28 @@
     {
       "gameID": "302917",
       "gameName": "King of 12",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "204583",
       "gameName": "Kingdomino",
       "personas": [
         "Carlos MENDES",
-        "Diogo Pinto",
         "Eva Cunha",
         "Márcio",
         "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Nuno Castilho",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
+        "Pedro Alves"
       ]
     },
     {
       "gameID": "340041",
       "gameName": "Kingdomino Origins",
-      "personas": ["Márcio", "Marlene Cunha"]
+      "personas": ["Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "293267",
       "gameName": "Kitara",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "287938",
@@ -1774,52 +1458,37 @@
     {
       "gameID": "165722",
       "gameName": "KLASK",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "277458",
       "gameName": "Kluster",
-      "personas": ["Márcio", "Marlene Cunha", "Miguel Pereira"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "379629",
       "gameName": "Knarr",
-      "personas": ["Carlos MENDES", "Miguel Pereira"]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "56786",
       "gameName": "Kuhhandel Master",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "264797",
       "gameName": "Kushi Express",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Marlene Cunha",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "385610",
       "gameName": "KutnÃ¡ Hora: The City of Silver",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "266083",
       "gameName": "L.L.A.M.A.",
-      "personas": ["Eva Cunha", "Nuno Cunha"]
+      "personas": ["Eva Cunha"]
     },
     {
       "gameID": "336929",
@@ -1829,7 +1498,7 @@
     {
       "gameID": "331059",
       "gameName": "Last Message",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "201856",
@@ -1839,7 +1508,7 @@
     {
       "gameID": "374201",
       "gameName": "Lata",
-      "personas": ["Mariana Medeiros ", "Marlene Cunha", "Pedro Alves"]
+      "personas": ["Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "265118",
@@ -1849,17 +1518,17 @@
     {
       "gameID": "191538",
       "gameName": "Leo",
-      "personas": ["Marlene Cunha", "Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "368173",
       "gameName": "Let's Go! To Japan",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "356033",
       "gameName": "Libertalia: Winds of Galecrest",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "395581",
@@ -1869,7 +1538,7 @@
     {
       "gameID": "306173",
       "gameName": "Lisbon Tram 28",
-      "personas": ["Carlos MENDES", "Marlene Cunha", "Pedro Alves"]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "328479",
@@ -1884,7 +1553,7 @@
     {
       "gameID": "110327",
       "gameName": "Lords of Waterdeep",
-      "personas": ["Afonso Marujo", "Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "203993",
@@ -1894,39 +1563,22 @@
     {
       "gameID": "312484",
       "gameName": "Lost Ruins of Arnak",
-      "personas": ["Pedro Alves", "Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "129622",
       "gameName": "Love Letter",
-      "personas": [
-        "Carlos MENDES",
-        "Lara Sofia",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
     },
     {
       "gameID": "118247",
       "gameName": "Lucky Numbers",
-      "personas": [
-        "Diogo Pinto",
-        "Eva Cunha",
-        "Márcio",
-        "Nuno Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Eva Cunha", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "245643",
       "gameName": "Luxor",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": []
     },
     {
       "gameID": "329529",
@@ -1936,13 +1588,7 @@
     {
       "gameID": "209778",
       "gameName": "Magic Maze",
-      "personas": [
-        "Diogo Pinto",
-        "Márcio",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Márcio", "Pedro Alves"]
     },
     {
       "gameID": "257067",
@@ -1952,7 +1598,7 @@
     {
       "gameID": "9440",
       "gameName": "Maharaja: The Game of Palace Building in India",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "230080",
@@ -1962,12 +1608,12 @@
     {
       "gameID": "49",
       "gameName": "Mamma Mia!",
-      "personas": ["Afonso Marujo", "Lara Sofia", "Márcio", "Marlene Cunha"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "95613",
       "gameName": "Mammut",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "317504",
@@ -1982,7 +1628,7 @@
     {
       "gameID": "276025",
       "gameName": "Maracaibo",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "297978",
@@ -1992,12 +1638,7 @@
     {
       "gameID": "29223",
       "gameName": "Marrakech",
-      "personas": [
-        "Afonso Marujo",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "314491",
@@ -2007,7 +1648,7 @@
     {
       "gameID": "46",
       "gameName": "Medici",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "167270",
@@ -2022,7 +1663,7 @@
     {
       "gameID": "262477",
       "gameName": "Mercado de Lisboa",
-      "personas": ["Marlene Cunha", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "25292",
@@ -2037,12 +1678,12 @@
     {
       "gameID": "306040",
       "gameName": "Merv: The Heart of the Silk Road",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "238799",
       "gameName": "Messina 1347",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "559",
@@ -2057,43 +1698,37 @@
     {
       "gameID": "313241",
       "gameName": "Micons",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "318977",
       "gameName": "MicroMacro: Crime City",
-      "personas": [
-        "Carlos MENDES",
-        "Márcio",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "403754",
       "gameName": "Middle Ages",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "346501",
       "gameName": "Mille Fiori",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "284653",
       "gameName": "Mind MGMT: The Psychic Espionage “Game.”",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "423401",
       "gameName": "Minos: Dawn of the Bronze Age",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "118",
       "gameName": "Modern Art",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "364042",
@@ -2118,7 +1753,7 @@
     {
       "gameID": "261265",
       "gameName": "Monster-Bande",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "270239",
@@ -2133,12 +1768,12 @@
     {
       "gameID": "1927",
       "gameName": "Munchkin",
-      "personas": ["André Silva "]
+      "personas": []
     },
     {
       "gameID": "204505",
       "gameName": "Museum",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "100734",
@@ -2148,18 +1783,12 @@
     {
       "gameID": "366456",
       "gameName": "My Shelfie",
-      "personas": [
-        "Carlos MENDES",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
     },
     {
       "gameID": "301767",
       "gameName": "Mysterium Park",
-      "personas": ["Diogo Pinto", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "19996",
@@ -2169,7 +1798,7 @@
     {
       "gameID": "360359",
       "gameName": "Neotopia",
-      "personas": ["Mariana Medeiros ", "Marlene Cunha"]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "244711",
@@ -2179,22 +1808,22 @@
     {
       "gameID": "353545",
       "gameName": "Next Station: London",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "380165",
       "gameName": "Next Station: Tokyo",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "13308",
       "gameName": "Niagara",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "293014",
       "gameName": "Nidavellir",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "279869",
@@ -2209,12 +1838,12 @@
     {
       "gameID": "12942",
       "gameName": "No Thanks!",
-      "personas": ["Afonso Marujo", "Márcio", "Ricardo PIRES"]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "393175",
       "gameName": "Nocturne",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "233676",
@@ -2234,7 +1863,7 @@
     {
       "gameID": "396790",
       "gameName": "Nucleum",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "234277",
@@ -2245,21 +1874,16 @@
       "gameID": "70323",
       "gameName": "O Rei de Tóquio",
       "personas": [
-        "Afonso Marujo",
-        "André Silva ",
-        "Diogo Pinto",
-        "Lara Sofia",
         "Márcio",
         "Mariana Medeiros ",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
       "gameID": "192074",
       "gameName": "Odin's Ravens (Second Edition)",
-      "personas": ["Afonso Marujo", "Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "283867",
@@ -2269,12 +1893,12 @@
     {
       "gameID": "183840",
       "gameName": "Oh My Goods!",
-      "personas": ["Márcio", "Pedro Alves"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "251412",
       "gameName": "On Tour",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "147949",
@@ -2289,12 +1913,12 @@
     {
       "gameID": "287084",
       "gameName": "Oriflamme",
-      "personas": ["Diogo Pinto", "Márcio"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "352710",
       "gameName": "Ouch!",
-      "personas": ["Eva Cunha", "Pedro Alves"]
+      "personas": ["Eva Cunha"]
     },
     {
       "gameID": "321596",
@@ -2309,20 +1933,14 @@
     {
       "gameID": "300531",
       "gameName": "Paleo",
-      "personas": [
-        "Mariana Medeiros ",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "30549",
       "gameName": "Pandemic",
       "personas": [
-        "Diogo Pinto",
         "Márcio",
         "Mariana Medeiros ",
-        "Nuno Castilho",
         "Pedro Alves",
         "Ricardo PIRES"
       ]
@@ -2335,24 +1953,17 @@
     {
       "gameID": "276498",
       "gameName": "Paris: La Cité de la Lumière",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "266524",
       "gameName": "PARKS",
-      "personas": ["Carlos MENDES", "Marlene Cunha", "Pedro Alves"]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "163412",
       "gameName": "Patchwork",
-      "personas": [
-        "Afonso Marujo",
-        "Lara Sofia",
-        "Márcio",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Márcio", "Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "245928",
@@ -2387,22 +1998,22 @@
     {
       "gameID": "369388",
       "gameName": "Penguin Airlines",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "90040",
       "gameName": "Pergamon",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "309728",
       "gameName": "Pessoa",
-      "personas": ["André Silva ", "Marlene Cunha", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "218603",
       "gameName": "Photosynthesis",
-      "personas": ["Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "284108",
@@ -2427,44 +2038,32 @@
     {
       "gameID": "181120",
       "gameName": "Pocket Invaders",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "43264",
       "gameName": "Pocket Rockets",
-      "personas": ["Afonso Marujo", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "368017",
       "gameName": "Point City",
-      "personas": ["Marlene Cunha", "Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "274960",
       "gameName": "Point Salad",
-      "personas": [
-        "André Silva ",
-        "Carlos MENDES",
-        "Márcio",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "254619",
       "gameName": "Porto",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Marlene Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "2651",
       "gameName": "Power Grid (Recharged Version)",
-      "personas": ["Afonso Marujo", "Diogo Pinto", "Márcio"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "222821",
@@ -2484,54 +2083,42 @@
     {
       "gameID": "260180",
       "gameName": "Project L",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Mariana Medeiros ",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "329484",
       "gameName": "Pyramido",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "368465",
       "gameName": "Qawale",
-      "personas": ["Marlene Cunha", "Miguel Pereira", "Pedro Alves"]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "266830",
       "gameName": "QE",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "300700",
       "gameName": "Quetzal",
-      "personas": ["Márcio", "Pedro Alves", "Ana Oliveira / Artur Baixinho"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "624",
       "gameName": "Quoridor",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Márcio",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Márcio", "Pedro Alves"]
     },
     {
       "gameID": "25669",
       "gameName": "Qwirkle",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "170042",
       "gameName": "Raiders of the North Sea",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "220877",
@@ -2546,22 +2133,22 @@
     {
       "gameID": "256589",
       "gameName": "Rallyman: GT",
-      "personas": ["Afonso Marujo", "Márcio", "Nuno Castilho"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "414107",
       "gameName": "Ratjack",
-      "personas": ["Carlos MENDES", "Pedro Alves"]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "42452",
       "gameName": "Rattus",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "381249",
       "gameName": "Rebel Princess",
-      "personas": ["Carlos MENDES"]
+      "personas": []
     },
     {
       "gameID": "417197",
@@ -2571,12 +2158,12 @@
     {
       "gameID": "161417",
       "gameName": "Red7",
-      "personas": ["Afonso Marujo", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "244228",
       "gameName": "Reef",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "262712",
@@ -2591,21 +2178,12 @@
     {
       "gameID": "91514",
       "gameName": "Rhino Hero",
-      "personas": [
-        "Afonso Marujo",
-        "Eva Cunha",
-        "Lara Sofia",
-        "Lia",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Eva Cunha", "Pedro Alves"]
     },
     {
       "gameID": "51",
       "gameName": "Ricochet Robots",
-      "personas": ["Afonso Marujo", "Carlos MENDES", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "255020",
@@ -2615,7 +2193,7 @@
     {
       "gameID": "203219",
       "gameName": "Rivals for Catan: Deluxe",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "121921",
@@ -2630,12 +2208,12 @@
     {
       "gameID": "169426",
       "gameName": "Roll Player",
-      "personas": ["André Silva "]
+      "personas": []
     },
     {
       "gameID": "240225",
       "gameName": "Roll to the Top!",
-      "personas": ["Miguel Pereira", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "305682",
@@ -2650,7 +2228,7 @@
     {
       "gameID": "276633",
       "gameName": "Rossio",
-      "personas": ["Carlos MENDES", "Mariana Medeiros ", "Pedro Alves"]
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
     },
     {
       "gameID": "360265",
@@ -2660,19 +2238,12 @@
     {
       "gameID": "9220",
       "gameName": "Saboteur",
-      "personas": ["Márcio", "Mariana Medeiros ", "Vitor Campanhã "]
+      "personas": ["Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "199561",
       "gameName": "Sagrada",
-      "personas": [
-        "André Silva ",
-        "Carlos MENDES",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES"]
     },
     {
       "gameID": "175549",
@@ -2692,7 +2263,7 @@
     {
       "gameID": "229220",
       "gameName": "Santa Maria",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "298065",
@@ -2702,58 +2273,42 @@
     {
       "gameID": "194655",
       "gameName": "Santorini",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Márcio",
-        "Marlene Cunha"
-      ]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "438",
       "gameName": "Scotland Yard",
-      "personas": ["Afonso Marujo", "Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "291453",
       "gameName": "SCOUT",
-      "personas": [
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": []
     },
     {
       "gameID": "169786",
       "gameName": "Scythe",
-      "personas": ["Márcio", "Ricardo PIRES", "Vitor Campanhã "]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "367220",
       "gameName": "Sea Salt & Paper",
-      "personas": ["Mariana Medeiros ", "Marlene Cunha"]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "188834",
       "gameName": "Secret Hitler",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "1198",
       "gameName": "SET",
-      "personas": ["Diogo Pinto", "Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "418059",
       "gameName": "SETI: Search for Extraterrestrial Intelligence",
-      "personas": ["Pedro Alves"]
-    },
-    {
-      "gameID": "408180",
-      "gameName": "Shackleton Base",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "15062",
@@ -2768,12 +2323,12 @@
     {
       "gameID": "298638",
       "gameName": "Sheriff of Nottingham: 2nd Edition",
-      "personas": ["Diogo Pinto", "Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "302280",
       "gameName": "Shifting Stones",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "75547",
@@ -2783,7 +2338,7 @@
     {
       "gameID": "20551",
       "gameName": "Shogun",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "270673",
@@ -2803,29 +2358,28 @@
         "Márcio",
         "Mariana Medeiros ",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
       "gameID": "298231",
       "gameName": "Skyrise",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "40692",
       "gameName": "Small World",
-      "personas": ["Márcio", "Vitor Campanhã "]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "38054",
       "gameName": "Snow Tails",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "67185",
       "gameName": "Sobek",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "332944",
@@ -2845,7 +2399,7 @@
     {
       "gameID": "427865",
       "gameName": "Souvenirs from Venice",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "242302",
@@ -2855,7 +2409,7 @@
     {
       "gameID": "206802",
       "gameName": "Spaghetti",
-      "personas": ["Lara Sofia"]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "155624",
@@ -2865,12 +2419,7 @@
     {
       "gameID": "146149",
       "gameName": "Speed Cups",
-      "personas": [
-        "Márcio",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "299169",
@@ -2895,23 +2444,12 @@
     {
       "gameID": "148228",
       "gameName": "Splendor",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Luisa Brito",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "364073",
       "gameName": "Splendor Duel",
-      "personas": ["Diogo Pinto", "Miguel Pereira", "Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "359878",
@@ -2921,35 +2459,27 @@
     {
       "gameID": "12346",
       "gameName": "Spooky Stairs",
-      "personas": ["Afonso Marujo", "Márcio", "Marlene Cunha"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "63268",
       "gameName": "Spot it!",
-      "personas": [
-        "Afonso Marujo",
-        "André Silva ",
-        "Lara Sofia",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": []
     },
     {
       "gameID": "251658",
       "gameName": "Sprawlopolis",
-      "personas": ["Nuno Cunha", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "166384",
       "gameName": "Spyfall",
-      "personas": ["Afonso Marujo", "Márcio"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "137269",
       "gameName": "Spyrium",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "245222",
@@ -2959,7 +2489,7 @@
     {
       "gameID": "147020",
       "gameName": "Star Realms",
-      "personas": ["André Silva ", "Pedro Alves", "Ricardo PIRES"]
+      "personas": ["Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "353470",
@@ -2984,25 +2514,12 @@
     {
       "gameID": "329845",
       "gameName": "Stella: Dixit Universe",
-      "personas": [
-        "Carlos MENDES",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
     },
     {
       "gameID": "34635",
       "gameName": "Stone Age",
-      "personas": [
-        "Afonso Marujo",
-        "Lara Sofia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "425560",
@@ -3027,32 +2544,17 @@
     {
       "gameID": "394334",
       "gameName": "Sunrise Lane",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "425428",
       "gameName": "Survive The Island",
-      "personas": [
-        "Diogo Pinto",
-        "Lia",
-        "Márcio",
-        "Pedro Alves",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "2653",
       "gameName": "Survive: Escape from Atlantis!",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lia",
-        "Márcio",
-        "Nuno Castilho",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "192291",
@@ -3062,23 +2564,12 @@
     {
       "gameID": "133473",
       "gameName": "Sushi Go!",
-      "personas": [
-        "Afonso Marujo",
-        "André Silva ",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Mariana Medeiros ", "Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "99219",
       "gameName": "Swish",
-      "personas": ["Afonso Marujo", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "316786",
@@ -3088,27 +2579,12 @@
     {
       "gameID": "253664",
       "gameName": "Taco Cat Goat Cheese Pizza",
-      "personas": [
-        "Eva Cunha",
-        "Lia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Eva Cunha", "Márcio", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "70919",
       "gameName": "Takenoko",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "24508",
@@ -3123,7 +2599,7 @@
     {
       "gameID": "286096",
       "gameName": "Tapestry",
-      "personas": ["Diogo Pinto", "Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "306481",
@@ -3133,36 +2609,12 @@
     {
       "gameID": "275870",
       "gameName": "TEAM3 GREEN",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Eva Cunha",
-        "Lara Sofia",
-        "Lia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Eva Cunha", "Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "247694",
       "gameName": "TEAM3 PINK",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Eva Cunha",
-        "Lara Sofia",
-        "Lia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Eva Cunha", "Márcio", "Mariana Medeiros ", "Ricardo PIRES"]
     },
     {
       "gameID": "297030",
@@ -3172,18 +2624,12 @@
     {
       "gameID": "46213",
       "gameName": "Telestrations",
-      "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Márcio",
-        "Mariana Medeiros "
-      ]
+      "personas": ["Márcio", "Mariana Medeiros "]
     },
     {
       "gameID": "206915",
       "gameName": "Tempel des Schreckens",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "229853",
@@ -3203,39 +2649,27 @@
     {
       "gameID": "328871",
       "gameName": "Terraforming Mars: Ares Expedition",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "375651",
       "gameName": "That's Not a Hat",
       "personas": [
-        "Afonso Marujo",
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Lia",
         "Márcio",
         "Mariana Medeiros ",
-        "Miguel Pereira",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
       "gameID": "406663",
       "gameName": "That's Not a Hat: Pop Culture",
-      "personas": [
-        "Diogo Pinto",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "378356",
       "gameName": "The A.R.T. Project",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "180593",
@@ -3245,12 +2679,12 @@
     {
       "gameID": "619",
       "gameName": "The Bottle Imp",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "84876",
       "gameName": "The Castles of Burgundy",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "270956",
@@ -3260,7 +2694,7 @@
     {
       "gameID": "284083",
       "gameName": "The Crew: The Quest for Planet Nine",
-      "personas": ["Miguel Pereira", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "13004",
@@ -3275,7 +2709,7 @@
     {
       "gameID": "361381",
       "gameName": "The Grand Carnival: On the Road",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "366752",
@@ -3285,32 +2719,27 @@
     {
       "gameID": "350933",
       "gameName": "The Guild of Merchant Explorers",
-      "personas": ["Márcio", "Miguel Pereira"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "376223",
       "gameName": "The Hunt",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "281259",
       "gameName": "The Isle of Cats",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "319966",
       "gameName": "The King Is Dead: Second Edition",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Pedro Alves",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "421006",
       "gameName": "The Lord of the Rings: Duel for Middle-earth",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "216459",
@@ -3340,12 +2769,12 @@
     {
       "gameID": "227224",
       "gameName": "The Red Cathedral",
-      "personas": ["Mariana Medeiros ", "Marlene Cunha"]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "128882",
       "gameName": "The Resistance: Avalon",
-      "personas": ["Afonso Marujo", "Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "257759",
@@ -3365,62 +2794,38 @@
     {
       "gameID": "371942",
       "gameName": "The White Castle",
-      "personas": ["Pedro Alves", "Ana Oliveira / Artur Baixinho"]
+      "personas": []
     },
     {
       "gameID": "368058",
       "gameName": "The Wolves",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "182028",
       "gameName": "Through the Ages: A New Story of Civilization",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "9209",
       "gameName": "Ticket to Ride",
-      "personas": [
-        "Diogo Pinto",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Castilho",
-        "Pedro Alves",
-        "Vitor Campanhã ",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "14996",
       "gameName": "Ticket to Ride: Europe",
       "personas": [
-        "Afonso Marujo",
         "Carlos MENDES",
-        "Diogo Pinto",
         "Márcio",
         "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Castilho",
-        "Nuno Cunha",
         "Pedro Alves",
-        "Ricardo PIRES",
-        "Ana Oliveira / Artur Baixinho"
+        "Ricardo PIRES"
       ]
     },
     {
       "gameID": "276894",
       "gameName": "Ticket to Ride: London",
-      "personas": [
-        "Diogo Pinto",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Nuno Castilho",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": []
     },
     {
       "gameID": "54",
@@ -3435,17 +2840,17 @@
     {
       "gameID": "354672",
       "gameName": "Time of Empires",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "321277",
       "gameName": "Tinners' Trail",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "163967",
       "gameName": "Tiny Epic Galaxies",
-      "personas": ["André Silva ", "Diogo Pinto", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "265736",
@@ -3460,7 +2865,7 @@
     {
       "gameID": "123540",
       "gameName": "Tokaido",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "215463",
@@ -3470,17 +2875,17 @@
     {
       "gameID": "283864",
       "gameName": "Trails of Tucana",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "102680",
       "gameName": "Trajan",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "288513",
       "gameName": "Tranquility",
-      "personas": ["Nuno Cunha", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "362986",
@@ -3490,13 +2895,7 @@
     {
       "gameID": "352515",
       "gameName": "Trio",
-      "personas": [
-        "Carlos MENDES",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Mariana Medeiros "]
     },
     {
       "gameID": "73439",
@@ -3506,7 +2905,7 @@
     {
       "gameID": "298060",
       "gameName": "Truffle Shuffle",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "142124",
@@ -3516,37 +2915,22 @@
     {
       "gameID": "16992",
       "gameName": "Tsuro",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Lara Sofia",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Pedro Alves"]
     },
     {
       "gameID": "270168",
       "gameName": "Tuki",
-      "personas": ["Afonso Marujo", "Diogo Pinto", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "156878",
       "gameName": "tummple!",
-      "personas": [
-        "Afonso Marujo",
-        "Lara Sofia",
-        "Márcio",
-        "Marlene Cunha",
-        "Miguel Pereira",
-        "Pedro Alves"
-      ]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "336847",
       "gameName": "Tyrants of the Underdark: Board Game",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "126163",
@@ -3556,18 +2940,12 @@
     {
       "gameID": "16986",
       "gameName": "Ubongo",
-      "personas": [
-        "Carlos MENDES",
-        "Luisa Brito",
-        "Márcio",
-        "Nuno Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
     },
     {
       "gameID": "329500",
       "gameName": "Unconscious Mind",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "354570",
@@ -3597,33 +2975,27 @@
     {
       "gameID": "361241",
       "gameName": "Vaalbara",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "323262",
       "gameName": "Velonimo",
-      "personas": ["Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "172",
       "gameName": "Vende-se",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Márcio",
-        "Pedro Alves",
-        "Ricardo PIRES"
-      ]
+      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves", "Ricardo PIRES"]
     },
     {
       "gameID": "334065",
       "gameName": "Verdant",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "104006",
       "gameName": "Village",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "241724",
@@ -3633,7 +3005,7 @@
     {
       "gameID": "334599",
       "gameName": "Violet and the Grumpy Nisse",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "194690",
@@ -3643,28 +3015,22 @@
     {
       "gameID": "180020",
       "gameName": "Virus!",
-      "personas": [
-        "Eva Cunha",
-        "Lia",
-        "Marlene Cunha",
-        "Pedro Alves",
-        "Ana Oliveira / Artur Baixinho"
-      ]
+      "personas": ["Eva Cunha", "Pedro Alves"]
     },
     {
       "gameID": "296151",
       "gameName": "Viscounts of the West Kingdom",
-      "personas": ["Marlene Cunha"]
+      "personas": []
     },
     {
       "gameID": "183394",
       "gameName": "Viticulture Essential Edition",
-      "personas": ["Pedro Alves", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
     },
     {
       "gameID": "8195",
       "gameName": "Viva Topo!",
-      "personas": ["Afonso Marujo", "Lara Sofia"]
+      "personas": []
     },
     {
       "gameID": "316090",
@@ -3674,17 +3040,17 @@
     {
       "gameID": "355483",
       "gameName": "Wandering Towers",
-      "personas": ["Afonso Marujo", "Carlos MENDES", "Márcio"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "249259",
       "gameName": "War Chest",
-      "personas": ["Miguel Pereira"]
+      "personas": []
     },
     {
       "gameID": "362944",
       "gameName": "War of the Ring: The Card Game",
-      "personas": ["Vitor Campanhã "]
+      "personas": []
     },
     {
       "gameID": "209641",
@@ -3699,15 +3065,7 @@
     {
       "gameID": "262543",
       "gameName": "Wavelength",
-      "personas": [
-        "Afonso Marujo",
-        "Diogo Pinto",
-        "Márcio",
-        "Miguel Pereira",
-        "Pedro Alves",
-        "Ricardo PIRES",
-        "Vitor Campanhã "
-      ]
+      "personas": ["Márcio", "Ricardo PIRES"]
     },
     {
       "gameID": "350316",
@@ -3717,7 +3075,7 @@
     {
       "gameID": "150312",
       "gameName": "Welcome to the Dungeon",
-      "personas": ["Diogo Pinto", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "191038",
@@ -3732,19 +3090,12 @@
     {
       "gameID": "266192",
       "gameName": "Wingspan",
-      "personas": [
-        "Carlos MENDES",
-        "Diogo Pinto",
-        "Mariana Medeiros ",
-        "Miguel Pereira",
-        "Nuno Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Carlos MENDES", "Mariana Medeiros "]
     },
     {
       "gameID": "256627",
       "gameName": "Wombattle",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "355093",
@@ -3759,7 +3110,7 @@
     {
       "gameID": "410201",
       "gameName": "Wyrmspan",
-      "personas": ["André Silva ", "Pedro Alves"]
+      "personas": []
     },
     {
       "gameID": "371981",
@@ -3769,34 +3120,27 @@
     {
       "gameID": "83197",
       "gameName": "Zen Master",
-      "personas": ["Afonso Marujo"]
+      "personas": []
     },
     {
       "gameID": "423307",
       "gameName": "Zero to Hero",
-      "personas": ["Carlos MENDES", "Márcio", "Pedro Alves"]
+      "personas": ["Carlos MENDES", "Márcio"]
     },
     {
       "gameID": "137988",
       "gameName": "Zombicide Season 2: Prison Outbreak",
-      "personas": ["Diogo Pinto"]
+      "personas": []
     },
     {
       "gameID": "224710",
       "gameName": "Zombicide: Green Horde",
-      "personas": ["Diogo Pinto", "Márcio", "Nuno Castilho"]
+      "personas": ["Márcio"]
     },
     {
       "gameID": "256952",
       "gameName": "Zombie Kidz Evolution",
-      "personas": [
-        "Carlos MENDES",
-        "Lia",
-        "Márcio",
-        "Mariana Medeiros ",
-        "Marlene Cunha",
-        "Pedro Alves"
-      ]
+      "personas": ["Márcio", "Mariana Medeiros ", "Pedro Alves"]
     },
     {
       "gameID": "368061",
@@ -3806,7 +3150,11 @@
     {
       "gameID": "27588",
       "gameName": "Zooloretto",
-      "personas": ["Afonso Marujo", "Lara Sofia", "Ricardo PIRES"]
+      "personas": ["Ricardo PIRES"]
+    },
+    {
+      "gameID": "",
+      "personas": []
     }
   ]
 }
