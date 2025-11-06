@@ -1,73 +1,69 @@
 let games = [];
 
-// Load games from sessionStorage or fetch games.json
 window.onload = function () {
   const sessionData = sessionStorage.getItem("games");
 
-  // Load games from the 'data/games.json' file
-  fetch("data/games.json") // Adjusted to point to 'data' folder
+  fetch("data/games.json")
     .then((response) => response.json())
     .then((data) => {
-      games = data.games; // Load JSON games
+      games = data.games;
 
-      // If there's session data, prioritize it over JSON
       if (sessionData) {
         const localGames = JSON.parse(sessionData);
-        mergeGames(localGames); // Merge local and JSON games, prioritizing local storage
+        mergeGames(localGames);
       }
 
-      // Save the current data back into session storage (if session is empty, initialize it)
       sessionStorage.setItem("games", JSON.stringify(games));
     })
     .catch((error) => console.error("Error loading games:", error));
 };
 
-// Merge games from JSON and localStorage, prioritizing localStorage
 function mergeGames(localGames) {
-  const mergedGames = [...localGames]; // Start with local storage data
+  const mergedGames = [...localGames];
 
   games.forEach((jsonGame) => {
     const foundInLocal = localGames.some(
-      (localGame) => localGame.gameID === jsonGame.gameID
+      (localGame) => localGame.gameName === jsonGame.gameName
     );
-
-    // If the game is not in local storage, add it from JSON
-    if (!foundInLocal) {
-      mergedGames.push(jsonGame);
-    }
+    if (!foundInLocal) mergedGames.push(jsonGame);
   });
 
-  games = mergedGames; // Overwrite the global games array with merged data
+  games = mergedGames;
 }
 
-// Search function
 function searchGames() {
   const searchInput = document.getElementById("searchBar").value.toLowerCase();
   const resultsDiv = document.getElementById("results");
   resultsDiv.innerHTML = "";
 
-  if (!searchInput) {
-    resultsDiv.innerHTML = "";
-    return;
-  }
+  if (!searchInput) return;
 
   if (!games || games.length === 0) {
     resultsDiv.innerHTML = "No games available";
     return;
   }
 
-  const filteredGames = games.filter((game) => {
-    // Ensure gameName exists before using toLowerCase
-    return game.gameName && game.gameName.toLowerCase().includes(searchInput);
-  });
+  const filteredGames = games.filter((game) =>
+    game.gameName.toLowerCase().includes(searchInput)
+  );
 
   if (filteredGames.length > 0) {
     filteredGames.forEach((game) => {
       const gameDiv = document.createElement("div");
       gameDiv.classList.add("result-item");
-      gameDiv.innerHTML = `<strong>${
-        game.gameName
-      }</strong> - Explicadores: ${game.personas.join(", ")}`;
+
+      if (!game.personas || game.personas.length === 0) {
+        gameDiv.style.border = "1px solid rgba(255, 99, 99, 0.6)";
+        gameDiv.style.borderRadius = "8px";
+        gameDiv.style.padding = "6px";
+        gameDiv.style.marginBottom = "6px";
+        gameDiv.style.opacity = "0.6";
+      }
+
+      gameDiv.innerHTML = `<strong>${game.gameName}</strong> - Explicadores: ${
+        game.personas.length > 0 ? game.personas.join(", ") : "<em>Nenhum</em>"
+      }`;
+
       resultsDiv.appendChild(gameDiv);
     });
   } else {
@@ -75,7 +71,6 @@ function searchGames() {
   }
 }
 
-// Function to handle CSV upload, convert to JSON, and download
 function downloadGamesJson() {
   const fileInput = document.getElementById("csvFileInput");
   const file = fileInput.files[0];
@@ -88,51 +83,42 @@ function downloadGamesJson() {
   Papa.parse(file, {
     complete: function (results) {
       const data = results.data;
-      const headers = data[0]; // Get header row
+      const headers = data[0];
+      const persons = headers.slice(1);
       const uploadedGames = [];
 
       for (let i = 1; i < data.length; i++) {
         const row = data[i];
-        const gameID = row[0]?.trim(); // Object ID
-        const gameName = row[1]?.trim(); // Title
+        const gameName = row[0]?.trim();
+        if (!gameName) continue;
 
-        // Check if gameID or gameName is empty
-        if (!gameID || !gameName) {
-          continue; // Skip this record
+        const personas = [];
+
+        for (let j = 1; j < row.length; j++) {
+          const cell = row[j]?.trim().toLowerCase();
+          if (cell && cell === "x") personas.push(persons[j - 1]);
         }
 
-        const game = {
-          gameID: gameID,
+        uploadedGames.push({
           gameName: gameName,
-          personas: [],
-        };
-
-        for (let j = 2; j < row.length; j++) {
-          if (row[j].toLowerCase() === "x") {
-            game.personas.push(headers[j]); // Add the person's name to personas
-          }
-        }
-
-        uploadedGames.push(game);
+          personas: personas,
+        });
       }
 
-      // Wrap uploaded games in an object with a 'games' property
       const gamesObject = { games: uploadedGames };
 
-      // Create a Blob from the uploaded JSON data
       const jsonBlob = new Blob([JSON.stringify(gamesObject, null, 2)], {
         type: "application/json",
       });
       const url = URL.createObjectURL(jsonBlob);
 
-      // Create a temporary anchor element to trigger the download
       const a = document.createElement("a");
       a.href = url;
-      a.download = "games.json"; // Name of the downloaded file
+      a.download = "games.json";
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
-      URL.revokeObjectURL(url); // Clean up the object URL
+      URL.revokeObjectURL(url);
 
       alert("CSV uploaded and JSON file downloaded.");
       closeModal();
@@ -140,7 +126,6 @@ function downloadGamesJson() {
   });
 }
 
-// CSV to JSON conversion and replace sessionStorage
 function convertCSV() {
   const fileInput = document.getElementById("csvFileInput");
   const file = fileInput.files[0];
@@ -150,36 +135,34 @@ function convertCSV() {
     return;
   }
 
-  // Clear local session data
   sessionStorage.removeItem("games");
 
   Papa.parse(file, {
     complete: function (results) {
       const data = results.data;
-      const headers = data[0]; // Get header row
+      const headers = data[0];
+      const persons = headers.slice(1);
       const uploadedGames = [];
 
       for (let i = 1; i < data.length; i++) {
         const row = data[i];
-        const game = {
-          gameID: row[0], // Object ID
-          gameName: row[1], // Title
-          personas: [],
-        };
+        const gameName = row[0]?.trim();
+        if (!gameName) continue;
 
-        for (let j = 2; j < row.length; j++) {
-          if (row[j].toLowerCase() === "x") {
-            game.personas.push(headers[j]); // Add the person's name to personas
-          }
+        const personas = [];
+
+        for (let j = 1; j < row.length; j++) {
+          const cell = row[j]?.trim().toLowerCase();
+          if (cell && cell === "x") personas.push(persons[j - 1]);
         }
 
-        uploadedGames.push(game);
+        uploadedGames.push({
+          gameName: gameName,
+          personas: personas,
+        });
       }
 
-      // Store the newly uploaded data in sessionStorage
       sessionStorage.setItem("games", JSON.stringify(uploadedGames));
-
-      // Merge uploaded data with JSON data
       mergeGames(uploadedGames);
 
       alert("CSV uploaded and session data updated.");
@@ -188,7 +171,6 @@ function convertCSV() {
   });
 }
 
-// Modal handling
 const modal = document.getElementById("uploadModal");
 const btn = document.getElementById("uploadBtn");
 const span = document.getElementsByClassName("close")[0];
