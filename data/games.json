@@ -29,13 +29,15 @@
         "Luis Brito",
         "Miguel Pereira",
         "Nuno Cunha",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
       "gameName": "7 Wonders",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Márcio",
@@ -49,7 +51,7 @@
     {
       "gameName": "7 Wonders Dice",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Carlos Mendes",
         "Diogo Pinto",
         "Miguel Pereira"
@@ -58,7 +60,7 @@
     {
       "gameName": "7 Wonders Duel",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Márcio",
         "Carlos Mendes",
@@ -74,7 +76,7 @@
       "gameName": "7 Wonders: Architects",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes",
         "Márcio",
         "Nuno Castilho",
@@ -86,7 +88,9 @@
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "David A. M.",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -112,13 +116,14 @@
       "gameName": "Agent Avenue",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Pedro Nunes",
         "Márcio",
         "Carlos Mendes",
         "Miguel Pereira",
         "Nuno Cunha",
+        "Ricardo Pires",
         "David A. M."
       ]
     },
@@ -130,7 +135,9 @@
     },
     {
       "gameName": "Air, Land, & Sea",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Akropolis",
@@ -208,7 +215,9 @@
     {
       "gameName": "Applejack",
       "personas": [
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -220,7 +229,8 @@
     {
       "gameName": "Arcs",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha",
+        "Joaquim Manuel Costa"
       ]
     },
     {
@@ -233,7 +243,9 @@
     },
     {
       "gameName": "Arkadia",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Arraial",
@@ -254,13 +266,15 @@
     },
     {
       "gameName": "Asara",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Azul",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -272,11 +286,14 @@
         "Marlene Cunha",
         "Miguel Pereira",
         "Nuno Cunha",
+        "Ricardo Pires",
         "Andrea",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "David A. M.",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -310,7 +327,9 @@
         "Carlos Mendes",
         "Diogo Pinto",
         "Marlene Cunha",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -324,13 +343,14 @@
       "personas": [
         "Pedro Alves",
         "Marlene Cunha",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Barrage",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
@@ -343,6 +363,7 @@
     {
       "gameName": "Battle Line: Medieval",
       "personas": [
+        "Ricardo Pires",
         "David A. M."
       ]
     },
@@ -365,7 +386,8 @@
     {
       "gameName": "Between Two Cities",
       "personas": [
-        "Márcio"
+        "Márcio",
+        "Ricardo Pires"
       ]
     },
     {
@@ -389,12 +411,14 @@
       "gameName": "Blood Rage",
       "personas": [
         "André Silva",
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
       "gameName": "Blueprints",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Bohemians",
@@ -481,9 +505,11 @@
         "Márcio",
         "Nuno Castilho",
         "Diogo Pinto",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho"
       ]
     },
     {
@@ -496,8 +522,7 @@
       "gameName": "Cacao",
       "personas": [
         "Pedro Alves",
-        "Luis Brito",
-        "Luis Baixinho"
+        "Luis Brito"
       ]
     },
     {
@@ -515,12 +540,15 @@
         "Carlos Mendes",
         "Diogo Pinto",
         "Marlene Cunha",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho"
       ]
     },
     {
       "gameName": "Cakes!",
-      "personas": []
+      "personas": [
+        "David A. M."
+      ]
     },
     {
       "gameName": "Calico",
@@ -559,7 +587,9 @@
         "Marlene Cunha",
         "Miguel Pereira",
         "David A. M.",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -579,13 +609,15 @@
       "gameName": "Captain Flip",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Carlos Mendes",
         "Diogo Pinto",
         "Miguel Pereira",
         "David A. M.",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -596,7 +628,9 @@
     },
     {
       "gameName": "Captain Sonar",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Caravan",
@@ -608,7 +642,7 @@
       "gameName": "Carcassonne",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -619,9 +653,12 @@
         "Luis Brito",
         "Miguel Pereira",
         "Nuno Cunha",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -660,16 +697,20 @@
         "Andrea",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "David A. M."
+        "David A. M.",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
       "gameName": "Castle Combo",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Carlos Mendes",
         "Juari",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -714,7 +755,8 @@
       "gameName": "Celestia",
       "personas": [
         "Diogo Pinto",
-        "Luis Brito"
+        "Luis Brito",
+        "Ricardo Pires"
       ]
     },
     {
@@ -802,7 +844,9 @@
       "personas": [
         "Pedro Alves",
         "Pedro Nunes",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -836,6 +880,7 @@
         "Juari",
         "Miguel Pereira",
         "Nuno Cunha",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "Luis Baixinho"
@@ -862,7 +907,10 @@
         "Pedro Alves",
         "Márcio",
         "Carlos Mendes",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -877,14 +925,17 @@
       "gameName": "Coloretto",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
         "Lara Sofia",
         "Miguel Pereira",
         "Nuno Cunha",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -904,7 +955,9 @@
     },
     {
       "gameName": "Commissioned",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Concept",
@@ -931,7 +984,8 @@
         "Márcio",
         "Diogo Pinto",
         "Lara Sofia",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
@@ -958,6 +1012,7 @@
         "Afonso",
         "Pedro Nunes",
         "Lara Sofia",
+        "Ricardo Pires",
         "David A. M."
       ]
     },
@@ -970,7 +1025,9 @@
     },
     {
       "gameName": "Crypt",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Cryptid",
@@ -1001,7 +1058,8 @@
         "Marlene Cunha",
         "Nuno Cunha",
         "Joaquim Manuel Costa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho"
       ]
     },
     {
@@ -1020,7 +1078,9 @@
       "personas": [
         "Márcio",
         "Juari",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1036,7 +1096,7 @@
     {
       "gameName": "Deep Dive",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Marlene Cunha",
         "Miguel Pereira"
@@ -1050,6 +1110,7 @@
         "Diogo Pinto",
         "Juari",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea"
       ]
     },
@@ -1070,7 +1131,8 @@
     {
       "gameName": "Detective Club",
       "personas": [
-        "Pedro Nunes"
+        "Pedro Nunes",
+        "Ana Baixinho"
       ]
     },
     {
@@ -1083,12 +1145,16 @@
         "Miguel Pereira",
         "Nuno Cunha",
         "Joaquim Manuel Costa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
       "gameName": "Diamonds",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Diluvium",
@@ -1135,6 +1201,7 @@
         "Luis Brito",
         "Miguel Pereira",
         "Nuno Cunha",
+        "Ricardo Pires",
         "Andrea",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
@@ -1149,6 +1216,7 @@
         "Carlos Mendes",
         "Juari",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea"
       ]
     },
@@ -1161,7 +1229,10 @@
         "Juari",
         "Luis Brito",
         "Miguel Pereira",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1174,7 +1245,9 @@
         "Márcio",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1187,7 +1260,8 @@
     {
       "gameName": "Downforce: Danger Circuit",
       "personas": [
-        "Carlos Mendes"
+        "Carlos Mendes",
+        "Ricardo Pires"
       ]
     },
     {
@@ -1211,7 +1285,9 @@
         "Marlene Cunha",
         "Miguel Pereira",
         "Andrea",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1224,7 +1300,7 @@
       "gameName": "DroPolter",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes",
         "Miguel Pereira"
       ]
@@ -1239,8 +1315,9 @@
     {
       "gameName": "Dune: Imperium",
       "personas": [
-        "Vitor Campanhã",
-        "Miguel Pereira"
+        "Vitor Campanha",
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
@@ -1269,7 +1346,6 @@
     {
       "gameName": "Echoes of Time",
       "personas": [
-        "Vitor Campanhã",
         "Márcio"
       ]
     },
@@ -1284,7 +1360,7 @@
     {
       "gameName": "El Grande",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
@@ -1308,7 +1384,9 @@
     {
       "gameName": "Encore!",
       "personas": [
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1332,7 +1410,7 @@
     {
       "gameName": "Estoril 1942: Super Box",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
@@ -1340,7 +1418,9 @@
       "personas": [
         "Pedro Alves",
         "Marlene Cunha",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1364,7 +1444,9 @@
     {
       "gameName": "Fairy Tile",
       "personas": [
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1383,7 +1465,7 @@
     {
       "gameName": "Faraway",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Carlos Mendes",
         "Luis Brito",
@@ -1454,7 +1536,7 @@
     {
       "gameName": "Flip 7",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Pedro Nunes",
         "Márcio",
@@ -1462,6 +1544,7 @@
         "Juari",
         "Marlene Cunha",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "David A. M.",
@@ -1470,7 +1553,9 @@
     },
     {
       "gameName": "Flip Ships",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Floresta",
@@ -1479,23 +1564,28 @@
     {
       "gameName": "For Sale",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Márcio",
         "Carlos Mendes",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Forbidden Desert",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Forbidden Island",
       "personas": [
         "Pedro Nunes",
         "Diogo Pinto",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1507,7 +1597,8 @@
     {
       "gameName": "Formation",
       "personas": [
-        "Juari"
+        "Juari",
+        "Ricardo Pires"
       ]
     },
     {
@@ -1540,13 +1631,14 @@
       "gameName": "FUSE",
       "personas": [
         "Afonso",
-        "Lara Sofia"
+        "Lara Sofia",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Galaxy Trucker (Second Edition)",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Joaquim Manuel Costa"
       ]
     },
@@ -1576,7 +1668,9 @@
     },
     {
       "gameName": "Gemblo",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Get on Board: New York & London",
@@ -1601,7 +1695,8 @@
       "gameName": "Gizmos",
       "personas": [
         "Márcio",
-        "Marlene Cunha"
+        "Marlene Cunha",
+        "Ricardo Pires"
       ]
     },
     {
@@ -1659,12 +1754,15 @@
         "Afonso",
         "Pedro Nunes",
         "Lara Sofia",
+        "Ricardo Pires",
         "Andrea"
       ]
     },
     {
       "gameName": "Hanabi Deluxe: What a Show!",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Happy Home",
@@ -1679,8 +1777,11 @@
         "Diogo Pinto",
         "Juari",
         "Marlene Cunha",
+        "Ricardo Pires",
         "Andrea",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1697,16 +1798,19 @@
     {
       "gameName": "Harry Potter: Hogwarts Battle",
       "personas": [
-        "Pedro Alves"
+        "Pedro Alves",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
       "gameName": "Heat: Pedal to the Metal",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Carlos Mendes",
         "Diogo Pinto",
         "Juari",
+        "Ricardo Pires",
         "Joaquim Manuel Costa"
       ]
     },
@@ -1729,13 +1833,14 @@
         "Márcio",
         "Carlos Mendes",
         "Marlene Cunha",
-        "Nuno Cunha"
+        "Nuno Cunha",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Hidden Leaders",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes"
       ]
     },
@@ -1786,7 +1891,8 @@
         "Afonso",
         "Pedro Nunes",
         "Lara Sofia",
-        "Marlene Cunha"
+        "Marlene Cunha",
+        "Ricardo Pires"
       ]
     },
     {
@@ -1846,7 +1952,8 @@
         "Afonso",
         "Márcio",
         "Carlos Mendes",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
@@ -1861,7 +1968,9 @@
     },
     {
       "gameName": "Isle of Skye: From Chieftain to King",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Islet",
@@ -1881,25 +1990,28 @@
     {
       "gameName": "ito",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
         "Carlos Mendes",
         "Diogo Pinto",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires",
+        "Ana Baixinho"
       ]
     },
     {
       "gameName": "It's a Wonderful World",
       "personas": [
-        "Juari"
+        "Juari",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Jaipur",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Márcio",
@@ -1916,7 +2028,9 @@
         "Pedro Alves",
         "Carlos Mendes",
         "Joaquim Manuel Costa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -1930,7 +2044,9 @@
       "gameName": "Junk Art",
       "personas": [
         "Afonso",
-        "Márcio"
+        "Márcio",
+        "Ricardo Pires",
+        "Ana Baixinho"
       ]
     },
     {
@@ -1946,7 +2062,9 @@
         "Lara Sofia",
         "Miguel Pereira",
         "Nuno Cunha",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Ana Baixinho"
       ]
     },
     {
@@ -1959,7 +2077,9 @@
       "gameName": "Karuba",
       "personas": [
         "Juari",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires",
+        "Ana Baixinho"
       ]
     },
     {
@@ -1985,9 +2105,12 @@
         "Diogo Pinto",
         "Juari",
         "Lara Sofia",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2017,7 +2140,8 @@
         "Nuno Cunha",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho"
       ]
     },
     {
@@ -2034,7 +2158,9 @@
     },
     {
       "gameName": "Kitchen Rush (Revised Edition)",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "KLASK",
@@ -2045,7 +2171,9 @@
         "Carlos Mendes",
         "Diogo Pinto",
         "Lara Sofia",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2074,7 +2202,8 @@
         "Pedro Nunes",
         "Márcio",
         "Diogo Pinto",
-        "Marlene Cunha"
+        "Marlene Cunha",
+        "Ricardo Pires"
       ]
     },
     {
@@ -2182,7 +2311,6 @@
     {
       "gameName": "Little Soldiers",
       "personas": [
-        "Vitor Campanhã",
         "Pedro Alves",
         "Miguel Pereira"
       ]
@@ -2214,7 +2342,9 @@
         "Pedro Nunes",
         "Marlene Cunha",
         "Joaquim Manuel Costa",
-        "Filipa Sousa"
+        "Filipa Sousa",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2229,7 +2359,7 @@
       "gameName": "Luxor",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Carlos Mendes",
@@ -2247,7 +2377,7 @@
       "gameName": "Magic Maze",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes",
         "Márcio",
         "Nuno Castilho",
@@ -2289,9 +2419,7 @@
     },
     {
       "gameName": "Mansions of Madness: Second Edition",
-      "personas": [
-        "David A. M."
-      ]
+      "personas": []
     },
     {
       "gameName": "Map Masters",
@@ -2318,7 +2446,10 @@
         "Afonso",
         "Juari",
         "Lara Sofia",
-        "David A. M."
+        "Ricardo Pires",
+        "David A. M.",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2339,7 +2470,9 @@
     },
     {
       "gameName": "Medina (Second Edition)",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Meeple Land",
@@ -2389,7 +2522,10 @@
         "Nuno Castilho",
         "Carlos Mendes",
         "Marlene Cunha",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2399,7 +2535,10 @@
         "Márcio",
         "Nuno Castilho",
         "Carlos Mendes",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2411,7 +2550,8 @@
     {
       "gameName": "Mission: Red Planet (Second/Third Edition)",
       "personas": [
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
@@ -2433,7 +2573,9 @@
     },
     {
       "gameName": "Moon Colony Bloodbath",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Moon River",
@@ -2480,7 +2622,9 @@
       "personas": [
         "Márcio",
         "Lara Sofia",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2501,7 +2645,9 @@
     },
     {
       "gameName": "Nations: The Dice Game",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Near and Far",
@@ -2516,16 +2662,18 @@
     {
       "gameName": "Next Station: London",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Marlene Cunha",
         "Miguel Pereira",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
       "gameName": "Next Station: Tokyo",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Miguel Pereira",
         "Luis Baixinho"
       ]
@@ -2543,13 +2691,16 @@
     },
     {
       "gameName": "Nine-minute Kingdom",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "No Thanks!",
       "personas": [
         "Afonso",
-        "Pedro Nunes"
+        "Pedro Nunes",
+        "Ricardo Pires"
       ]
     },
     {
@@ -2609,7 +2760,9 @@
     {
       "gameName": "One Night Ultimate Werewolf",
       "personas": [
-        "Pedro Nunes"
+        "Pedro Nunes",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2659,7 +2812,9 @@
         "Pedro Alves",
         "Márcio",
         "Juari",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2679,11 +2834,12 @@
       "gameName": "Pandemic",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Pedro Nunes",
         "Nuno Castilho",
         "Juari",
+        "Ricardo Pires",
         "Joaquim Manuel Costa"
       ]
     },
@@ -2732,6 +2888,7 @@
         "Lara Sofia",
         "Luis Brito",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea",
         "Joaquim Manuel Costa",
         "Filipa Sousa"
@@ -2785,7 +2942,9 @@
     },
     {
       "gameName": "Pocket Rockets",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Point of View: Spooky Festival",
@@ -2800,7 +2959,9 @@
         "Pedro Alves",
         "Pedro Nunes",
         "Márcio",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2809,7 +2970,9 @@
         "Pedro Alves",
         "Carlos Mendes",
         "Marlene Cunha",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2831,7 +2994,8 @@
     {
       "gameName": "Powerships",
       "personas": [
-        "Afonso"
+        "Afonso",
+        "Ricardo Pires"
       ]
     },
     {
@@ -2860,13 +3024,14 @@
         "Pedro Nunes",
         "Carlos Mendes",
         "Diogo Pinto",
-        "Juari"
+        "Juari",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Propolis",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes",
         "Márcio",
         "Miguel Pereira"
@@ -2875,14 +3040,15 @@
     {
       "gameName": "Pueblo",
       "personas": [
-        "Afonso"
+        "Afonso",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Pyradice",
       "personas": [
         "André Silva",
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Carlos Mendes",
         "Diogo Pinto",
@@ -2902,7 +3068,7 @@
     {
       "gameName": "QE",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
@@ -2952,7 +3118,8 @@
         "Diogo Pinto",
         "Lara Sofia",
         "Miguel Pereira",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Artur"
       ]
     },
     {
@@ -2966,7 +3133,8 @@
     {
       "gameName": "Qwirkle",
       "personas": [
-        "Diogo Pinto"
+        "Diogo Pinto",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3001,7 +3169,8 @@
     {
       "gameName": "Rallyman: DIRT",
       "personas": [
-        "Pedro Nunes"
+        "Pedro Nunes",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3052,7 +3221,8 @@
       "gameName": "Red7",
       "personas": [
         "Afonso",
-        "Pedro Nunes"
+        "Pedro Nunes",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3077,7 +3247,9 @@
         "Diogo Pinto",
         "Lara Sofia",
         "Miguel Pereira",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3090,7 +3262,7 @@
     {
       "gameName": "Rising Sun",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
@@ -3121,7 +3293,9 @@
     },
     {
       "gameName": "Rock Hard: 1977",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Rock Swap Flip-Flop",
@@ -3138,7 +3312,8 @@
       "gameName": "Room 25 Ultimate",
       "personas": [
         "Diogo Pinto",
-        "Juari"
+        "Juari",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3193,7 +3368,7 @@
     {
       "gameName": "Santorini",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Nunes",
         "Márcio",
@@ -3206,17 +3381,19 @@
     {
       "gameName": "SCOUT",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Juari",
-        "Marlene Cunha"
+        "Marlene Cunha",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Scythe",
       "personas": [
         "Márcio",
-        "Juari"
+        "Juari",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3229,7 +3406,9 @@
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "David A. M.",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3277,6 +3456,7 @@
         "Juari",
         "Luis Brito",
         "Nuno Cunha",
+        "Ricardo Pires",
         "Joaquim Manuel Costa"
       ]
     },
@@ -3312,7 +3492,7 @@
     {
       "gameName": "Small World",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Márcio",
         "Joaquim Manuel Costa"
       ]
@@ -3340,7 +3520,7 @@
     {
       "gameName": "Solstis",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Miguel Pereira"
       ]
@@ -3354,6 +3534,7 @@
     {
       "gameName": "Space Base",
       "personas": [
+        "Ricardo Pires",
         "David A. M."
       ]
     },
@@ -3369,8 +3550,11 @@
         "Afonso",
         "Márcio",
         "Lara Sofia",
+        "Ricardo Pires",
         "Andrea",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3391,6 +3575,7 @@
         "Marlene Cunha",
         "Miguel Pereira",
         "Nuno Cunha",
+        "Ricardo Pires",
         "Andrea",
         "David A. M.",
         "Luis Baixinho"
@@ -3399,7 +3584,7 @@
     {
       "gameName": "Splendor Duel",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Diogo Pinto",
         "Luis Brito",
         "Miguel Pereira",
@@ -3446,7 +3631,8 @@
       "gameName": "Star Realms",
       "personas": [
         "André Silva",
-        "Márcio"
+        "Márcio",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3460,12 +3646,15 @@
     {
       "gameName": "Star Wars: X-Wing (Second Edition)",
       "personas": [
-        "Nuno Castilho"
+        "Nuno Castilho",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Steam Park",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Steam Power",
@@ -3482,13 +3671,16 @@
         "Juari",
         "Lara Sofia",
         "Luis Brito",
+        "Ricardo Pires",
         "David A. M.",
         "Luis Baixinho"
       ]
     },
     {
       "gameName": "Sub Terra",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Subatomic: An Atom Building Game",
@@ -3525,7 +3717,8 @@
         "Pedro Alves",
         "Márcio",
         "Carlos Mendes",
-        "Diogo Pinto"
+        "Diogo Pinto",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3535,13 +3728,15 @@
         "Pedro Alves",
         "Márcio",
         "Nuno Castilho",
-        "Diogo Pinto"
+        "Diogo Pinto",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "Sushi Go Party!",
       "personas": [
         "Lara Sofia",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa"
       ]
@@ -3558,10 +3753,13 @@
         "Lara Sofia",
         "Marlene Cunha",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3599,7 +3797,6 @@
     {
       "gameName": "Tacta",
       "personas": [
-        "Vitor Campanhã",
         "Pedro Alves",
         "Carlos Mendes",
         "Miguel Pereira"
@@ -3625,7 +3822,9 @@
     },
     {
       "gameName": "Taluva",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Tammany Hall",
@@ -3665,8 +3864,11 @@
         "Diogo Pinto",
         "Lara Sofia",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3678,8 +3880,11 @@
         "Diogo Pinto",
         "Lara Sofia",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3694,7 +3899,9 @@
         "Carlos Mendes",
         "Diogo Pinto",
         "Juari",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3712,6 +3919,7 @@
       "personas": [
         "Diogo Pinto",
         "Juari",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "David A. M.",
@@ -3742,8 +3950,11 @@
         "Juari",
         "Lara Sofia",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Andrea",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3752,7 +3963,10 @@
         "Pedro Nunes",
         "Márcio",
         "Diogo Pinto",
-        "Luis Baixinho"
+        "Ricardo Pires",
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3772,6 +3986,7 @@
       "gameName": "The Castles of Burgundy",
       "personas": [
         "Miguel Pereira",
+        "Ricardo Pires",
         "David A. M."
       ]
     },
@@ -3789,12 +4004,14 @@
     },
     {
       "gameName": "The Estates",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "The Fellowship of the Ring: Trick-Taking Game",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Miguel Pereira"
       ]
     },
@@ -3832,13 +4049,14 @@
       "personas": [
         "Pedro Alves",
         "Pedro Nunes",
-        "Carlos Mendes"
+        "Carlos Mendes",
+        "Ricardo Pires"
       ]
     },
     {
       "gameName": "The Lord of the Rings: Duel for Middle-earth",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Alves",
         "Nuno Castilho",
         "Carlos Mendes",
@@ -3847,14 +4065,18 @@
     },
     {
       "gameName": "The Lost Expedition",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "The Magic Labyrinth",
       "personas": [
         "Afonso",
         "Lara Sofia",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3941,7 +4163,7 @@
     {
       "gameName": "Ticket to Ride",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Márcio",
@@ -3950,17 +4172,21 @@
         "Juari",
         "Luis Brito",
         "Miguel Pereira",
+        "Ricardo Pires",
         "Joaquim Manuel Costa",
         "Filipa Sousa",
         "David A. M.",
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
       "gameName": "Ticket to Ride Map Collection 7: Japan & Italy",
       "personas": [
         "Nuno Castilho",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ricardo Pires"
       ]
     },
     {
@@ -3973,7 +4199,10 @@
         "Diogo Pinto",
         "Juari",
         "Miguel Pereira",
-        "Nuno Cunha"
+        "Nuno Cunha",
+        "Ricardo Pires",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -3983,7 +4212,8 @@
         "Márcio",
         "Nuno Castilho",
         "Diogo Pinto",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ana Baixinho"
       ]
     },
     {
@@ -4032,7 +4262,8 @@
     {
       "gameName": "Tiny Epic Galaxies",
       "personas": [
-        "André Silva"
+        "André Silva",
+        "Ricardo Pires"
       ]
     },
     {
@@ -4075,7 +4306,9 @@
     },
     {
       "gameName": "Transformers Deck-Building Game",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Trekking Through History",
@@ -4090,7 +4323,7 @@
     {
       "gameName": "Trio",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes",
         "Carlos Mendes",
         "Juari",
@@ -4184,7 +4417,7 @@
     {
       "gameName": "Unmatched: Cobble & Fog",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha"
       ]
     },
     {
@@ -4222,7 +4455,9 @@
         "Pedro Alves",
         "Juari",
         "Marlene Cunha",
-        "Andrea"
+        "Andrea",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -4238,7 +4473,8 @@
     {
       "gameName": "Viticulture Essential Edition",
       "personas": [
-        "Pedro Alves"
+        "Pedro Alves",
+        "Ricardo Pires"
       ]
     },
     {
@@ -4271,7 +4507,9 @@
     },
     {
       "gameName": "Warpgate",
-      "personas": []
+      "personas": [
+        "Ricardo Pires"
+      ]
     },
     {
       "gameName": "Waterfall Park",
@@ -4283,13 +4521,14 @@
     {
       "gameName": "Wavelength",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
         "Márcio",
         "Diogo Pinto",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ana Baixinho"
       ]
     },
     {
@@ -4439,7 +4678,7 @@
     {
       "gameName": "Zoo Vadis",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes"
       ]
     },
@@ -4447,7 +4686,8 @@
       "gameName": "Zooloretto",
       "personas": [
         "Afonso",
-        "Lara Sofia"
+        "Lara Sofia",
+        "Ricardo Pires"
       ]
     },
     {
@@ -4546,7 +4786,6 @@
     {
       "gameName": "Hidden Leaders (Kickstarter Edition)",
       "personas": [
-        "Vitor Campanhã",
         "Pedro Nunes"
       ]
     },
@@ -4557,7 +4796,8 @@
     {
       "gameName": "Lusíadas",
       "personas": [
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho"
       ]
     },
     {
@@ -4590,7 +4830,7 @@
     {
       "gameName": "Point City",
       "personas": [
-        "Vitor Campanhã",
+        "Vitor Campanha",
         "Pedro Nunes"
       ]
     },
@@ -4606,7 +4846,6 @@
     {
       "gameName": "Propolis",
       "personas": [
-        "Vitor Campanhã",
         "Pedro Nunes",
         "Márcio",
         "Miguel Pereira"
@@ -4626,7 +4865,9 @@
         "Afonso",
         "Márcio",
         "Lara Sofia",
-        "Miguel Pereira"
+        "Miguel Pereira",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -4742,7 +4983,9 @@
     {
       "gameName": "Loco Momo",
       "personas": [
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
@@ -4758,19 +5001,16 @@
     {
       "gameName": "Rise of Augustus",
       "personas": [
-        "Luis Baixinho"
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
       ]
     },
     {
-      "gameName": "TrailBlazzers",
+      "gameName": "Inis",
       "personas": [
-        "Vitor Campanhã"
-      ]
-    },
-    {
-      "gameName": "Stupor Mundi",
-      "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanha",
+        "João Ferreira"
       ]
     }
   ]
