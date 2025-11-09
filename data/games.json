@@ -1,6 +1,658 @@
 {
   "games": [
     {
+      "gameName": "2 Win",
+      "personas": []
+    },
+    {
+      "gameName": "20 Bucks for That?!",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "A War of Whispers",
+      "personas": []
+    },
+    {
+      "gameName": "Android: Netrunner",
+      "personas": []
+    },
+    {
+      "gameName": "Animal Upon Animal",
+      "personas": [
+        "Márcio",
+        "Carlos Mendes",
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "Bag of Chips",
+      "personas": []
+    },
+    {
+      "gameName": "Blocky",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Brick Like This!",
+      "personas": []
+    },
+    {
+      "gameName": "Ca$h 'n Gun$",
+      "personas": [
+        "Márcio",
+        "Diogo Pinto",
+        "Joaquim Manuel Costa"
+      ]
+    },
+    {
+      "gameName": "Coatl",
+      "personas": []
+    },
+    {
+      "gameName": "Critter Kitchen: Deluxe Edition",
+      "personas": []
+    },
+    {
+      "gameName": "Cyclades",
+      "personas": []
+    },
+    {
+      "gameName": "Dragomino",
+      "personas": []
+    },
+    {
+      "gameName": "Exploding Kittens: The Board Game",
+      "personas": []
+    },
+    {
+      "gameName": "Faiyum",
+      "personas": []
+    },
+    {
+      "gameName": "Fruit Fight",
+      "personas": []
+    },
+    {
+      "gameName": "Garden Nation",
+      "personas": []
+    },
+    {
+      "gameName": "Gelati",
+      "personas": []
+    },
+    {
+      "gameName": "Guildlands",
+      "personas": []
+    },
+    {
+      "gameName": "Havalandi",
+      "personas": []
+    },
+    {
+      "gameName": "Hula-Hoo!",
+      "personas": [
+        "Diogo Pinto"
+      ]
+    },
+    {
+      "gameName": "Imagine",
+      "personas": []
+    },
+    {
+      "gameName": "Indago",
+      "personas": []
+    },
+    {
+      "gameName": "Jaws",
+      "personas": []
+    },
+    {
+      "gameName": "Kameloot",
+      "personas": [
+        "Diogo Pinto"
+      ]
+    },
+    {
+      "gameName": "KAPOW! Volume 2",
+      "personas": []
+    },
+    {
+      "gameName": "Kariba",
+      "personas": []
+    },
+    {
+      "gameName": "Magazine",
+      "personas": []
+    },
+    {
+      "gameName": "Merlin",
+      "personas": []
+    },
+    {
+      "gameName": "Metro",
+      "personas": []
+    },
+    {
+      "gameName": "Middle Ages",
+      "personas": [
+        "Carlos Mendes",
+        "Miguel Pereira",
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "Mille Fiori",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Monza",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "Mooki Island",
+      "personas": []
+    },
+    {
+      "gameName": "Neotopia",
+      "personas": []
+    },
+    {
+      "gameName": "Nobel Run",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Of Popes & Plagues",
+      "personas": []
+    },
+    {
+      "gameName": "Onward",
+      "personas": []
+    },
+    {
+      "gameName": "Piles! A Fast-Paced Free-For-All",
+      "personas": []
+    },
+    {
+      "gameName": "Pipeline",
+      "personas": []
+    },
+    {
+      "gameName": "Pyradice",
+      "personas": [
+        "André Silva",
+        "Vitor Santos",
+        "Pedro Alves",
+        "Carlos Mendes",
+        "Diogo Pinto",
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Railroad Ink: Deep Blue Edition",
+      "personas": [
+        "Diogo Pinto"
+      ]
+    },
+    {
+      "gameName": "Redwood",
+      "personas": []
+    },
+    {
+      "gameName": "Rescue Animals",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Seaside",
+      "personas": []
+    },
+    {
+      "gameName": "Secret Hitler",
+      "personas": [
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "Sheriff of Nottingham: 2nd Edition",
+      "personas": [
+        "Diogo Pinto",
+        "Joaquim Manuel Costa"
+      ]
+    },
+    {
+      "gameName": "Shit Happens",
+      "personas": []
+    },
+    {
+      "gameName": "Sierra",
+      "personas": []
+    },
+    {
+      "gameName": "Similo",
+      "personas": []
+    },
+    {
+      "gameName": "So Clover!",
+      "personas": []
+    },
+    {
+      "gameName": "Spaghetti",
+      "personas": [
+        "Márcio"
+      ]
+    },
+    {
+      "gameName": "Stampfarm",
+      "personas": []
+    },
+    {
+      "gameName": "Strike",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "Stupor Mundi",
+      "personas": []
+    },
+    {
+      "gameName": "The Castles of Burgundy",
+      "personas": [
+        "Miguel Pereira",
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "The Enchanted Tower",
+      "personas": [
+        "Márcio"
+      ]
+    },
+    {
+      "gameName": "The Lord of the Rings: The Fellowship of the Ring",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "The Trash Travelers",
+      "personas": []
+    },
+    {
+      "gameName": "Things in Rings",
+      "personas": []
+    },
+    {
+      "gameName": "Tiny Epic Dinosaurs",
+      "personas": []
+    },
+    {
+      "gameName": "Touch It",
+      "personas": []
+    },
+    {
+      "gameName": "Trailblazers: Travel Edition",
+      "personas": []
+    },
+    {
+      "gameName": "Tzolk'in: The Mayan Calendar",
+      "personas": []
+    },
+    {
+      "gameName": "Who Did It?",
+      "personas": []
+    },
+    {
+      "gameName": "World Wonders",
+      "personas": [
+        "Márcio"
+      ]
+    },
+    {
+      "gameName": "Yeti Snack!",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Kemet: Blood and Sand",
+      "personas": [
+        "Afonso",
+        "Márcio",
+        "Juari"
+      ]
+    },
+    {
+      "gameName": "Star Wars: The Deckbuilding Game",
+      "personas": [
+        "Márcio"
+      ]
+    },
+    {
+      "gameName": "Aeon's End",
+      "personas": []
+    },
+    {
+      "gameName": "At the Gates of Loyang",
+      "personas": []
+    },
+    {
+      "gameName": "Footprints",
+      "personas": [
+        "Luis Baixinho"
+      ]
+    },
+    {
+      "gameName": "Hallertau",
+      "personas": [
+        "Luis Baixinho"
+      ]
+    },
+    {
+      "gameName": "Hamlet: The Village Building Game",
+      "personas": [
+        "Pedro Alves"
+      ]
+    },
+    {
+      "gameName": "Illumination",
+      "personas": []
+    },
+    {
+      "gameName": "Loco Momo",
+      "personas": [
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
+      ]
+    },
+    {
+      "gameName": "Lowlands",
+      "personas": []
+    },
+    {
+      "gameName": "Quadropolis",
+      "personas": [
+        "Luis Baixinho"
+      ]
+    },
+    {
+      "gameName": "Rise of Augustus",
+      "personas": [
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
+      ]
+    },
+    {
+      "gameName": "Inis",
+      "personas": [
+        "Vitor Santos",
+        "João Ferreira",
+        "Luis Baixinho",
+        "Ana Baixinho",
+        "Artur"
+      ]
+    },
+    {
+      "gameName": "A Carnivore Did It!",
+      "personas": []
+    },
+    {
+      "gameName": "Architects of the West Kingdom",
+      "personas": []
+    },
+    {
+      "gameName": "Awkward Guests: The Walton Case",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "Block Ness",
+      "personas": [
+        "Pedro Nunes",
+        "Juari"
+      ]
+    },
+    {
+      "gameName": "Bosk",
+      "personas": []
+    },
+    {
+      "gameName": "Brazil: Imperial",
+      "personas": [
+        "Juari",
+        "Joaquim Manuel Costa"
+      ]
+    },
+    {
+      "gameName": "Burgle Bros Blackjack",
+      "personas": [
+        "Joaquim Manuel Costa"
+      ]
+    },
+    {
+      "gameName": "Cartagena",
+      "personas": [
+        "Afonso",
+        "Luis Brito"
+      ]
+    },
+    {
+      "gameName": "Cascadia Junior",
+      "personas": []
+    },
+    {
+      "gameName": "Cascadia: Landmarks",
+      "personas": [
+        "Joaquim Manuel Costa"
+      ]
+    },
+    {
+      "gameName": "Cascadia: Rolling Rivers",
+      "personas": []
+    },
+    {
+      "gameName": "Cat Burglars",
+      "personas": []
+    },
+    {
+      "gameName": "Click! The Great Wall",
+      "personas": []
+    },
+    {
+      "gameName": "Cóatl",
+      "personas": []
+    },
+    {
+      "gameName": "Dicy Cards",
+      "personas": []
+    },
+    {
+      "gameName": "Exploding Kittens",
+      "personas": [
+        "Pedro Nunes",
+        "Márcio",
+        "Nuno Castilho"
+      ]
+    },
+    {
+      "gameName": "Faraway: People From Below",
+      "personas": [
+        "Pedro Alves",
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "Heroes of Oktoberfest",
+      "personas": []
+    },
+    {
+      "gameName": "Hidden Leaders (Kickstarter Edition)",
+      "personas": [
+        "Pedro Nunes"
+      ]
+    },
+    {
+      "gameName": "Hidden Leaders: Forgotten Legends",
+      "personas": []
+    },
+    {
+      "gameName": "Lusíadas",
+      "personas": [
+        "Luis Baixinho",
+        "Ana Baixinho"
+      ]
+    },
+    {
+      "gameName": "Micons",
+      "personas": []
+    },
+    {
+      "gameName": "Monopoly:  Builder",
+      "personas": []
+    },
+    {
+      "gameName": "Monster-Bande",
+      "personas": []
+    },
+    {
+      "gameName": "Nocturne",
+      "personas": []
+    },
+    {
+      "gameName": "Odd Shop",
+      "personas": []
+    },
+    {
+      "gameName": "Pixies",
+      "personas": [
+        "Joaquim Manuel Costa",
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "Point City",
+      "personas": [
+        "Vitor Santos",
+        "Pedro Nunes"
+      ]
+    },
+    {
+      "gameName": "Potion Explosion",
+      "personas": [
+        "Pedro Alves",
+        "Pedro Nunes",
+        "Joaquim Manuel Costa",
+        "Filipa Sousa"
+      ]
+    },
+    {
+      "gameName": "Propolis",
+      "personas": [
+        "Pedro Nunes",
+        "Márcio",
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Railroad Tiles",
+      "personas": []
+    },
+    {
+      "gameName": "Roaring River",
+      "personas": []
+    },
+    {
+      "gameName": "Spot it!",
+      "personas": [
+        "Afonso",
+        "Márcio",
+        "Lara Sofia",
+        "Miguel Pereira",
+        "Ana Baixinho",
+        "Artur"
+      ]
+    },
+    {
+      "gameName": "Spot it! Disney 100 Years of Wonder",
+      "personas": [
+        "Miguel Pereira"
+      ]
+    },
+    {
+      "gameName": "Spotlight",
+      "personas": []
+    },
+    {
+      "gameName": "Starligned",
+      "personas": []
+    },
+    {
+      "gameName": "Stella: Dixit Universe",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "Tag Team",
+      "personas": []
+    },
+    {
+      "gameName": "Tectonic Tribes",
+      "personas": [
+        "Joaquim Manuel Costa"
+      ]
+    },
+    {
+      "gameName": "Tekton Dash",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "The White Castle Duel",
+      "personas": []
+    },
+    {
+      "gameName": "Trails of Tucana",
+      "personas": []
+    },
+    {
+      "gameName": "Tranquility: The Ascent",
+      "personas": []
+    },
+    {
+      "gameName": "Triqueta",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
+      "gameName": "Vaalbara",
+      "personas": [
+        "David A. M."
+      ]
+    },
+    {
+      "gameName": "Verdant",
+      "personas": [
+        "Carlos Mendes"
+      ]
+    },
+    {
       "gameName": "1 A.M. Jailbreak",
       "personas": [
         "Pedro Alves"
@@ -37,7 +689,7 @@
     {
       "gameName": "7 Wonders",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Márcio",
@@ -51,7 +703,7 @@
     {
       "gameName": "7 Wonders Dice",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Carlos Mendes",
         "Diogo Pinto",
         "Miguel Pereira"
@@ -60,7 +712,7 @@
     {
       "gameName": "7 Wonders Duel",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Márcio",
         "Carlos Mendes",
@@ -76,7 +728,7 @@
       "gameName": "7 Wonders: Architects",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes",
         "Márcio",
         "Nuno Castilho",
@@ -116,7 +768,7 @@
       "gameName": "Agent Avenue",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Pedro Nunes",
         "Márcio",
@@ -229,7 +881,7 @@
     {
       "gameName": "Arcs",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Joaquim Manuel Costa"
       ]
     },
@@ -274,7 +926,7 @@
       "gameName": "Azul",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -350,7 +1002,7 @@
     {
       "gameName": "Barrage",
       "personas": [
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -411,7 +1063,7 @@
       "gameName": "Blood Rage",
       "personas": [
         "André Silva",
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -609,7 +1261,7 @@
       "gameName": "Captain Flip",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Carlos Mendes",
         "Diogo Pinto",
@@ -642,7 +1294,7 @@
       "gameName": "Carcassonne",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -705,7 +1357,7 @@
     {
       "gameName": "Castle Combo",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Carlos Mendes",
         "Juari",
         "Luis Baixinho",
@@ -925,7 +1577,7 @@
       "gameName": "Coloretto",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -1096,7 +1748,7 @@
     {
       "gameName": "Deep Dive",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Marlene Cunha",
         "Miguel Pereira"
@@ -1300,7 +1952,7 @@
       "gameName": "DroPolter",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes",
         "Miguel Pereira"
       ]
@@ -1315,7 +1967,7 @@
     {
       "gameName": "Dune: Imperium",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Miguel Pereira",
         "Ricardo Pires"
       ]
@@ -1360,7 +2012,7 @@
     {
       "gameName": "El Grande",
       "personas": [
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -1410,7 +2062,7 @@
     {
       "gameName": "Estoril 1942: Super Box",
       "personas": [
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -1465,7 +2117,7 @@
     {
       "gameName": "Faraway",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Carlos Mendes",
         "Luis Brito",
@@ -1536,7 +2188,7 @@
     {
       "gameName": "Flip 7",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Pedro Nunes",
         "Márcio",
@@ -1564,7 +2216,7 @@
     {
       "gameName": "For Sale",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Márcio",
         "Carlos Mendes",
@@ -1591,7 +2243,8 @@
     {
       "gameName": "Forest Shuffle",
       "personas": [
-        "Marlene Cunha"
+        "Marlene Cunha",
+        "David A. M."
       ]
     },
     {
@@ -1638,7 +2291,7 @@
     {
       "gameName": "Galaxy Trucker (Second Edition)",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Joaquim Manuel Costa"
       ]
     },
@@ -1806,12 +2459,13 @@
     {
       "gameName": "Heat: Pedal to the Metal",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Carlos Mendes",
         "Diogo Pinto",
         "Juari",
         "Ricardo Pires",
-        "Joaquim Manuel Costa"
+        "Joaquim Manuel Costa",
+        "David A. M."
       ]
     },
     {
@@ -1840,7 +2494,7 @@
     {
       "gameName": "Hidden Leaders",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes"
       ]
     },
@@ -1990,7 +2644,7 @@
     {
       "gameName": "ito",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -2011,7 +2665,7 @@
     {
       "gameName": "Jaipur",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Márcio",
@@ -2219,7 +2873,8 @@
         "Pedro Nunes",
         "Márcio",
         "Luis Brito",
-        "Nuno Cunha"
+        "Nuno Cunha",
+        "David A. M."
       ]
     },
     {
@@ -2325,7 +2980,6 @@
       "gameName": "Lost Ruins of Arnak",
       "personas": [
         "Pedro Alves",
-        "David A. M.",
         "Luis Baixinho"
       ]
     },
@@ -2359,7 +3013,7 @@
       "gameName": "Luxor",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Carlos Mendes",
@@ -2377,7 +3031,7 @@
       "gameName": "Magic Maze",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes",
         "Márcio",
         "Nuno Castilho",
@@ -2662,9 +3316,10 @@
     {
       "gameName": "Next Station: London",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Marlene Cunha",
         "Miguel Pereira",
+        "David A. M.",
         "Luis Baixinho",
         "Ana Baixinho",
         "Artur"
@@ -2673,7 +3328,7 @@
     {
       "gameName": "Next Station: Tokyo",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Miguel Pereira",
         "Luis Baixinho"
       ]
@@ -2834,7 +3489,7 @@
       "gameName": "Pandemic",
       "personas": [
         "André Silva",
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Pedro Nunes",
         "Nuno Castilho",
@@ -3031,7 +3686,7 @@
     {
       "gameName": "Propolis",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes",
         "Márcio",
         "Miguel Pereira"
@@ -3042,17 +3697,6 @@
       "personas": [
         "Afonso",
         "Ricardo Pires"
-      ]
-    },
-    {
-      "gameName": "Pyradice",
-      "personas": [
-        "André Silva",
-        "Vitor Campanha",
-        "Pedro Alves",
-        "Carlos Mendes",
-        "Diogo Pinto",
-        "Miguel Pereira"
       ]
     },
     {
@@ -3068,7 +3712,7 @@
     {
       "gameName": "QE",
       "personas": [
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -3262,7 +3906,7 @@
     {
       "gameName": "Rising Sun",
       "personas": [
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -3273,7 +3917,9 @@
     },
     {
       "gameName": "River Valley Glassworks",
-      "personas": []
+      "personas": [
+        "Pedro Alves"
+      ]
     },
     {
       "gameName": "Robinson Crusoe: Adventures on the Cursed Island",
@@ -3368,7 +4014,7 @@
     {
       "gameName": "Santorini",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Nunes",
         "Márcio",
@@ -3381,7 +4027,7 @@
     {
       "gameName": "SCOUT",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Juari",
         "Marlene Cunha",
@@ -3492,7 +4138,7 @@
     {
       "gameName": "Small World",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Márcio",
         "Joaquim Manuel Costa"
       ]
@@ -3520,7 +4166,7 @@
     {
       "gameName": "Solstis",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Miguel Pereira"
       ]
@@ -3534,6 +4180,7 @@
     {
       "gameName": "Space Base",
       "personas": [
+        "Miguel Pereira",
         "Ricardo Pires",
         "David A. M."
       ]
@@ -3584,7 +4231,7 @@
     {
       "gameName": "Splendor Duel",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Diogo Pinto",
         "Luis Brito",
         "Miguel Pereira",
@@ -4011,7 +4658,7 @@
     {
       "gameName": "The Fellowship of the Ring: Trick-Taking Game",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Miguel Pereira"
       ]
     },
@@ -4056,7 +4703,7 @@
     {
       "gameName": "The Lord of the Rings: Duel for Middle-earth",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Alves",
         "Nuno Castilho",
         "Carlos Mendes",
@@ -4088,8 +4735,7 @@
       "personas": [
         "Pedro Nunes",
         "Miguel Pereira",
-        "Andrea",
-        "David A. M."
+        "Andrea"
       ]
     },
     {
@@ -4163,7 +4809,7 @@
     {
       "gameName": "Ticket to Ride",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Márcio",
@@ -4323,7 +4969,7 @@
     {
       "gameName": "Trio",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes",
         "Carlos Mendes",
         "Juari",
@@ -4355,7 +5001,8 @@
       "gameName": "Tropichaos",
       "personas": [
         "Pedro Alves",
-        "Diogo Pinto"
+        "Diogo Pinto",
+        "Miguel Pereira"
       ]
     },
     {
@@ -4417,7 +5064,7 @@
     {
       "gameName": "Unmatched: Cobble & Fog",
       "personas": [
-        "Vitor Campanha"
+        "Vitor Santos"
       ]
     },
     {
@@ -4521,7 +5168,7 @@
     {
       "gameName": "Wavelength",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Afonso",
         "Pedro Alves",
         "Pedro Nunes",
@@ -4678,7 +5325,7 @@
     {
       "gameName": "Zoo Vadis",
       "personas": [
-        "Vitor Campanha",
+        "Vitor Santos",
         "Pedro Nunes"
       ]
     },
@@ -4688,329 +5335,6 @@
         "Afonso",
         "Lara Sofia",
         "Ricardo Pires"
-      ]
-    },
-    {
-      "gameName": "A Carnivore Did It!",
-      "personas": []
-    },
-    {
-      "gameName": "Architects of the West Kingdom",
-      "personas": []
-    },
-    {
-      "gameName": "Awkward Guests: The Walton Case",
-      "personas": [
-        "Carlos Mendes"
-      ]
-    },
-    {
-      "gameName": "Block Ness",
-      "personas": [
-        "Pedro Nunes",
-        "Juari"
-      ]
-    },
-    {
-      "gameName": "Bosk",
-      "personas": []
-    },
-    {
-      "gameName": "Brazil: Imperial",
-      "personas": [
-        "Juari",
-        "Joaquim Manuel Costa"
-      ]
-    },
-    {
-      "gameName": "Burgle Bros Blackjack",
-      "personas": [
-        "Joaquim Manuel Costa"
-      ]
-    },
-    {
-      "gameName": "Cartagena",
-      "personas": [
-        "Afonso",
-        "Luis Brito"
-      ]
-    },
-    {
-      "gameName": "Cascadia Junior",
-      "personas": []
-    },
-    {
-      "gameName": "Cascadia: Landmarks",
-      "personas": [
-        "Joaquim Manuel Costa"
-      ]
-    },
-    {
-      "gameName": "Cascadia: Rolling Rivers",
-      "personas": []
-    },
-    {
-      "gameName": "Cat Burglars",
-      "personas": []
-    },
-    {
-      "gameName": "Click! The Great Wall",
-      "personas": []
-    },
-    {
-      "gameName": "Cóatl",
-      "personas": []
-    },
-    {
-      "gameName": "Dicy Cards",
-      "personas": []
-    },
-    {
-      "gameName": "Exploding Kittens",
-      "personas": [
-        "Pedro Nunes",
-        "Márcio",
-        "Nuno Castilho"
-      ]
-    },
-    {
-      "gameName": "Faraway: People From Below",
-      "personas": [
-        "Pedro Alves"
-      ]
-    },
-    {
-      "gameName": "Heroes of Oktoberfest",
-      "personas": []
-    },
-    {
-      "gameName": "Hidden Leaders (Kickstarter Edition)",
-      "personas": [
-        "Pedro Nunes"
-      ]
-    },
-    {
-      "gameName": "Hidden Leaders: Forgotten Legends",
-      "personas": []
-    },
-    {
-      "gameName": "Lusíadas",
-      "personas": [
-        "Luis Baixinho",
-        "Ana Baixinho"
-      ]
-    },
-    {
-      "gameName": "Micons",
-      "personas": []
-    },
-    {
-      "gameName": "Monopoly:  Builder",
-      "personas": []
-    },
-    {
-      "gameName": "Monster-Bande",
-      "personas": []
-    },
-    {
-      "gameName": "Nocturne",
-      "personas": []
-    },
-    {
-      "gameName": "Odd Shop",
-      "personas": []
-    },
-    {
-      "gameName": "Pixies",
-      "personas": [
-        "Joaquim Manuel Costa",
-        "David A. M."
-      ]
-    },
-    {
-      "gameName": "Point City",
-      "personas": [
-        "Vitor Campanha",
-        "Pedro Nunes"
-      ]
-    },
-    {
-      "gameName": "Potion Explosion",
-      "personas": [
-        "Pedro Alves",
-        "Pedro Nunes",
-        "Joaquim Manuel Costa",
-        "Filipa Sousa"
-      ]
-    },
-    {
-      "gameName": "Propolis",
-      "personas": [
-        "Pedro Nunes",
-        "Márcio",
-        "Miguel Pereira"
-      ]
-    },
-    {
-      "gameName": "Railroad Tiles",
-      "personas": []
-    },
-    {
-      "gameName": "Roaring River",
-      "personas": []
-    },
-    {
-      "gameName": "Spot it!",
-      "personas": [
-        "Afonso",
-        "Márcio",
-        "Lara Sofia",
-        "Miguel Pereira",
-        "Ana Baixinho",
-        "Artur"
-      ]
-    },
-    {
-      "gameName": "Spot it! Disney 100 Years of Wonder",
-      "personas": [
-        "Miguel Pereira"
-      ]
-    },
-    {
-      "gameName": "Spotlight",
-      "personas": []
-    },
-    {
-      "gameName": "Starligned",
-      "personas": []
-    },
-    {
-      "gameName": "Stella: Dixit Universe",
-      "personas": [
-        "Carlos Mendes"
-      ]
-    },
-    {
-      "gameName": "Tag Team",
-      "personas": []
-    },
-    {
-      "gameName": "Tectonic Tribes",
-      "personas": [
-        "Joaquim Manuel Costa"
-      ]
-    },
-    {
-      "gameName": "Tekton Dash",
-      "personas": [
-        "Carlos Mendes"
-      ]
-    },
-    {
-      "gameName": "The White Castle Duel",
-      "personas": []
-    },
-    {
-      "gameName": "Trails of Tucana",
-      "personas": []
-    },
-    {
-      "gameName": "Tranquility: The Ascent",
-      "personas": []
-    },
-    {
-      "gameName": "Triqueta",
-      "personas": [
-        "Carlos Mendes"
-      ]
-    },
-    {
-      "gameName": "Vaalbara",
-      "personas": [
-        "David A. M."
-      ]
-    },
-    {
-      "gameName": "Verdant",
-      "personas": [
-        "Carlos Mendes"
-      ]
-    },
-    {
-      "gameName": "Kemet: Blood and Sand",
-      "personas": [
-        "Afonso",
-        "Márcio",
-        "Juari"
-      ]
-    },
-    {
-      "gameName": "Star Wars: The Deckbuilding Game",
-      "personas": [
-        "Márcio"
-      ]
-    },
-    {
-      "gameName": "Aeon's End",
-      "personas": []
-    },
-    {
-      "gameName": "At the Gates of Loyang",
-      "personas": []
-    },
-    {
-      "gameName": "Footprints",
-      "personas": [
-        "Luis Baixinho"
-      ]
-    },
-    {
-      "gameName": "Hallertau",
-      "personas": [
-        "Luis Baixinho"
-      ]
-    },
-    {
-      "gameName": "Hamlet: The Village Building Game",
-      "personas": [
-        "Pedro Alves"
-      ]
-    },
-    {
-      "gameName": "Illumination",
-      "personas": []
-    },
-    {
-      "gameName": "Loco Momo",
-      "personas": [
-        "Luis Baixinho",
-        "Ana Baixinho",
-        "Artur"
-      ]
-    },
-    {
-      "gameName": "Lowlands",
-      "personas": []
-    },
-    {
-      "gameName": "Quadropolis",
-      "personas": [
-        "Luis Baixinho"
-      ]
-    },
-    {
-      "gameName": "Rise of Augustus",
-      "personas": [
-        "Luis Baixinho",
-        "Ana Baixinho",
-        "Artur"
-      ]
-    },
-    {
-      "gameName": "Inis",
-      "personas": [
-        "Vitor Campanha",
-        "João Ferreira"
       ]
     }
   ]

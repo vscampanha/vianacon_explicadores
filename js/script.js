@@ -60,7 +60,7 @@ function searchGames() {
         gameDiv.style.opacity = "0.6";
       }
 
-      gameDiv.innerHTML = `<strong>${game.gameName}</strong> - Explicadores: ${
+      gameDiv.innerHTML = `<strong>${game.gameName}</strong> - ${
         game.personas.length > 0 ? game.personas.join(", ") : "<em>Nenhum</em>"
       }`;
 
