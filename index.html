@@ -7,20 +7,41 @@
     <link rel="stylesheet" href="style/styles.css" />
   </head>
   <body>
-    <div class="container">
-      <!-- Search Section -->
-      <div class="search-container">
-        <h2>Search Games</h2>
-        <div class="search">
-          <input
-            type="text"
-            id="searchBar"
-            placeholder="Search by game name"
-            onkeyup="searchGames()"
-          />
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">VianaCon</p>
+          <h1>Explicadores</h1>
         </div>
-      </div>
-      <div id="results"></div>
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Switch to dark mode">
+          ☀
+        </button>
+      </header>
+
+      <main class="container">
+        <section class="search-container">
+          <h2>Search Games</h2>
+          <div class="search">
+            <input
+              type="text"
+              id="searchBar"
+              placeholder="Search by game name"
+              onkeyup="searchGames()"
+            />
+          </div>
+
+          <div class="difficulty-filters" aria-label="Filter by game difficulty">
+            <button class="difficulty-filter filter-all active" type="button" data-filter="all">All</button>
+            <button class="difficulty-filter filter-light-green" type="button" data-filter="0-1">0-1</button>
+            <button class="difficulty-filter filter-green" type="button" data-filter="1-2">1-2</button>
+            <button class="difficulty-filter filter-yellow" type="button" data-filter="2-3">2-3</button>
+            <button class="difficulty-filter filter-orange" type="button" data-filter="3-4">3-4</button>
+            <button class="difficulty-filter filter-red" type="button" data-filter="4-5">4-5</button>
+          </div>
+        </section>
+
+        <div id="results" aria-live="polite"></div>
+      </main>
     </div>
 
     <script src="js/script.js"></script>

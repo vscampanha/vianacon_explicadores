@@ -1,6 +1,38 @@
 let games = [];
+let currentDifficultyFilter = "all";
+
+function applyTheme(theme) {
+  const body = document.body;
+  const button = document.getElementById("themeToggle");
+
+  const isDark = theme === "dark";
+  body.classList.toggle("dark-mode", isDark);
+
+  if (button) {
+    button
+    button.innerHTML = isDark ? "☾" : "☀";
+  }
+}
+
+function initTheme() {
+  const savedTheme = localStorage.getItem("themePreference");
+  const preferredTheme = savedTheme || "light";
+  applyTheme(preferredTheme);
+
+  const toggleButton = document.getElementById("themeToggle");
+  if (toggleButton) {
+    toggleButton.addEventListener("click", () => {
+      const nextTheme = document.body.classList.contains("dark-mode") ? "light" : "dark";
+      localStorage.setItem("themePreference", nextTheme);
+      applyTheme(nextTheme);
+    });
+  }
+}
 
 window.onload = function () {
+  initTheme();
+  attachDifficultyFilters();
+
   const sessionData = sessionStorage.getItem("games");
 
   fetch("data/games.json")
@@ -14,6 +46,7 @@ window.onload = function () {
       }
 
       sessionStorage.setItem("games", JSON.stringify(games));
+      searchGames();
     })
     .catch((error) => console.error("Error loading games:", error));
 };
@@ -31,44 +64,77 @@ function mergeGames(localGames) {
   games = mergedGames;
 }
 
+function getFilteredGames() {
+  const searchInput = document.getElementById("searchBar")?.value.toLowerCase() || "";
+
+  return games.filter((game) => {
+    if (!game || !Array.isArray(game.personas) || game.personas.length === 0) {
+      return false;
+    }
+
+    const matchesSearch = !searchInput || game.gameName.toLowerCase().includes(searchInput);
+    if (!matchesSearch) return false;
+
+    const weight = getDifficultyValue(game);
+    if (currentDifficultyFilter === "all") return true;
+
+    if (weight === null || weight === undefined || Number.isNaN(weight)) return false;
+
+    const filterMap = {
+      "0-1": [0, 1],
+      "1-2": [1, 2],
+      "2-3": [2, 3],
+      "3-4": [3, 4],
+      "4-5": [4, 5],
+    };
+
+    const [min, max] = filterMap[currentDifficultyFilter] || [0, 5];
+    return weight >= min && weight <= max;
+  });
+}
+
 function searchGames() {
-  const searchInput = document.getElementById("searchBar").value.toLowerCase();
   const resultsDiv = document.getElementById("results");
   resultsDiv.innerHTML = "";
 
-  if (!searchInput) return;
+  const filteredGames = getFilteredGames();
 
-  if (!games || games.length === 0) {
-    resultsDiv.innerHTML = "No games available";
+  if (!filteredGames || filteredGames.length === 0) {
+    resultsDiv.innerHTML = "No games found";
     return;
   }
 
-  const filteredGames = games.filter((game) =>
-    game.gameName.toLowerCase().includes(searchInput)
-  );
+  filteredGames.forEach((game) => {
+    const gameDiv = document.createElement("div");
+    gameDiv.classList.add("result-item");
 
-  if (filteredGames.length > 0) {
-    filteredGames.forEach((game) => {
-      const gameDiv = document.createElement("div");
-      gameDiv.classList.add("result-item");
+    if (!game.personas || game.personas.length === 0) {
+      return;
+    }
 
-      if (!game.personas || game.personas.length === 0) {
-        gameDiv.style.border = "1px solid rgba(255, 99, 99, 0.6)";
-        gameDiv.style.borderRadius = "8px";
-        gameDiv.style.padding = "6px";
-        gameDiv.style.marginBottom = "6px";
-        gameDiv.style.opacity = "0.6";
-      }
+    const difficultyValue = getDifficultyValue(game);
+    const difficultyBadge = difficultyValue !== null
+      ? `<span class="${getDifficultyClass(difficultyValue)}">${difficultyValue.toFixed(2)}</span>`
+      : `<span class="difficulty-badge difficulty-unknown">N/A</span>`;
 
-      gameDiv.innerHTML = `<strong>${game.gameName}</strong> - ${
-        game.personas.length > 0 ? game.personas.join(", ") : "<em>Nenhum</em>"
-      }`;
+    const personasText = game.personas && game.personas.length > 0
+      ? game.personas.join(", ")
+      : "<em>Nenhum</em>";
 
-      resultsDiv.appendChild(gameDiv);
-    });
-  } else {
-    resultsDiv.innerHTML = "No games found";
-  }
+    const playersLabel = getPlayersLabel(game);
+    const playersBadge = playersLabel ? `<span class="players-badge">${playersLabel}</span>` : "";
+
+    gameDiv.innerHTML = `
+      <div class="game-row">
+        <strong>${game.gameName}</strong>
+        ${playersBadge}
+        ${difficultyBadge}
+      </div>
+      <div>${personasText}</div>
+    `;
+
+    resultsDiv.appendChild(gameDiv);
+  });
 }
 
 function downloadGamesJson() {
@@ -197,4 +263,49 @@ function closeModal() {
   if (modal) {
     modal.style.display = "none";
   }
+}
+
+function getDifficultyClass(weight) {
+  if (weight === null || weight === undefined || Number.isNaN(Number(weight))) {
+    return "difficulty-badge difficulty-unknown";
+  }
+
+  const value = Number(weight);
+
+  if (value < 1) return "difficulty-badge difficulty-light-green";
+  if (value <= 2) return "difficulty-badge difficulty-green";
+  if (value <= 3) return "difficulty-badge difficulty-yellow";
+  if (value <= 4) return "difficulty-badge difficulty-orange";
+  if (value <= 5) return "difficulty-badge difficulty-red";
+
+  return "difficulty-badge difficulty-unknown";
+}
+
+function getDifficultyValue(game) {
+  const value = game?.gameWeigth ?? game?.weight;
+  return value === null || value === undefined ? null : Number(value);
+}
+
+function attachDifficultyFilters() {
+  const filterButtons = document.querySelectorAll(".difficulty-filter");
+
+  filterButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      currentDifficultyFilter = button.dataset.filter || "all";
+
+      filterButtons.forEach((btn) => btn.classList.toggle("active", btn === button));
+      searchGames();
+    });
+  });
+}
+
+function getPlayersLabel(game) {
+  const minPlayers = game?.minPlayers ?? game?.['game.min_players'];
+  const maxPlayers = game?.maxPlayers ?? game?.['game.max_players'];
+
+  if (minPlayers === undefined || minPlayers === null || maxPlayers === undefined || maxPlayers === null) {
+    return null;
+  }
+
+  return `${minPlayers}-${maxPlayers} J`;
 }
