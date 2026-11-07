@@ -130,10 +130,27 @@ function mergeGames(localGames) {
   const mergedGames = [...localGames];
 
   games.forEach((jsonGame) => {
-    const foundInLocal = localGames.some(
+    const foundIndex = localGames.findIndex(
       (localGame) => localGame.gameName === jsonGame.gameName
     );
-    if (!foundInLocal) mergedGames.push(jsonGame);
+
+    if (foundIndex === -1) {
+      mergedGames.push(jsonGame);
+      return;
+    }
+
+    const localGame = localGames[foundIndex];
+    mergedGames[foundIndex] = {
+      ...localGame,
+      ...jsonGame,
+      personas: Array.from(new Set([
+        ...(Array.isArray(localGame.personas) ? localGame.personas : []),
+        ...(Array.isArray(jsonGame.personas) ? jsonGame.personas : []),
+      ])),
+      suggestionCategory: Array.isArray(jsonGame.suggestionCategory) && jsonGame.suggestionCategory.length > 0
+        ? jsonGame.suggestionCategory
+        : (Array.isArray(localGame.suggestionCategory) ? localGame.suggestionCategory : []),
+    };
   });
 
   games = mergedGames;
