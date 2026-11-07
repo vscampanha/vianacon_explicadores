@@ -223,17 +223,12 @@ function searchGames() {
     const playersLabel = getPlayersLabel(game);
     const playersBadge = playersLabel ? `<span class="players-badge">${playersLabel}</span>` : "";
 
-    const categoryBadges = getCategoriesForGame(game)
-      .map((category) => `<span class="suggestion-category-tag">${category}</span>`)
-      .join("");
-
     gameDiv.innerHTML = `
       <div class="game-row">
         <strong>${game.gameName}</strong>
         ${playersBadge}
         ${difficultyBadge}
       </div>
-      <div class="category-row">${categoryBadges}</div>
       <div>${personasText}</div>
     `;
 
