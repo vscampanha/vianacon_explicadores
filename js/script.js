@@ -1,5 +1,77 @@
 let games = [];
 let currentDifficultyFilter = "all";
+let currentCategoryFilter = "all";
+
+const categoryOrder = [
+  "Simples",
+  "Médio",
+  "Complexo",
+  "Amigável",
+  "Kids",
+  "Duplas",
+  "Grupos",
+  "Destreza",
+  "Corrida",
+  "Handicap",
+];
+
+function getCategoriesForGame(game) {
+  if (!game || !Array.isArray(game.suggestionCategory)) {
+    return [];
+  }
+
+  return game.suggestionCategory.filter(Boolean);
+}
+
+function buildCategoryFilters() {
+  const select = document.getElementById("categoryFilter");
+  if (!select) return;
+
+  const uniqueCategories = new Set();
+  games.forEach((game) => {
+    getCategoriesForGame(game).forEach((category) => uniqueCategories.add(category));
+  });
+
+  const categories = categoryOrder.filter((category) => uniqueCategories.has(category));
+
+  select.innerHTML = [
+    '<option value="all" selected>All</option>',
+    ...categories.map((category) => `<option value="${category}">${category}</option>`),
+  ].join("");
+
+  select.value = currentCategoryFilter === "all" ? "all" : categories.includes(currentCategoryFilter) ? currentCategoryFilter : "all";
+
+  select.addEventListener("change", () => {
+    currentCategoryFilter = select.value || "all";
+    syncGlobalResetState();
+    searchGames();
+  });
+}
+
+function syncGlobalResetState() {
+  const resetButton = document.querySelector(".global-all-filter");
+  if (!resetButton) return;
+
+  const isAll = currentDifficultyFilter === "all" && currentCategoryFilter === "all";
+  resetButton.classList.toggle("active", isAll);
+}
+
+function resetAllFilters() {
+  currentDifficultyFilter = "all";
+  currentCategoryFilter = "all";
+
+  document.querySelectorAll(".difficulty-filter").forEach((button) => {
+    button.classList.toggle("active", false);
+  });
+
+  const categorySelect = document.getElementById("categoryFilter");
+  if (categorySelect) {
+    categorySelect.value = "all";
+  }
+
+  syncGlobalResetState();
+  searchGames();
+}
 
 function applyTheme(theme) {
   const body = document.body;
@@ -9,7 +81,6 @@ function applyTheme(theme) {
   body.classList.toggle("dark-mode", isDark);
 
   if (button) {
-    button
     button.innerHTML = isDark ? "☾" : "☀";
   }
 }
@@ -46,6 +117,7 @@ window.onload = function () {
       }
 
       sessionStorage.setItem("games", JSON.stringify(games));
+      buildCategoryFilters();
       searchGames();
     })
     .catch((error) => console.error("Error loading games:", error));
@@ -74,6 +146,13 @@ function getFilteredGames() {
 
     const matchesSearch = !searchInput || game.gameName.toLowerCase().includes(searchInput);
     if (!matchesSearch) return false;
+
+    if (currentCategoryFilter !== "all") {
+      const categories = getCategoriesForGame(game);
+      if (!categories.includes(currentCategoryFilter)) {
+        return false;
+      }
+    }
 
     const weight = getDifficultyValue(game);
     if (currentDifficultyFilter === "all") return true;
@@ -124,12 +203,17 @@ function searchGames() {
     const playersLabel = getPlayersLabel(game);
     const playersBadge = playersLabel ? `<span class="players-badge">${playersLabel}</span>` : "";
 
+    const categoryBadges = getCategoriesForGame(game)
+      .map((category) => `<span class="suggestion-category-tag">${category}</span>`)
+      .join("");
+
     gameDiv.innerHTML = `
       <div class="game-row">
         <strong>${game.gameName}</strong>
         ${playersBadge}
         ${difficultyBadge}
       </div>
+      <div class="category-row">${categoryBadges}</div>
       <div>${personasText}</div>
     `;
 
@@ -294,9 +378,15 @@ function attachDifficultyFilters() {
       currentDifficultyFilter = button.dataset.filter || "all";
 
       filterButtons.forEach((btn) => btn.classList.toggle("active", btn === button));
+      syncGlobalResetState();
       searchGames();
     });
   });
+
+  const resetButton = document.querySelector(".global-all-filter");
+  if (resetButton) {
+    resetButton.addEventListener("click", resetAllFilters);
+  }
 }
 
 function getPlayersLabel(game) {

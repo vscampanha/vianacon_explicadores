@@ -10,7 +10,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 434442,
@@ -27,7 +28,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 431281,
@@ -43,7 +45,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 218722,
@@ -57,7 +60,8 @@
       "minPlayers": 3,
       "maxPlayers": 99,
       "game.min_players": 3,
-      "game.max_players": 99
+      "game.max_players": 99,
+      "suggestionCategory": []
     },
     {
       "bggId": 268586,
@@ -78,7 +82,8 @@
       "minPlayers": 2,
       "maxPlayers": 10,
       "game.min_players": 2,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": []
     },
     {
       "bggId": 68448,
@@ -98,7 +103,8 @@
       "minPlayers": 2,
       "maxPlayers": 7,
       "game.min_players": 2,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 446231,
@@ -112,7 +118,8 @@
       "minPlayers": 2,
       "maxPlayers": 7,
       "game.min_players": 2,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 173346,
@@ -132,7 +139,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 346703,
@@ -153,7 +161,8 @@
       "minPlayers": 2,
       "maxPlayers": 7,
       "game.min_players": 2,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 65244,
@@ -167,7 +176,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 431481,
@@ -179,7 +189,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 447174,
@@ -192,7 +203,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 172818,
@@ -204,7 +216,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 437337,
@@ -219,7 +232,10 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 5,
@@ -231,7 +247,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 422732,
@@ -249,7 +266,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 31260,
@@ -264,7 +282,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 383064,
@@ -276,7 +295,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 357563,
@@ -295,7 +315,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 6249,
@@ -311,7 +334,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 298635,
@@ -327,7 +351,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 32405,
@@ -340,7 +365,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 453576,
@@ -356,7 +382,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 185343,
@@ -371,7 +398,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 338093,
@@ -384,7 +412,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 443932,
@@ -398,7 +427,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 140934,
@@ -410,7 +440,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 359871,
@@ -423,7 +454,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 342942,
@@ -439,7 +471,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 246150,
@@ -452,7 +487,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 395375,
@@ -466,7 +502,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 72991,
@@ -478,7 +515,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 65200,
@@ -490,7 +528,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 467363,
@@ -502,7 +541,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 230802,
@@ -529,7 +569,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 363247,
@@ -544,7 +585,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 287954,
@@ -560,7 +602,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 346965,
@@ -573,7 +616,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 191925,
@@ -589,7 +633,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 219513,
@@ -603,7 +648,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 421529,
@@ -615,7 +661,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 760,
@@ -629,7 +676,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 168435,
@@ -642,7 +690,8 @@
       "minPlayers": 1,
       "maxPlayers": 7,
       "game.min_players": 1,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 300523,
@@ -654,7 +703,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 389102,
@@ -666,7 +716,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 414174,
@@ -678,7 +729,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 277927,
@@ -690,7 +742,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 328624,
@@ -703,7 +756,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 472458,
@@ -716,7 +770,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 140933,
@@ -729,7 +784,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 437384,
@@ -742,7 +798,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 11,
@@ -756,7 +813,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 443294,
@@ -768,7 +826,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 413246,
@@ -787,7 +846,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 448116,
@@ -799,7 +861,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 224517,
@@ -811,7 +874,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 28720,
@@ -825,7 +889,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 249277,
@@ -840,7 +905,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 337765,
@@ -852,7 +920,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 439310,
@@ -865,7 +934,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 184921,
@@ -878,7 +948,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 473933,
@@ -890,7 +961,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 284229,
@@ -902,7 +974,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 155362,
@@ -919,7 +992,8 @@
       "minPlayers": 4,
       "maxPlayers": 8,
       "game.min_players": 4,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 73664,
@@ -931,7 +1005,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 171499,
@@ -944,7 +1019,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 284936,
@@ -960,7 +1036,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 327643,
@@ -973,7 +1050,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 283155,
@@ -991,7 +1069,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 153938,
@@ -1006,7 +1085,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 41,
@@ -1024,7 +1104,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 404845,
@@ -1038,7 +1119,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 290236,
@@ -1052,7 +1134,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 393325,
@@ -1068,7 +1151,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 171131,
@@ -1080,7 +1164,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 269789,
@@ -1092,7 +1177,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 822,
@@ -1121,7 +1207,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 41010,
@@ -1135,7 +1222,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 469594,
@@ -1148,7 +1236,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 231484,
@@ -1160,7 +1249,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 245934,
@@ -1172,7 +1262,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 474289,
@@ -1186,7 +1277,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 224031,
@@ -1200,7 +1292,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 263918,
@@ -1216,7 +1309,8 @@
       "minPlayers": 1,
       "maxPlayers": 100,
       "game.min_players": 1,
-      "game.max_players": 100
+      "game.max_players": 100,
+      "suggestionCategory": []
     },
     {
       "bggId": 295947,
@@ -1240,7 +1334,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 433007,
@@ -1253,7 +1350,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 407318,
@@ -1265,7 +1363,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 416851,
@@ -1283,7 +1382,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 345972,
@@ -1297,7 +1397,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 13,
@@ -1320,7 +1421,10 @@
       "minPlayers": 3,
       "maxPlayers": 4,
       "game.min_players": 3,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 383117,
@@ -1333,7 +1437,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 175117,
@@ -1348,7 +1453,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 206491,
@@ -1363,7 +1469,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 209685,
@@ -1381,7 +1488,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 2922,
@@ -1398,7 +1506,8 @@
       "minPlayers": 1,
       "maxPlayers": 99,
       "game.min_players": 1,
-      "game.max_players": 99
+      "game.max_players": 99,
+      "suggestionCategory": []
     },
     {
       "bggId": 47,
@@ -1411,7 +1520,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 213266,
@@ -1423,7 +1533,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 337,
@@ -1435,7 +1546,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 478,
@@ -1447,7 +1559,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 402676,
@@ -1462,7 +1575,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 233247,
@@ -1474,7 +1588,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 380916,
@@ -1489,7 +1604,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 256788,
@@ -1503,7 +1619,8 @@
       "minPlayers": 4,
       "maxPlayers": 8,
       "game.min_players": 4,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 130592,
@@ -1516,7 +1633,8 @@
       "minPlayers": null,
       "maxPlayers": null,
       "game.min_players": null,
-      "game.max_players": null
+      "game.max_players": null,
+      "suggestionCategory": []
     },
     {
       "bggId": 109296,
@@ -1528,7 +1646,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 274841,
@@ -1540,7 +1659,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 178900,
@@ -1566,7 +1686,11 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": [
+        "Amigável",
+        "Grupos"
+      ]
     },
     {
       "bggId": 450782,
@@ -1580,7 +1704,8 @@
       "minPlayers": 4,
       "maxPlayers": 8,
       "game.min_players": 4,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 198773,
@@ -1600,7 +1725,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 314503,
@@ -1615,7 +1741,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 245638,
@@ -1627,7 +1754,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 5782,
@@ -1645,7 +1773,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 158899,
@@ -1662,7 +1791,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 299027,
@@ -1675,7 +1805,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 171479,
@@ -1687,7 +1818,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 124361,
@@ -1700,7 +1832,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 276042,
@@ -1713,7 +1846,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 453740,
@@ -1728,7 +1862,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 202564,
@@ -1746,7 +1881,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 194100,
@@ -1758,7 +1894,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 131357,
@@ -1772,7 +1909,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 402283,
@@ -1786,7 +1924,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 454061,
@@ -1799,7 +1938,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 393429,
@@ -1811,7 +1951,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 521,
@@ -1826,7 +1967,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 300753,
@@ -1840,7 +1982,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 470811,
@@ -1853,7 +1996,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 250442,
@@ -1865,7 +2009,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 246784,
@@ -1880,7 +2025,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 253344,
@@ -1893,7 +2039,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 245476,
@@ -1912,7 +2059,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 298069,
@@ -1924,7 +2072,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Corrida"
+      ]
     },
     {
       "bggId": 286158,
@@ -1936,7 +2087,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 322289,
@@ -1951,7 +2103,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 149155,
@@ -1965,7 +2118,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 225694,
@@ -1978,7 +2132,8 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 376747,
@@ -1993,7 +2148,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 169654,
@@ -2008,7 +2164,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 217321,
@@ -2020,7 +2177,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 285192,
@@ -2032,7 +2190,8 @@
       "minPlayers": 1,
       "maxPlayers": 3,
       "game.min_players": 1,
-      "game.max_players": 3
+      "game.max_players": 3,
+      "suggestionCategory": []
     },
     {
       "bggId": 469504,
@@ -2044,7 +2203,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 15512,
@@ -2064,7 +2224,10 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 152162,
@@ -2076,7 +2239,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 268201,
@@ -2088,7 +2252,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 455624,
@@ -2100,7 +2265,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 414661,
@@ -2112,7 +2278,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 216497,
@@ -2124,7 +2291,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 304324,
@@ -2137,7 +2305,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 39856,
@@ -2160,7 +2329,10 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": [
+        "Amigável"
+      ]
     },
     {
       "bggId": 381308,
@@ -2180,7 +2352,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 92828,
@@ -2201,7 +2374,8 @@
       "minPlayers": 3,
       "maxPlayers": 12,
       "game.min_players": 3,
-      "game.max_players": 12
+      "game.max_players": 12,
+      "suggestionCategory": []
     },
     {
       "bggId": 36218,
@@ -2214,7 +2388,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 334379,
@@ -2227,7 +2402,11 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": [
+        "Amigável",
+        "Grupos"
+      ]
     },
     {
       "bggId": 370591,
@@ -2241,7 +2420,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 215311,
@@ -2255,7 +2435,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 360503,
@@ -2267,7 +2448,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 381278,
@@ -2280,7 +2462,10 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 350185,
@@ -2292,7 +2477,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 264055,
@@ -2308,7 +2494,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Kids"
+      ]
     },
     {
       "bggId": 232219,
@@ -2321,7 +2510,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 465669,
@@ -2333,7 +2523,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 405537,
@@ -2348,7 +2539,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 422019,
@@ -2362,7 +2554,8 @@
       "minPlayers": 2,
       "maxPlayers": 7,
       "game.min_players": 2,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 447243,
@@ -2376,7 +2569,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 316554,
@@ -2390,7 +2584,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 275840,
@@ -2403,7 +2600,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 349463,
@@ -2416,7 +2614,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 271324,
@@ -2431,7 +2630,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 350184,
@@ -2444,7 +2644,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 93,
@@ -2456,7 +2657,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 41916,
@@ -2471,7 +2673,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 146021,
@@ -2483,7 +2686,8 @@
       "minPlayers": 1,
       "maxPlayers": 8,
       "game.min_players": 1,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 206931,
@@ -2495,7 +2699,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 418470,
@@ -2509,7 +2714,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 453164,
@@ -2521,7 +2727,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 113294,
@@ -2535,7 +2742,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 288378,
@@ -2547,7 +2755,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 424981,
@@ -2559,7 +2768,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 133848,
@@ -2572,7 +2784,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 199792,
@@ -2587,7 +2800,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 339753,
@@ -2599,7 +2815,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 172225,
@@ -2613,7 +2830,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Grupos"
+      ]
     },
     {
       "bggId": 260428,
@@ -2626,7 +2846,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 83195,
@@ -2648,7 +2869,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 385761,
@@ -2670,7 +2892,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 448496,
@@ -2684,7 +2907,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 428280,
@@ -2697,7 +2921,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 436126,
@@ -2711,7 +2936,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 157354,
@@ -2725,7 +2951,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 336986,
@@ -2743,7 +2970,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 439305,
@@ -2757,7 +2985,11 @@
       "minPlayers": 1,
       "maxPlayers": 2,
       "game.min_players": 1,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Simples",
+        "Duplas"
+      ]
     },
     {
       "bggId": 199478,
@@ -2769,7 +3001,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 10164,
@@ -2781,7 +3014,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 420087,
@@ -2806,7 +3040,12 @@
       "minPlayers": 3,
       "maxPlayers": 18,
       "game.min_players": 3,
-      "game.max_players": 18
+      "game.max_players": 18,
+      "suggestionCategory": [
+        "Simples",
+        "Amigável",
+        "Grupos"
+      ]
     },
     {
       "bggId": 463441,
@@ -2823,7 +3062,8 @@
       "minPlayers": 3,
       "maxPlayers": 28,
       "game.min_players": 3,
-      "game.max_players": 28
+      "game.max_players": 28,
+      "suggestionCategory": []
     },
     {
       "bggId": 223215,
@@ -2835,7 +3075,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 449185,
@@ -2848,7 +3089,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 172,
@@ -2865,7 +3107,10 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Grupos"
+      ]
     },
     {
       "bggId": 136063,
@@ -2877,7 +3122,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 391163,
@@ -2892,7 +3138,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 347775,
@@ -2904,7 +3151,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 635,
@@ -2916,7 +3164,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 231788,
@@ -2928,7 +3177,8 @@
       "minPlayers": 2,
       "maxPlayers": 3,
       "game.min_players": 2,
-      "game.max_players": 3
+      "game.max_players": 3,
+      "suggestionCategory": []
     },
     {
       "bggId": 384213,
@@ -2942,7 +3192,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 469328,
@@ -2954,7 +3205,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 171273,
@@ -2967,7 +3219,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 336794,
@@ -2979,7 +3232,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 393333,
@@ -2992,7 +3246,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 392825,
@@ -3004,7 +3259,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 282918,
@@ -3020,7 +3276,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 19427,
@@ -3033,7 +3290,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 9674,
@@ -3048,7 +3306,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 347013,
@@ -3060,7 +3319,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 450112,
@@ -3072,7 +3332,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 246192,
@@ -3085,7 +3346,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 453526,
@@ -3104,7 +3366,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 182874,
@@ -3116,7 +3379,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 341169,
@@ -3128,7 +3392,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 459401,
@@ -3140,7 +3405,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 116,
@@ -3154,7 +3420,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 339958,
@@ -3166,7 +3433,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 276086,
@@ -3179,7 +3447,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 98778,
@@ -3195,7 +3464,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 290357,
@@ -3209,7 +3479,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 356909,
@@ -3221,7 +3492,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 194626,
@@ -3239,7 +3511,8 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 414317,
@@ -3257,7 +3530,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 199042,
@@ -3269,7 +3543,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 366013,
@@ -3286,7 +3561,10 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Corrida"
+      ]
     },
     {
       "bggId": 8203,
@@ -3303,7 +3581,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 320718,
@@ -3316,7 +3595,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 359527,
@@ -3328,7 +3608,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 220,
@@ -3341,7 +3622,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 2655,
@@ -3357,7 +3639,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 284742,
@@ -3369,7 +3652,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 282524,
@@ -3382,7 +3666,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 58110,
@@ -3394,7 +3679,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 446497,
@@ -3412,7 +3698,10 @@
       "minPlayers": 2,
       "maxPlayers": 99,
       "game.min_players": 2,
-      "game.max_players": 99
+      "game.max_players": 99,
+      "suggestionCategory": [
+        "Corrida"
+      ]
     },
     {
       "bggId": 373667,
@@ -3424,7 +3713,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 232079,
@@ -3436,7 +3726,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 302520,
@@ -3457,7 +3748,11 @@
       "minPlayers": 3,
       "maxPlayers": 10,
       "game.min_players": 3,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": [
+        "Simples",
+        "Grupos"
+      ]
     },
     {
       "bggId": 403902,
@@ -3469,7 +3764,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 198928,
@@ -3483,7 +3779,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 191894,
@@ -3495,7 +3792,8 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 154203,
@@ -3507,7 +3805,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 318184,
@@ -3520,7 +3819,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 278751,
@@ -3532,7 +3832,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 376683,
@@ -3547,7 +3848,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 116954,
@@ -3559,7 +3861,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 155821,
@@ -3571,7 +3874,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 176494,
@@ -3583,7 +3887,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 392473,
@@ -3595,7 +3900,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 235488,
@@ -3608,7 +3914,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 327778,
@@ -3628,7 +3935,11 @@
       "minPlayers": 2,
       "maxPlayers": 10,
       "game.min_players": 2,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": [
+        "Amigável",
+        "Grupos"
+      ]
     },
     {
       "bggId": 883,
@@ -3640,7 +3951,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 54043,
@@ -3661,7 +3973,10 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 28023,
@@ -3676,7 +3991,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 400495,
@@ -3688,7 +4004,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 469760,
@@ -3700,7 +4017,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 424816,
@@ -3713,7 +4031,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 193042,
@@ -3727,7 +4046,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 254640,
@@ -3750,7 +4070,10 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": [
+        "Grupos"
+      ]
     },
     {
       "bggId": 320390,
@@ -3762,7 +4085,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 444883,
@@ -3774,7 +4098,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 183251,
@@ -3789,7 +4114,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 374595,
@@ -3801,7 +4127,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 403240,
@@ -3816,7 +4143,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 437245,
@@ -3828,7 +4156,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 204583,
@@ -3850,7 +4179,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 340041,
@@ -3863,7 +4195,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 302477,
@@ -3875,7 +4208,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 165722,
@@ -3891,7 +4225,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 379629,
@@ -3906,7 +4241,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 436161,
@@ -3919,7 +4255,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 56786,
@@ -3931,7 +4268,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 264797,
@@ -3947,7 +4285,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 385610,
@@ -3959,7 +4298,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 266083,
@@ -3972,7 +4312,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 437581,
@@ -3990,7 +4331,10 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": [
+        "Grupos"
+      ]
     },
     {
       "bggId": 201856,
@@ -4002,7 +4346,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 374201,
@@ -4017,7 +4362,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 371487,
@@ -4029,7 +4375,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 127398,
@@ -4041,7 +4388,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 368173,
@@ -4054,7 +4402,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 140620,
@@ -4066,7 +4415,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 356033,
@@ -4079,7 +4429,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 400498,
@@ -4094,7 +4445,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 306173,
@@ -4110,7 +4462,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 404356,
@@ -4123,7 +4476,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 328479,
@@ -4137,7 +4491,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 110327,
@@ -4150,7 +4505,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 50,
@@ -4165,7 +4521,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 312484,
@@ -4180,7 +4537,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 448477,
@@ -4192,7 +4550,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 129622,
@@ -4209,7 +4568,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 118247,
@@ -4228,7 +4588,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 245643,
@@ -4243,7 +4604,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 143884,
@@ -4255,7 +4617,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 176558,
@@ -4267,7 +4630,8 @@
       "minPlayers": 6,
       "maxPlayers": 12,
       "game.min_players": 6,
-      "game.max_players": 12
+      "game.max_players": 12,
+      "suggestionCategory": []
     },
     {
       "bggId": 209778,
@@ -4281,7 +4645,8 @@
       "minPlayers": 1,
       "maxPlayers": 8,
       "game.min_players": 1,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 454103,
@@ -4301,7 +4666,11 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Simples",
+        "Corrida"
+      ]
     },
     {
       "bggId": 9440,
@@ -4313,7 +4682,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 95613,
@@ -4325,7 +4695,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 199,
@@ -4337,7 +4708,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 443297,
@@ -4349,7 +4721,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 276025,
@@ -4361,7 +4734,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 297978,
@@ -4375,7 +4749,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 29223,
@@ -4391,7 +4766,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 342810,
@@ -4403,7 +4779,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 46,
@@ -4415,7 +4794,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 167270,
@@ -4427,7 +4807,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 262477,
@@ -4439,7 +4820,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 306040,
@@ -4451,7 +4833,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 414685,
@@ -4464,7 +4847,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 411420,
@@ -4477,7 +4863,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 559,
@@ -4490,7 +4877,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 313241,
@@ -4502,7 +4890,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 318977,
@@ -4517,7 +4906,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 403754,
@@ -4529,7 +4919,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 346501,
@@ -4542,7 +4935,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 458770,
@@ -4554,7 +4948,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 118,
@@ -4566,7 +4961,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 341308,
@@ -4578,7 +4974,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 457802,
@@ -4590,7 +4987,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 425549,
@@ -4606,7 +5004,10 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 63975,
@@ -4621,7 +5022,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 1927,
@@ -4634,7 +5036,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 204505,
@@ -4646,7 +5049,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 366456,
@@ -4660,7 +5064,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 301767,
@@ -4673,7 +5078,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 157809,
@@ -4685,7 +5091,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 195421,
@@ -4697,7 +5104,8 @@
       "minPlayers": null,
       "maxPlayers": null,
       "game.min_players": null,
-      "game.max_players": null
+      "game.max_players": null,
+      "suggestionCategory": []
     },
     {
       "bggId": 353545,
@@ -4710,7 +5118,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 380165,
@@ -4722,7 +5131,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 293014,
@@ -4734,7 +5144,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 457412,
@@ -4747,7 +5158,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 350469,
@@ -4759,7 +5171,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 12942,
@@ -4774,7 +5187,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 234277,
@@ -4786,7 +5200,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 70323,
@@ -4806,7 +5221,10 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Kids"
+      ]
     },
     {
       "bggId": 406854,
@@ -4819,7 +5237,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 432705,
@@ -4833,7 +5252,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 183840,
@@ -4846,7 +5266,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 413435,
@@ -4859,7 +5280,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 448756,
@@ -4871,7 +5293,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 442615,
@@ -4883,7 +5306,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 436046,
@@ -4901,7 +5325,8 @@
       "minPlayers": 2,
       "maxPlayers": 12,
       "game.min_players": 2,
-      "game.max_players": 12
+      "game.max_players": 12,
+      "suggestionCategory": []
     },
     {
       "bggId": 424152,
@@ -4913,7 +5338,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 458824,
@@ -4926,7 +5352,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Kids"
+      ]
     },
     {
       "bggId": 454909,
@@ -4938,7 +5367,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 164928,
@@ -4952,7 +5382,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 468836,
@@ -4964,7 +5395,8 @@
       "minPlayers": 3,
       "maxPlayers": 4,
       "game.min_players": 3,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 352710,
@@ -4979,7 +5411,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 300531,
@@ -4994,7 +5427,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 423835,
@@ -5007,7 +5441,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 30549,
@@ -5029,7 +5464,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 121073,
@@ -5042,7 +5480,8 @@
       "minPlayers": 2,
       "maxPlayers": 10,
       "game.min_players": 2,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": []
     },
     {
       "bggId": 462763,
@@ -5056,7 +5495,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 141572,
@@ -5068,7 +5510,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 330517,
@@ -5081,7 +5524,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 276498,
@@ -5094,7 +5538,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 266524,
@@ -5107,7 +5552,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 437306,
@@ -5120,7 +5566,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 46213,
@@ -5136,7 +5583,10 @@
       "minPlayers": 4,
       "maxPlayers": 8,
       "game.min_players": 4,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": [
+        "Grupos"
+      ]
     },
     {
       "bggId": 163412,
@@ -5156,7 +5606,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 369388,
@@ -5168,7 +5619,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 309728,
@@ -5183,7 +5635,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 15818,
@@ -5195,7 +5648,8 @@
       "minPlayers": 2,
       "maxPlayers": 7,
       "game.min_players": 2,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 400752,
@@ -5208,7 +5662,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 415054,
@@ -5220,7 +5675,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 335431,
@@ -5232,7 +5688,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 411875,
@@ -5246,7 +5703,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 43264,
@@ -5259,7 +5717,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 425236,
@@ -5271,7 +5730,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 274960,
@@ -5288,7 +5748,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 452187,
@@ -5300,7 +5761,8 @@
       "minPlayers": 1,
       "maxPlayers": 8,
       "game.min_players": 1,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 156009,
@@ -5313,7 +5775,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 254619,
@@ -5327,7 +5790,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 180974,
@@ -5343,7 +5807,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 2651,
@@ -5356,7 +5821,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 222821,
@@ -5368,7 +5834,8 @@
       "minPlayers": 2,
       "maxPlayers": 7,
       "game.min_players": 2,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 87890,
@@ -5380,7 +5847,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 260180,
@@ -5395,7 +5863,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 431994,
@@ -5407,7 +5876,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 3228,
@@ -5420,7 +5892,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 423170,
@@ -5441,7 +5914,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 368465,
@@ -5453,7 +5927,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 266830,
@@ -5466,7 +5941,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 244521,
@@ -5480,7 +5956,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 681,
@@ -5494,7 +5971,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 232043,
@@ -5507,7 +5985,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 300700,
@@ -5521,7 +6000,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 624,
@@ -5536,7 +6016,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 411617,
@@ -5549,7 +6030,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 25669,
@@ -5563,7 +6045,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 12,
@@ -5576,7 +6059,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 328575,
@@ -5588,7 +6072,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 251678,
@@ -5600,7 +6085,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 418062,
@@ -5612,7 +6098,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 220877,
@@ -5625,7 +6112,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 42452,
@@ -5637,7 +6125,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 381249,
@@ -5650,7 +6139,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 417197,
@@ -5664,7 +6154,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 161417,
@@ -5677,7 +6170,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 359962,
@@ -5689,7 +6183,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 244228,
@@ -5703,7 +6198,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 262712,
@@ -5715,7 +6213,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 428099,
@@ -5727,7 +6228,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 332772,
@@ -5740,7 +6242,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 91514,
@@ -5759,7 +6262,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 51,
@@ -5771,7 +6275,8 @@
       "minPlayers": 1,
       "maxPlayers": 99,
       "game.min_players": 1,
-      "game.max_players": 99
+      "game.max_players": 99,
+      "suggestionCategory": []
     },
     {
       "bggId": 121921,
@@ -5783,7 +6288,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 471437,
@@ -5795,7 +6301,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 402679,
@@ -5808,7 +6315,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 276633,
@@ -5820,7 +6328,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 9220,
@@ -5840,7 +6349,8 @@
       "minPlayers": 3,
       "maxPlayers": 10,
       "game.min_players": 3,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": []
     },
     {
       "bggId": 199561,
@@ -5858,7 +6368,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 377470,
@@ -5870,7 +6381,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 441696,
@@ -5882,7 +6394,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 194655,
@@ -5899,7 +6412,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 440072,
@@ -5911,7 +6425,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 324711,
@@ -5924,7 +6439,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 291453,
@@ -5942,7 +6458,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 169786,
@@ -5958,7 +6475,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 367220,
@@ -5978,7 +6496,11 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Simples",
+        "Amigável"
+      ]
     },
     {
       "bggId": 418059,
@@ -5993,7 +6515,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 408180,
@@ -6005,7 +6528,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 15062,
@@ -6017,7 +6541,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 298638,
@@ -6029,7 +6554,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 302280,
@@ -6042,7 +6568,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 196379,
@@ -6054,7 +6581,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 270673,
@@ -6067,7 +6595,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 92415,
@@ -6081,7 +6610,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 150145,
@@ -6099,7 +6629,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 373106,
@@ -6119,7 +6650,10 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 298231,
@@ -6132,7 +6666,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 415836,
@@ -6151,7 +6686,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 40692,
@@ -6164,7 +6700,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 241590,
@@ -6179,7 +6716,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 38054,
@@ -6191,7 +6729,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 329839,
@@ -6204,7 +6743,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 67185,
@@ -6217,7 +6757,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 411255,
@@ -6229,7 +6770,10 @@
       "minPlayers": 1,
       "maxPlayers": 2,
       "game.min_players": 1,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 427865,
@@ -6241,7 +6785,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 242302,
@@ -6255,7 +6800,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 206802,
@@ -6268,7 +6816,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 146149,
@@ -6283,7 +6832,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 257967,
@@ -6296,7 +6846,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 162886,
@@ -6312,7 +6863,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 148228,
@@ -6337,7 +6891,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 364073,
@@ -6354,7 +6911,10 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 293296,
@@ -6366,7 +6926,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 420931,
@@ -6379,7 +6940,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 63268,
@@ -6400,7 +6962,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 382419,
@@ -6415,7 +6978,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 478539,
@@ -6429,7 +6993,8 @@
       "minPlayers": 2,
       "maxPlayers": 99,
       "game.min_players": 2,
-      "game.max_players": 99
+      "game.max_players": 99,
+      "suggestionCategory": []
     },
     {
       "bggId": 432946,
@@ -6443,7 +7008,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Kids"
+      ]
     },
     {
       "bggId": 166384,
@@ -6460,7 +7028,8 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 147020,
@@ -6473,7 +7042,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 444481,
@@ -6486,7 +7056,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 316624,
@@ -6498,7 +7069,8 @@
       "minPlayers": 1,
       "maxPlayers": 9,
       "game.min_players": 1,
-      "game.max_players": 9
+      "game.max_players": 9,
+      "suggestionCategory": []
     },
     {
       "bggId": 121410,
@@ -6510,7 +7082,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 329845,
@@ -6523,7 +7096,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 34635,
@@ -6540,7 +7114,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 392492,
@@ -6552,7 +7129,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 204472,
@@ -6564,7 +7142,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 123260,
@@ -6576,7 +7155,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 341530,
@@ -6589,7 +7169,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 425428,
@@ -6605,7 +7186,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 2653,
@@ -6622,7 +7204,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 133473,
@@ -6644,7 +7227,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 253664,
@@ -6661,7 +7247,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 338678,
@@ -6676,7 +7263,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 401636,
@@ -6691,7 +7279,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 434906,
@@ -6705,7 +7294,10 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 460556,
@@ -6718,7 +7310,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 440540,
@@ -6734,7 +7327,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 70919,
@@ -6752,7 +7346,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Amigável"
+      ]
     },
     {
       "bggId": 27627,
@@ -6764,7 +7361,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 24508,
@@ -6776,7 +7374,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 30645,
@@ -6788,7 +7387,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 286096,
@@ -6800,7 +7400,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 118048,
@@ -6813,7 +7414,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 422042,
@@ -6825,7 +7427,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 275870,
@@ -6844,7 +7447,10 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Destreza"
+      ]
     },
     {
       "bggId": 247694,
@@ -6863,7 +7469,10 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Destreza"
+      ]
     },
     {
       "bggId": 206915,
@@ -6875,7 +7484,8 @@
       "minPlayers": 3,
       "maxPlayers": 10,
       "game.min_players": 3,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": []
     },
     {
       "bggId": 167791,
@@ -6891,7 +7501,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 328871,
@@ -6903,7 +7514,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 375651,
@@ -6924,7 +7536,10 @@
       "minPlayers": 3,
       "maxPlayers": 8,
       "game.min_players": 3,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": [
+        "Simples"
+      ]
     },
     {
       "bggId": 244522,
@@ -6938,7 +7553,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 474855,
@@ -6951,7 +7567,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 180593,
@@ -6965,7 +7582,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 619,
@@ -6977,7 +7595,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 84876,
@@ -6992,7 +7611,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 256980,
@@ -7004,7 +7624,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Kids"
+      ]
     },
     {
       "bggId": 284083,
@@ -7018,7 +7641,10 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Amigável"
+      ]
     },
     {
       "bggId": 249381,
@@ -7030,7 +7656,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 314421,
@@ -7042,7 +7669,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 411567,
@@ -7057,7 +7685,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 450539,
@@ -7069,7 +7698,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 361381,
@@ -7081,7 +7711,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 350933,
@@ -7093,7 +7724,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 436215,
@@ -7106,7 +7738,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 319966,
@@ -7120,7 +7753,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 823,
@@ -7132,7 +7766,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 421006,
@@ -7147,7 +7782,10 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 436217,
@@ -7161,7 +7799,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 429293,
@@ -7175,7 +7814,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 448271,
@@ -7187,7 +7827,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 181687,
@@ -7199,7 +7840,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 217372,
@@ -7213,7 +7855,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Corrida"
+      ]
     },
     {
       "bggId": 227224,
@@ -7228,7 +7873,10 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 41114,
@@ -7240,7 +7888,8 @@
       "minPlayers": 5,
       "maxPlayers": 10,
       "game.min_players": 5,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": []
     },
     {
       "bggId": 385529,
@@ -7254,7 +7903,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 439983,
@@ -7266,7 +7916,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 371942,
@@ -7282,7 +7933,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 368058,
@@ -7294,7 +7946,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 408547,
@@ -7308,7 +7961,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 453282,
@@ -7320,7 +7974,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 291845,
@@ -7333,7 +7988,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 182028,
@@ -7345,7 +8001,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 503,
@@ -7357,7 +8014,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 9209,
@@ -7383,7 +8041,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 288679,
@@ -7398,7 +8057,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 14996,
@@ -7420,7 +8080,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 276894,
@@ -7437,7 +8098,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 54,
@@ -7450,7 +8112,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 462479,
@@ -7462,7 +8125,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 295192,
@@ -7475,7 +8139,10 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Destreza"
+      ]
     },
     {
       "bggId": 321277,
@@ -7487,7 +8154,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 291508,
@@ -7499,7 +8167,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 163967,
@@ -7512,7 +8181,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 265736,
@@ -7524,7 +8194,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 123540,
@@ -7537,7 +8208,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 300905,
@@ -7549,7 +8221,8 @@
       "minPlayers": 4,
       "maxPlayers": 9,
       "game.min_players": 4,
-      "game.max_players": 9
+      "game.max_players": 9,
+      "suggestionCategory": []
     },
     {
       "bggId": 434654,
@@ -7565,7 +8238,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 352454,
@@ -7579,7 +8253,8 @@
       "minPlayers": 1,
       "maxPlayers": 8,
       "game.min_players": 1,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 283864,
@@ -7591,7 +8266,8 @@
       "minPlayers": 1,
       "maxPlayers": 8,
       "game.min_players": 1,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 334717,
@@ -7604,7 +8280,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 436572,
@@ -7616,7 +8293,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 352515,
@@ -7640,7 +8318,11 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Simples",
+        "Amigável"
+      ]
     },
     {
       "bggId": 248702,
@@ -7652,7 +8334,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 453767,
@@ -7664,7 +8347,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 16992,
@@ -7682,7 +8366,8 @@
       "minPlayers": 2,
       "maxPlayers": 8,
       "game.min_players": 2,
-      "game.max_players": 8
+      "game.max_players": 8,
+      "suggestionCategory": []
     },
     {
       "bggId": 318556,
@@ -7694,7 +8379,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 270168,
@@ -7706,7 +8392,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 156878,
@@ -7719,7 +8406,10 @@
       "minPlayers": 2,
       "maxPlayers": 10,
       "game.min_players": 2,
-      "game.max_players": 10
+      "game.max_players": 10,
+      "suggestionCategory": [
+        "Destreza"
+      ]
     },
     {
       "bggId": 16986,
@@ -7737,7 +8427,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 118568,
@@ -7750,7 +8441,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 433891,
@@ -7762,7 +8454,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 328211,
@@ -7775,7 +8468,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 323262,
@@ -7788,7 +8482,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 205477,
@@ -7800,7 +8495,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 334065,
@@ -7813,7 +8509,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 241724,
@@ -7825,7 +8522,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 194690,
@@ -7837,7 +8535,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 180020,
@@ -7853,7 +8552,10 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": [
+        "Grupos"
+      ]
     },
     {
       "bggId": 183394,
@@ -7866,7 +8568,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 462369,
@@ -7878,7 +8581,8 @@
       "minPlayers": null,
       "maxPlayers": null,
       "game.min_players": null,
-      "game.max_players": null
+      "game.max_players": null,
+      "suggestionCategory": []
     },
     {
       "bggId": 8195,
@@ -7890,7 +8594,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 355483,
@@ -7906,7 +8611,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 249259,
@@ -7918,7 +8624,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 209641,
@@ -7930,7 +8637,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 396618,
@@ -7943,7 +8651,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 262543,
@@ -7960,7 +8669,8 @@
       "minPlayers": 2,
       "maxPlayers": 12,
       "game.min_players": 2,
-      "game.max_players": 12
+      "game.max_players": 12,
+      "suggestionCategory": []
     },
     {
       "bggId": 233867,
@@ -7973,7 +8683,8 @@
       "minPlayers": 1,
       "maxPlayers": 100,
       "game.min_players": 1,
-      "game.max_players": 100
+      "game.max_players": 100,
+      "suggestionCategory": []
     },
     {
       "bggId": 437167,
@@ -7985,7 +8696,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 437166,
@@ -7997,7 +8709,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 449137,
@@ -8010,7 +8723,8 @@
       "minPlayers": 2,
       "maxPlayers": 6,
       "game.min_players": 2,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 266192,
@@ -8031,7 +8745,10 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Complexo"
+      ]
     },
     {
       "bggId": 473508,
@@ -8046,7 +8763,11 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": [
+        "Simples",
+        "Médio"
+      ]
     },
     {
       "bggId": 1465,
@@ -8058,7 +8779,8 @@
       "minPlayers": 3,
       "maxPlayers": 6,
       "game.min_players": 3,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 400366,
@@ -8070,7 +8792,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 410201,
@@ -8084,7 +8807,8 @@
       "minPlayers": 1,
       "maxPlayers": 5,
       "game.min_players": 1,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 244114,
@@ -8096,7 +8820,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 423231,
@@ -8108,7 +8833,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 83197,
@@ -8120,7 +8846,8 @@
       "minPlayers": 3,
       "maxPlayers": 5,
       "game.min_players": 3,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 424219,
@@ -8134,7 +8861,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Duplas"
+      ]
     },
     {
       "bggId": 374458,
@@ -8146,7 +8876,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 224710,
@@ -8159,7 +8890,8 @@
       "minPlayers": 1,
       "maxPlayers": 6,
       "game.min_players": 1,
-      "game.max_players": 6
+      "game.max_players": 6,
+      "suggestionCategory": []
     },
     {
       "bggId": 256952,
@@ -8174,7 +8906,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Kids"
+      ]
     },
     {
       "bggId": 368061,
@@ -8186,7 +8921,8 @@
       "minPlayers": 3,
       "maxPlayers": 7,
       "game.min_players": 3,
-      "game.max_players": 7
+      "game.max_players": 7,
+      "suggestionCategory": []
     },
     {
       "bggId": 406291,
@@ -8198,7 +8934,10 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": [
+        "Médio"
+      ]
     },
     {
       "bggId": 217335,
@@ -8210,7 +8949,8 @@
       "minPlayers": 2,
       "maxPlayers": 5,
       "game.min_players": 2,
-      "game.max_players": 5
+      "game.max_players": 5,
+      "suggestionCategory": []
     },
     {
       "bggId": 255680,
@@ -8222,7 +8962,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 365717,
@@ -8234,7 +8975,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 1653,
@@ -8246,7 +8988,8 @@
       "minPlayers": 2,
       "maxPlayers": 2,
       "game.min_players": 2,
-      "game.max_players": 2
+      "game.max_players": 2,
+      "suggestionCategory": []
     },
     {
       "bggId": 153422,
@@ -8258,7 +9001,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 1205,
@@ -8270,7 +9014,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 472021,
@@ -8282,7 +9027,8 @@
       "minPlayers": 2,
       "maxPlayers": 4,
       "game.min_players": 2,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     },
     {
       "bggId": 307002,
@@ -8294,7 +9040,8 @@
       "minPlayers": 1,
       "maxPlayers": 4,
       "game.min_players": 1,
-      "game.max_players": 4
+      "game.max_players": 4,
+      "suggestionCategory": []
     }
   ]
 }

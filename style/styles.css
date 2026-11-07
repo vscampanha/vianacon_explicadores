@@ -260,14 +260,33 @@ body.dark-mode .difficulty-unknown {
   background: rgba(100, 116, 139, 0.2);
 }
 
-.difficulty-filters {
-  margin-top: 16px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
+.players-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 52px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1;
+  background: rgba(56, 103, 245, 0.12);
+  color: var(--accent);
+  border: 1px solid rgba(56, 103, 245, 0.18);
 }
 
-.difficulty-filter {
+body.dark-mode .players-badge {
+  background: rgba(116, 160, 255, 0.12);
+  border-color: rgba(116, 160, 255, 0.2);
+}
+
+.filter-toolbar {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 14px;
+}
+
+.global-all-filter {
   appearance: none;
   border: 1px solid var(--border);
   background: var(--panel-strong);
@@ -276,85 +295,143 @@ body.dark-mode .difficulty-unknown {
   padding: 7px 12px;
   font-size: 0.8rem;
   font-weight: 700;
+  line-height: 1;
   cursor: pointer;
   transition: all 0.2s ease;
 }
 
-.difficulty-filter.active {
+.global-all-filter.active {
   background: var(--accent-soft);
   border-color: rgba(56, 103, 245, 0.4);
   color: var(--accent);
 }
 
-.filter-light-green.active {
-  background: rgba(50, 205, 50, 0.18);
-  border-color: rgba(50, 205, 50, 0.35);
-  color: #1d6f2d;
-}
-
-.filter-green.active {
-  background: rgba(34, 197, 94, 0.18);
-  border-color: rgba(34, 197, 94, 0.35);
-  color: #166534;
-}
-
-.filter-orange.active {
-  background: rgba(251, 146, 60, 0.18);
-  border-color: rgba(251, 146, 60, 0.35);
-  color: #9a4d00;
-}
-
-.filter-yellow.active {
-  background: rgba(250, 204, 21, 0.2);
-  border-color: rgba(250, 204, 21, 0.45);
-  color: #7a5a00;
-}
-
-.filter-red.active {
-  background: rgba(239, 68, 68, 0.18);
-  border-color: rgba(239, 68, 68, 0.35);
-  color: #991b1b;
-}
-
-body.dark-mode .filter-light-green.active {
-  color: #b9f5c5;
-}
-
-body.dark-mode .filter-green.active {
-  color: #d1fae5;
-}
-
-body.dark-mode .filter-yellow.active {
-  color: #fef3c7;
-}
-
-body.dark-mode .filter-orange.active {
-  color: #fed7aa;
-}
-
-body.dark-mode .filter-red.active {
-  color: #fecaca;
-}
-
-.players-badge {
-  display: inline-flex;
+.difficulty-filters,
+.category-filters {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
   align-items: center;
-  justify-content: center;
-  min-width: 54px;
-  padding: 4px 8px;
-  border-radius: 999px;
-  background: rgba(56, 103, 245, 0.12);
-  color: var(--accent);
-  border: 1px solid rgba(56, 103, 245, 0.18);
-  font-size: 0.72rem;
-  font-weight: 700;
-  line-height: 1;
 }
 
-body.dark-mode .players-badge {
-  background: rgba(116, 160, 255, 0.14);
-  border-color: rgba(116, 160, 255, 0.2);
+.difficulty-filter,
+.category-filter {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--panel-strong);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.2;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.difficulty-filter.active,
+.category-filter.active {
+  background: var(--accent-soft);
+  border-color: rgba(56, 103, 245, 0.4);
   color: var(--accent);
+}
+
+.category-filter-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+
+.category-filter-group label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--text-soft);
+}
+
+.category-select {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--panel-strong);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 7px 32px 7px 12px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.2;
+  cursor: pointer;
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--text-soft) 50%),
+    linear-gradient(135deg, var(--text-soft) 50%, transparent 50%);
+  background-position:
+    calc(100% - 16px) calc(50% - 2px),
+    calc(100% - 11px) calc(50% - 2px);
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+}
+
+.filter-light-green {
+  background: rgba(50, 205, 50, 0.18);
+  color: #1d6f2d;
+  border-color: rgba(50, 205, 50, 0.35);
+}
+
+.filter-green {
+  background: rgba(34, 197, 94, 0.18);
+  color: #166534;
+  border-color: rgba(34, 197, 94, 0.35);
+}
+
+.filter-yellow {
+  background: rgba(250, 204, 21, 0.2);
+  color: #7a5a00;
+  border-color: rgba(250, 204, 21, 0.4);
+}
+
+.filter-orange {
+  background: rgba(251, 146, 60, 0.18);
+  color: #9a4d00;
+  border-color: rgba(251, 146, 60, 0.35);
+}
+
+.filter-red {
+  background: rgba(239, 68, 68, 0.18);
+  color: #991b1b;
+  border-color: rgba(239, 68, 68, 0.35);
+}
+
+.difficulty-filter.active {
+  outline: 2px solid rgba(56, 103, 245, 0.45);
+  outline-offset: 0;
+  box-shadow: 0 0 0 1px rgba(56, 103, 245, 0.08);
+}
+
+body.dark-mode .filter-light-green {
+  color: #b9f5c5;
+  background: rgba(34, 197, 94, 0.15);
+}
+
+body.dark-mode .filter-green {
+  color: #d1fae5;
+  background: rgba(22, 163, 74, 0.18);
+}
+
+body.dark-mode .filter-yellow {
+  color: #fef3c7;
+  background: rgba(202, 138, 4, 0.2);
+}
+
+body.dark-mode .filter-orange {
+  color: #fed7aa;
+  background: rgba(249, 115, 22, 0.18);
+}
+
+body.dark-mode .filter-red {
+  color: #fecaca;
+  background: rgba(220, 38, 38, 0.18);
 }
 
 @media (min-width: 700px) {
@@ -369,11 +446,40 @@ body.dark-mode .players-badge {
 
 @media (max-width: 420px) {
   .game-row {
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+
+  .game-row strong {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .players-badge,
+  .difficulty-badge {
+    flex-shrink: 0;
+    align-self: center;
   }
 
   .difficulty-badge {
-    align-self: flex-start;
+    align-self: center;
+  }
+
+  .filter-toolbar {
+    margin-top: 12px;
+  }
+
+  .difficulty-filters,
+  .category-filters {
+    row-gap: 6px;
+  }
+
+  .category-filter-group {
+    margin-top: 12px;
+  }
+
+  .difficulty-filters {
+    row-gap: 6px;
   }
 }
