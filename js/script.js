@@ -34,11 +34,12 @@ function buildCategoryFilters() {
 
   const categories = categoryOrder.filter((category) => uniqueCategories.has(category));
 
-  select.innerHTML = [
+  const options = [
     '<option value="all">All</option>',
     ...categories.map((category) => `<option value="${category}">${category}</option>`),
-  ].join("");
+  ];
 
+  select.innerHTML = options.join("");
   select.value = currentCategoryFilter === "all" || !categories.includes(currentCategoryFilter) ? "all" : currentCategoryFilter;
 
   select.onchange = () => {
@@ -49,11 +50,12 @@ function buildCategoryFilters() {
 }
 
 function syncGlobalResetState() {
-  const resetButton = document.querySelector(".global-all-filter");
-  if (!resetButton) return;
+  const filterButtons = document.querySelectorAll(".difficulty-filter");
 
-  const isAll = currentDifficultyFilter === "all" && currentCategoryFilter === "all";
-  resetButton.classList.toggle("active", isAll);
+  filterButtons.forEach((button) => {
+    const isActive = (button.dataset.filter || "all") === currentDifficultyFilter;
+    button.classList.toggle("active", isActive);
+  });
 
   const categorySelect = document.getElementById("categoryFilter");
   if (categorySelect) {
@@ -64,10 +66,6 @@ function syncGlobalResetState() {
 function resetAllFilters() {
   currentDifficultyFilter = "all";
   currentCategoryFilter = "all";
-
-  document.querySelectorAll(".difficulty-filter").forEach((button) => {
-    button.classList.toggle("active", false);
-  });
 
   const categorySelect = document.getElementById("categoryFilter");
   if (categorySelect) {
@@ -387,11 +385,6 @@ function attachDifficultyFilters() {
       searchGames();
     });
   });
-
-  const resetButton = document.querySelector(".global-all-filter");
-  if (resetButton) {
-    resetButton.addEventListener("click", resetAllFilters);
-  }
 }
 
 function getPlayersLabel(game) {

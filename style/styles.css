@@ -403,6 +403,18 @@ body.dark-mode .players-badge {
   border-color: rgba(239, 68, 68, 0.35);
 }
 
+.filter-default {
+  background: var(--panel-strong);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.filter-default.active {
+  background: var(--accent-soft);
+  border-color: rgba(56, 103, 245, 0.4);
+  color: var(--accent);
+}
+
 .difficulty-filter.active {
   outline: 2px solid rgba(56, 103, 245, 0.45);
   outline-offset: 0;
