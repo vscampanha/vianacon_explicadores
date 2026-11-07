@@ -1,29 +1,60 @@
-# vianacon_explicadores
+# VianaCon Explicadores
 
-# CSV to JSON Converter
+A lightweight static web app for browsing board games by persona, difficulty, and suggestion category.
 
 ## Overview
 
-This project provides a simple web application that allows users to upload a CSV file containing game data, convert the data into JSON format, and download the resulting JSON file. The application uses the Papa Parse library to handle CSV parsing.
+This project displays a curated list of games with:
+
+- game name
+- player count badge
+- difficulty badge
+- assigned personas
+- suggestion categories
+
+The app is built as a static HTML/CSS/JavaScript site and loads its data from `data/games.json`.
 
 ## Features
 
-- **Upload CSV File**: Users can select a CSV file containing game data.
-- **Convert to JSON**: The application reads the CSV file and converts it into a structured JSON format.
-- **Download JSON File**: After conversion, users can download the JSON file directly to their device.
-- **Data Validation**: The application automatically filters out any records that do not have a valid `gameID` or `gameName`.
+- Search games by name
+- Filter by difficulty (`All`, `0-1`, `1-2`, `2-3`, `3-4`, `4-5`)
+- Filter by category via dropdown
+- Show player count and weight metadata per game
+- Mobile-friendly compact layout
+- Light/dark mode toggle
+- GitHub Pages deployment ready
 
-## CSV Format
+## Project Structure
 
-The CSV file should adhere to the following format:
+- `index.html` – app shell and filter controls
+- `js/script.js` – data loading, filtering, rendering, and theme logic
+- `style/styles.css` – layout, colors, badges, and responsive styling
+- `data/games.json` – main game dataset
+- `.github/workflows/pages.yml` – GitHub Pages deployment workflow
 
-- The first row is the header containing the titles for each column.
-- The subsequent rows represent individual game entries.
-- An `x` indicates the presence of a persona associated with that game.
+## Data Format
 
-## Technologies Used
+The app reads a JSON dataset in this shape:
 
-- HTML
-- CSS
-- JavaScript
-- Papa Parse library for CSV parsing
+```json
+{
+  "games": [
+    {
+      "gameName": "Cascadia",
+      "personas": ["João", "Maria"],
+      "gameWeigth": 2.3,
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "suggestionCategory": ["Duplas", "Amigável"]
+    }
+  ]
+}
+```
+
+## Run locally
+
+Open `index.html` directly in a browser, or serve the project with a local static server from the project folder.
+
+## Deployment
+
+The project is configured for GitHub Pages using the workflow in `.github/workflows/pages.yml`.
