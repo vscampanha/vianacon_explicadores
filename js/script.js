@@ -35,17 +35,17 @@ function buildCategoryFilters() {
   const categories = categoryOrder.filter((category) => uniqueCategories.has(category));
 
   select.innerHTML = [
-    '<option value="all" selected>All</option>',
+    '<option value="all">All</option>',
     ...categories.map((category) => `<option value="${category}">${category}</option>`),
   ].join("");
 
-  select.value = currentCategoryFilter === "all" ? "all" : categories.includes(currentCategoryFilter) ? currentCategoryFilter : "all";
+  select.value = currentCategoryFilter === "all" || !categories.includes(currentCategoryFilter) ? "all" : currentCategoryFilter;
 
-  select.addEventListener("change", () => {
+  select.onchange = () => {
     currentCategoryFilter = select.value || "all";
     syncGlobalResetState();
     searchGames();
-  });
+  };
 }
 
 function syncGlobalResetState() {
@@ -54,6 +54,11 @@ function syncGlobalResetState() {
 
   const isAll = currentDifficultyFilter === "all" && currentCategoryFilter === "all";
   resetButton.classList.toggle("active", isAll);
+
+  const categorySelect = document.getElementById("categoryFilter");
+  if (categorySelect) {
+    categorySelect.value = currentCategoryFilter === "all" || !categoryOrder.includes(currentCategoryFilter) ? "all" : currentCategoryFilter;
+  }
 }
 
 function resetAllFilters() {
