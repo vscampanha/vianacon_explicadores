@@ -379,12 +379,16 @@ function attachDifficultyFilters() {
   filterButtons.forEach((button) => {
     button.addEventListener("click", () => {
       currentDifficultyFilter = button.dataset.filter || "all";
-
       filterButtons.forEach((btn) => btn.classList.toggle("active", btn === button));
       syncGlobalResetState();
       searchGames();
     });
   });
+
+  const resetButton = document.querySelector(".global-all-filter");
+  if (resetButton) {
+    resetButton.addEventListener("click", resetAllFilters);
+  }
 }
 
 function getPlayersLabel(game) {
