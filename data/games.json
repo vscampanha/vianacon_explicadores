@@ -39,7 +39,8 @@
         "Carlos Mendes",
         "Márcio",
         "Nuno Castilho",
-        "Vitor Campanhã"
+        "Vitor Campanhã",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.0,
       "minPlayers": 3,
@@ -155,7 +156,8 @@
         "Vitor Campanhã",
         "Joaquim Costa",
         "Francisco Parente",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.38,
       "minPlayers": 2,
@@ -260,7 +262,8 @@
         "Vitor Campanhã",
         "Nuno Cunha",
         "André Silva",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.23,
       "minPlayers": 2,
@@ -736,7 +739,8 @@
       "bggId": 277927,
       "gameName": "Bites",
       "personas": [
-        "Carlos Mendes"
+        "Carlos Mendes",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.48,
       "minPlayers": 2,
@@ -750,7 +754,8 @@
       "gameName": "Block Ness",
       "personas": [
         "Marlene Cunha",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.25,
       "minPlayers": 2,
@@ -942,7 +947,8 @@
       "gameName": "Bunny Kingdom",
       "personas": [
         "Maria João Brito",
-        "Luis Brito"
+        "Luis Brito",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.3,
       "minPlayers": 2,
@@ -986,7 +992,8 @@
         "Nuno Castilho",
         "Ricardo Pires",
         "Joaquim Costa",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.25,
       "minPlayers": 4,
@@ -1079,7 +1086,8 @@
         "Márcio",
         "Maria João Brito",
         "Joaquim Costa",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.5,
       "minPlayers": 2,
@@ -1128,7 +1136,8 @@
       "personas": [
         "Maria João Brito",
         "Marlene Cunha",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.73,
       "minPlayers": 1,
@@ -1328,7 +1337,8 @@
         "Hugo Marques",
         "David Álvarez",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.84,
       "minPlayers": 1,
@@ -1391,7 +1401,8 @@
       "personas": [
         "Carlos Mendes",
         "Marlene Cunha",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.05,
       "minPlayers": 2,
@@ -1415,7 +1426,8 @@
         "Hugo Marques",
         "André Silva",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.28,
       "minPlayers": 3,
@@ -1500,7 +1512,8 @@
         "Pedro Alves",
         "Ricardo Pires",
         "Hugo Marques",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.03,
       "minPlayers": 1,
@@ -1613,7 +1626,8 @@
       "personas": [
         "Maria João Brito",
         "Miguel",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.22,
       "minPlayers": 4,
@@ -1680,7 +1694,8 @@
         "Francisco Parente",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.25,
       "minPlayers": 2,
@@ -1767,7 +1782,8 @@
         "Vitor Campanhã",
         "Joaquim Costa",
         "Nuno Cunha",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.27,
       "minPlayers": 2,
@@ -1785,7 +1801,8 @@
         "Jeltje van Baren",
         "Maria João Brito",
         "Nuno Castilho",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.83,
       "minPlayers": 2,
@@ -1875,7 +1892,8 @@
         "Miguel",
         "Pedro Alves",
         "Ricardo Pires",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.0,
       "minPlayers": 2,
@@ -1903,7 +1921,8 @@
       "personas": [
         "Afonso",
         "Joaquim Costa",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.41,
       "minPlayers": 2,
@@ -1918,7 +1937,8 @@
       "personas": [
         "Carlos Mendes",
         "Miguel",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.3,
       "minPlayers": 2,
@@ -1945,7 +1965,8 @@
       "bggId": 393429,
       "gameName": "Critter Kitchen",
       "personas": [
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.45,
       "minPlayers": 1,
@@ -1961,7 +1982,8 @@
         "Afonso",
         "Jeltje van Baren",
         "Ricardo Pires",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.23,
       "minPlayers": 2,
@@ -1976,7 +1998,8 @@
       "personas": [
         "Afonso",
         "Miguel",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.09,
       "minPlayers": 2,
@@ -2066,7 +2089,8 @@
       "bggId": 298069,
       "gameName": "Cubitos",
       "personas": [
-        "Miguel"
+        "Miguel",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.17,
       "minPlayers": 2,
@@ -2142,7 +2166,8 @@
         "Marlene Cunha",
         "Miguel",
         "Pedro Alves",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.1,
       "minPlayers": 1,
@@ -2158,7 +2183,8 @@
         "Miguel",
         "Pedro Alves",
         "Ricardo Pires",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.19,
       "minPlayers": 2,
@@ -2218,7 +2244,8 @@
         "Miguel",
         "Joaquim Costa",
         "Nuno Cunha",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.11,
       "minPlayers": 3,
@@ -2299,7 +2326,8 @@
       "gameName": "Dive",
       "personas": [
         "Afonso",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.44,
       "minPlayers": 1,
@@ -2323,7 +2351,8 @@
         "Nuno Cunha",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.19,
       "minPlayers": 3,
@@ -2346,7 +2375,8 @@
         "Ricardo Pires",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.09,
       "minPlayers": 3,
@@ -2368,7 +2398,8 @@
         "Ricardo Pires",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.16,
       "minPlayers": 3,
@@ -2414,7 +2445,8 @@
       "personas": [
         "Marlene Cunha",
         "Pedro Alves",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.63,
       "minPlayers": 1,
@@ -2429,7 +2461,8 @@
       "personas": [
         "Carlos Mendes",
         "Ricardo Pires",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.73,
       "minPlayers": 2,
@@ -2533,7 +2566,8 @@
         "Miguel",
         "Pedro Alves",
         "Joaquim Costa",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.02,
       "minPlayers": 2,
@@ -2721,7 +2755,8 @@
       "bggId": 453164,
       "gameName": "Epic Melee",
       "personas": [
-        "Carlos Mendes"
+        "Carlos Mendes",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.5,
       "minPlayers": 3,
@@ -2762,7 +2797,8 @@
       "bggId": 424981,
       "gameName": "Eternal Decks",
       "personas": [
-        "Francisco Parente"
+        "Francisco Parente",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.83,
       "minPlayers": 1,
@@ -2824,7 +2860,8 @@
       "personas": [
         "Jeltje van Baren",
         "Nuno Castilho",
-        "Francisco Parente"
+        "Francisco Parente",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.08,
       "minPlayers": 2,
@@ -2863,7 +2900,8 @@
         "Joaquim Costa",
         "Nuno Cunha",
         "Hugo Marques",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.13,
       "minPlayers": 2,
@@ -2915,7 +2953,8 @@
       "gameName": "Final Titan",
       "personas": [
         "Pedro Alves",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.86,
       "minPlayers": 1,
@@ -2964,7 +3003,8 @@
         "Pedro Alves",
         "Joaquim Costa",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.19,
       "minPlayers": 1,
@@ -3034,7 +3074,8 @@
         "Francisco Parente",
         "David Álvarez",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.04,
       "minPlayers": 3,
@@ -3056,7 +3097,8 @@
         "Ricardo Pires",
         "Vitor Campanhã",
         "Joaquim Costa",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.04,
       "minPlayers": 3,
@@ -3213,7 +3255,8 @@
       "gameName": "FUSE",
       "personas": [
         "Afonso",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.66,
       "minPlayers": 1,
@@ -3253,7 +3296,8 @@
       "bggId": 392825,
       "gameName": "Garden Guests",
       "personas": [
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.5,
       "minPlayers": 2,
@@ -3458,7 +3502,8 @@
         "Jeltje van Baren",
         "Maria João Brito",
         "Marlene Cunha",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.69,
       "minPlayers": 2,
@@ -3473,7 +3518,8 @@
       "personas": [
         "Afonso",
         "Maria João Brito",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.0,
       "minPlayers": 2,
@@ -3486,7 +3532,8 @@
       "bggId": 356909,
       "gameName": "Hand-to-Hand Wombat",
       "personas": [
-        "Afonso"
+        "Afonso",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.12,
       "minPlayers": 3,
@@ -3505,7 +3552,8 @@
         "Ricardo Pires",
         "Hugo Marques",
         "André Silva",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.06,
       "minPlayers": 3,
@@ -3589,7 +3637,8 @@
       "gameName": "Hidden Leaders",
       "personas": [
         "Vitor Campanhã",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.84,
       "minPlayers": 2,
@@ -3602,7 +3651,8 @@
       "bggId": 359527,
       "gameName": "Hidden Leaders (Kickstarter Edition)",
       "personas": [
-        "Vitor Campanhã"
+        "Vitor Campanhã",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.86,
       "minPlayers": 2,
@@ -3633,7 +3683,8 @@
         "Jeltje van Baren",
         "Márcio",
         "Marlene Cunha",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.31,
       "minPlayers": 2,
@@ -3646,7 +3697,8 @@
       "bggId": 284742,
       "gameName": "Honey Buzz",
       "personas": [
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.74,
       "minPlayers": 1,
@@ -3692,7 +3744,8 @@
         "Pedro Alves",
         "Ricardo Pires",
         "Vitor Campanhã",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.22,
       "minPlayers": 2,
@@ -3720,7 +3773,8 @@
       "bggId": 232079,
       "gameName": "How to Rob a Bank",
       "personas": [
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.83,
       "minPlayers": 2,
@@ -3742,7 +3796,8 @@
         "Joaquim Costa",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.06,
       "minPlayers": 3,
@@ -3786,7 +3841,8 @@
       "bggId": 191894,
       "gameName": "Imagine",
       "personas": [
-        "Afonso"
+        "Afonso",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.06,
       "minPlayers": 3,
@@ -3929,7 +3985,8 @@
         "Miguel",
         "Pedro Alves",
         "Ricardo Pires",
-        "Vitor Campanhã"
+        "Vitor Campanhã",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.01,
       "minPlayers": 2,
@@ -4064,7 +4121,8 @@
         "Nuno Cunha",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.03,
       "minPlayers": 3,
@@ -4079,7 +4137,8 @@
       "bggId": 320390,
       "gameName": "Kabuto Sumo",
       "personas": [
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.18,
       "minPlayers": 2,
@@ -4219,7 +4278,8 @@
         "Carlos Mendes",
         "Pedro Alves",
         "Ricardo Pires",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.05,
       "minPlayers": 2,
@@ -4306,7 +4366,8 @@
       "gameName": "L.L.A.M.A.",
       "personas": [
         "Márcio",
-        "Nuno Cunha"
+        "Nuno Cunha",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.05,
       "minPlayers": 2,
@@ -4325,7 +4386,8 @@
         "Luis Brito",
         "Marlene Cunha",
         "Joaquim Costa",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.15,
       "minPlayers": 3,
@@ -4439,7 +4501,8 @@
         "Afonso",
         "Márcio",
         "Pedro Alves",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.12,
       "minPlayers": 1,
@@ -4562,7 +4625,8 @@
         "Miguel",
         "Pedro Alves",
         "Joaquim Costa",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.18,
       "minPlayers": 2,
@@ -4639,7 +4703,8 @@
       "personas": [
         "Márcio",
         "Nuno Castilho",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.75,
       "minPlayers": 1,
@@ -4660,7 +4725,8 @@
         "Ricardo Pires",
         "Vitor Campanhã",
         "Joaquim Costa",
-        "Francisco Parente"
+        "Francisco Parente",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.18,
       "minPlayers": 2,
@@ -4900,7 +4966,8 @@
         "Carlos Mendes",
         "Marlene Cunha",
         "Nuno Castilho",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.11,
       "minPlayers": 1,
@@ -5016,7 +5083,8 @@
         "Carlos Mendes",
         "Marlene Cunha",
         "Miguel",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.19,
       "minPlayers": 2,
@@ -5215,7 +5283,8 @@
         "Joaquim Costa",
         "André Silva",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.48,
       "minPlayers": 2,
@@ -5458,7 +5527,8 @@
         "Francisco Parente",
         "André Silva",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.39,
       "minPlayers": 2,
@@ -5577,7 +5647,8 @@
         "Ricardo Pires",
         "Joaquim Costa",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.07,
       "minPlayers": 4,
@@ -5742,7 +5813,8 @@
         "Marlene Cunha",
         "Pedro Alves",
         "Pedro Ribeiro",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.15,
       "minPlayers": 2,
@@ -5784,7 +5856,8 @@
       "personas": [
         "Maria João Brito",
         "Marlene Cunha",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.87,
       "minPlayers": 1,
@@ -5857,7 +5930,8 @@
         "Carlos Mendes",
         "Ricardo Pires",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.56,
       "minPlayers": 1,
@@ -5870,7 +5944,8 @@
       "bggId": 431994,
       "gameName": "Propolis",
       "personas": [
-        "Miguel"
+        "Miguel",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.12,
       "minPlayers": 1,
@@ -5908,7 +5983,8 @@
         "Ricardo Pires",
         "Vitor Campanhã",
         "Joaquim Costa",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.88,
       "minPlayers": 2,
@@ -5950,7 +6026,8 @@
       "personas": [
         "Márcio",
         "Miguel",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.94,
       "minPlayers": 2,
@@ -5965,7 +6042,8 @@
       "personas": [
         "Afonso",
         "Ricardo Pires",
-        "Nuno Cunha"
+        "Nuno Cunha",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.86,
       "minPlayers": 2,
@@ -6010,7 +6088,8 @@
         "Afonso",
         "Márcio",
         "Miguel",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.82,
       "minPlayers": 2,
@@ -6024,7 +6103,8 @@
       "gameName": "Quoridor Pac-Man",
       "personas": [
         "Márcio",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.44,
       "minPlayers": 2,
@@ -6079,7 +6159,8 @@
       "bggId": 251678,
       "gameName": "Railroad Ink: Blazing Red Edition",
       "personas": [
-        "Marlene Cunha"
+        "Marlene Cunha",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.47,
       "minPlayers": 1,
@@ -6148,7 +6229,8 @@
       "personas": [
         "Miguel",
         "Pedro Alves",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.98,
       "minPlayers": 2,
@@ -6164,7 +6246,8 @@
       "gameName": "Red7",
       "personas": [
         "Afonso",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.7,
       "minPlayers": 2,
@@ -6256,7 +6339,8 @@
         "Miguel",
         "Pedro Alves",
         "Ricardo Pires",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.02,
       "minPlayers": 2,
@@ -6406,7 +6490,8 @@
         "Marlene Cunha",
         "Vitor Campanhã",
         "Joaquim Costa",
-        "Francisco Parente"
+        "Francisco Parente",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.72,
       "minPlayers": 2,
@@ -6548,7 +6633,8 @@
       "bggId": 298638,
       "gameName": "Sheriff of Nottingham: 2nd Edition",
       "personas": [
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.71,
       "minPlayers": 3,
@@ -6644,7 +6730,8 @@
         "Joaquim Costa",
         "Francisco Parente",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.04,
       "minPlayers": 2,
@@ -6885,7 +6972,8 @@
         "Hugo Marques",
         "David Álvarez",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.77,
       "minPlayers": 2,
@@ -7022,7 +7110,8 @@
         "Maria João Brito",
         "Luis Brito",
         "Ricardo Pires",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.23,
       "minPlayers": 3,
@@ -7180,7 +7269,8 @@
         "Nuno Castilho",
         "Pedro Alves",
         "Ricardo Pires",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.49,
       "minPlayers": 2,
@@ -7198,7 +7288,8 @@
         "Nuno Castilho",
         "Pedro Alves",
         "Ricardo Pires",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.7,
       "minPlayers": 2,
@@ -7221,7 +7312,8 @@
         "Joaquim Costa",
         "André Silva",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.16,
       "minPlayers": 2,
@@ -7241,7 +7333,8 @@
         "Pedro Alves",
         "Ricardo Pires",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.03,
       "minPlayers": 2,
@@ -7257,7 +7350,8 @@
         "Maria João Brito",
         "Marlene Cunha",
         "Pedro Alves",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.0,
       "minPlayers": 2,
@@ -7441,7 +7535,8 @@
         "Miguel",
         "Pedro Alves",
         "Ricardo Pires",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.25,
       "minPlayers": 3,
@@ -7463,7 +7558,8 @@
         "Miguel",
         "Pedro Alves",
         "Ricardo Pires",
-        "Hugo Marques"
+        "Hugo Marques",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.33,
       "minPlayers": 3,
@@ -7530,7 +7626,8 @@
         "Ricardo Pires",
         "Hugo Marques",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.06,
       "minPlayers": 3,
@@ -7561,7 +7658,8 @@
       "gameName": "The Beat: Rockstars of the Galaxy",
       "personas": [
         "Carlos Mendes",
-        "André Silva"
+        "André Silva",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.0,
       "minPlayers": 2,
@@ -7635,7 +7733,8 @@
       "personas": [
         "Miguel",
         "Pedro Alves",
-        "Francisco Parente"
+        "Francisco Parente",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.97,
       "minPlayers": 2,
@@ -7747,7 +7846,8 @@
       "personas": [
         "Afonso",
         "Pedro Alves",
-        "Ricardo Pires"
+        "Ricardo Pires",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.16,
       "minPlayers": 2,
@@ -7776,7 +7876,8 @@
         "Miguel",
         "Pedro Alves",
         "Vitor Campanhã",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.07,
       "minPlayers": 2,
@@ -7897,7 +7998,8 @@
       "personas": [
         "Maria João Brito",
         "Luis Brito",
-        "Francisco Parente"
+        "Francisco Parente",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.14,
       "minPlayers": 2,
@@ -7955,7 +8057,8 @@
       "personas": [
         "Carlos Mendes",
         "Miguel",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.33,
       "minPlayers": 2,
@@ -8133,7 +8236,8 @@
       "gameName": "Tinderblox",
       "personas": [
         "Afonso",
-        "Miguel"
+        "Miguel",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.0,
       "minPlayers": 2,
@@ -8202,7 +8306,8 @@
       "gameName": "Tokaido",
       "personas": [
         "Maria João Brito",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.74,
       "minPlayers": 1,
@@ -8312,7 +8417,8 @@
         "Francisco Parente",
         "David Álvarez",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.07,
       "minPlayers": 3,
@@ -8360,7 +8466,8 @@
         "Miguel",
         "Nuno Castilho",
         "Pedro Alves",
-        "Nuno Cunha"
+        "Nuno Cunha",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.22,
       "minPlayers": 2,
@@ -8400,7 +8507,8 @@
       "gameName": "tummple!",
       "personas": [
         "Afonso",
-        "Miguel"
+        "Miguel",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.0,
       "minPlayers": 2,
@@ -8421,7 +8529,8 @@
         "Luis Brito",
         "Pedro Alves",
         "Nuno Cunha",
-        "David Álvarez"
+        "David Álvarez",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.5,
       "minPlayers": 1,
@@ -8462,7 +8571,8 @@
       "gameName": "Vegetable Stock",
       "personas": [
         "Carlos Mendes",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.04,
       "minPlayers": 2,
@@ -8605,7 +8715,8 @@
         "Carlos Mendes",
         "Maria João Brito",
         "Luis Brito",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.6,
       "minPlayers": 1,
@@ -8663,7 +8774,8 @@
         "Miguel",
         "Pedro Alves",
         "Vitor Campanhã",
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.1,
       "minPlayers": 2,
@@ -8717,7 +8829,8 @@
       "gameName": "Whirly Derby",
       "personas": [
         "Afonso",
-        "Pedro Alves"
+        "Pedro Alves",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.09,
       "minPlayers": 2,
@@ -8900,7 +9013,8 @@
         "Marlene Cunha",
         "Pedro Alves",
         "Mariana",
-        "Juari"
+        "Juari",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.38,
       "minPlayers": 2,
@@ -8915,7 +9029,8 @@
       "bggId": 368061,
       "gameName": "Zoo Vadis",
       "personas": [
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 2.09,
       "minPlayers": 3,
@@ -8982,7 +9097,8 @@
       "bggId": 1653,
       "gameName": "Coup",
       "personas": [
-        "Joaquim Costa"
+        "Joaquim Costa",
+        "Pedro Nunes"
       ],
       "gameWeigth": 1.87,
       "minPlayers": 2,
